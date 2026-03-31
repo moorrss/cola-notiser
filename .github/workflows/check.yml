@@ -26,7 +26,7 @@ jobs:
           def is_cola(text):
               return any(kw in text.lower() for kw in KEYWORDS)
 
-          def fetch(dealer_id, store, query):
+          def fetch_offers(dealer_id, store, query):
               url = f"https://squid-api.tjek.com/v2/offers?dealer_id={dealer_id}&query={query}&limit=50"
               try:
                   r = requests.get(url, headers={"Accept": "application/json"}, timeout=10)
@@ -55,16 +55,63 @@ jobs:
                       })
                   return offers
               except Exception as e:
-                  print(f"Fel {store}/{query}: {e}")
+                  print(f"Fel offers {store}/{query}: {e}")
+                  return []
+
+          def fetch_catalog(dealer_id, store):
+              """Genomsök alltid katalogen — Tjek indexerar inte alla produkter i sök-API:t"""
+              try:
+                  r = requests.get(
+                      f"https://squid-api.tjek.com/v2/catalogs?dealer_id={dealer_id}&order_by=-publication_date&limit=1",
+                      headers={"Accept": "application/json"}, timeout=10)
+                  if not r.ok: return []
+                  cats = r.json()
+                  if not cats: return []
+                  cat       = cats[0]
+                  cat_id    = cat.get("id", "")
+                  run_from  = cat.get("run_from", "")
+                  run_till  = cat.get("run_till", "")
+                  if not cat_id: return []
+
+                  r2 = requests.get(
+                      f"https://squid-api.tjek.com/v2/catalogs/{cat_id}/hotspots",
+                      headers={"Accept": "application/json"}, timeout=10)
+                  if not r2.ok: return []
+
+                  offers = []
+                  for hs in r2.json():
+                      offer = hs.get("offer") or {}
+                      heading = offer.get("heading", "")
+                      desc    = offer.get("description", "")
+                      if not is_cola(f"{heading} {desc}"): continue
+                      offers.append({
+                          "store":       store,
+                          "product":     heading,
+                          "description": desc,
+                          "price":       None,
+                          "image":       None,
+                          "validFrom":   run_from,
+                          "validTo":     run_till,
+                          "key":         f"{store}:{heading}:{run_from[:10]}"
+                      })
+                  return offers
+              except Exception as e:
+                  print(f"Fel katalog {store}: {e}")
                   return []
 
           all_offers, seen = [], set()
           for store, dealer_id in STORES.items():
+              # Strategi 1: sök-API
               for q in ["coca+cola", "pepsi+max"]:
-                  for o in fetch(dealer_id, store, q):
+                  for o in fetch_offers(dealer_id, store, q):
                       if o["key"] not in seen:
                           seen.add(o["key"])
                           all_offers.append(o)
+              # Strategi 2: katalog (körs alltid)
+              for o in fetch_catalog(dealer_id, store):
+                  if o["key"] not in seen:
+                      seen.add(o["key"])
+                      all_offers.append(o)
 
           result = {"lastChecked": datetime.utcnow().isoformat() + "Z", "offers": all_offers}
           with open("offers.json", "w", encoding="utf-8") as f:
