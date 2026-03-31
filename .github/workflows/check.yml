@@ -21,7 +21,19 @@ jobs:
           from datetime import datetime
 
           KEYWORDS = ["coca-cola", "coca cola", "cocacola", "coke", "pepsi max", "pepsimax", "pepsi"]
-          STORES   = {"Lidl": "03a7b3", "Supergrossen": "34b3Rq"}
+          STORES = {
+              "Lidl":         "03a7b3",
+              "Supergrossen": "34b3Rq",
+              "Willys":       "c371GA",
+              "Willys Hemma": "cJPBvX",
+              "ICA Kvantum":  "9cb4wA",
+              "ICA Supermarket": "1d1dvA",
+              "ICA Nära":     "20d4lA",
+              "Coop":         "63eeoD",
+              "Coop X:-TRA":  "IHDhNs",
+              "Hemköp":       "d9b6XA",
+              "City Gross":   "bfe5hA",
+          }
           BROWSER_HEADERS = {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
               "Accept": "text/html,application/json,*/*",
@@ -104,44 +116,6 @@ jobs:
                   print(f"Fel katalog {store}: {e}")
                   return []
 
-          def fetch_willys():
-              try:
-                  import re
-                  urls = [
-                      "https://www.willys.se/search/resources/store/willys-store/searchresult?q=coca+cola&type=OFFER&size=20",
-                      "https://www.willys.se/search/resources/store/willys-store/searchresult?q=pepsi&type=OFFER&size=20",
-                  ]
-                  offers = []
-                  for url in urls:
-                      r = requests.get(url, headers=BROWSER_HEADERS, timeout=15)
-                      if not r.ok:
-                          print(f"Willys HTTP {r.status_code} för {url}")
-                          continue
-                      data = r.json()
-                      results = data.get("results", []) or data.get("products", []) or []
-                      for item in results:
-                          name = item.get("name", "") or item.get("title", "")
-                          desc = item.get("description", "") or item.get("priceValue", "")
-                          if not is_cola(f"{name} {desc}"): continue
-                          price = item.get("price", {}) or {}
-                          price_str = str(price.get("value", "") or price.get("formattedValue", "") or "")
-                          run_from = item.get("startDate", "") or ""
-                          run_till = item.get("endDate", "") or ""
-                          offers.append({
-                              "store": "Willys",
-                              "product": name,
-                              "description": desc,
-                              "price": price_str or None,
-                              "image": None,
-                              "validFrom": run_from,
-                              "validTo": run_till,
-                              "key": f"Willys:{name}:{run_from[:10]}"
-                          })
-                  return offers
-              except Exception as e:
-                  print(f"Fel Willys: {e}")
-                  return []
-
           all_offers, seen = [], set()
           for store, dealer_id in STORES.items():
               # Strategi 1: sök-API
@@ -156,11 +130,6 @@ jobs:
                       seen.add(o["key"])
                       all_offers.append(o)
 
-          # Willys
-          for o in fetch_willys():
-              if o["key"] not in seen:
-                  seen.add(o["key"])
-                  all_offers.append(o)
 
           result = {"lastChecked": datetime.utcnow().isoformat() + "Z", "offers": all_offers}
           with open("offers.json", "w", encoding="utf-8") as f:
