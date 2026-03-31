@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#111111">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title>Cola Notiser</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #111;
+      color: #fff;
+      min-height: 100dvh;
+      padding: 0 0 40px;
+    }
+
+    header {
+      background: #1a1a1a;
+      border-bottom: 1px solid #2a2a2a;
+      padding: 20px 20px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .header-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+
+    h1 span { color: #E8000C; }
+
+    #last-checked {
+      font-size: 12px;
+      color: #555;
+      margin-top: 6px;
+    }
+
+    .btn {
+      background: #E8000C;
+      color: #fff;
+      border: none;
+      border-radius: 12px;
+      padding: 10px 18px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity .15s;
+      white-space: nowrap;
+    }
+    .btn:active { opacity: .7; }
+    .btn:disabled { opacity: .4; cursor: default; }
+
+    .btn-outline {
+      background: transparent;
+      border: 1.5px solid #333;
+      color: #aaa;
+      border-radius: 12px;
+      padding: 9px 16px;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: border-color .15s, color .15s;
+    }
+    .btn-outline:hover { border-color: #E8000C; color: #fff; }
+    .btn-outline.active { border-color: #4CAF50; color: #4CAF50; }
+
+    main { padding: 16px; max-width: 600px; margin: 0 auto; }
+
+    #status {
+      text-align: center;
+      color: #555;
+      font-size: 14px;
+      padding: 32px 0 16px;
+      line-height: 1.6;
+    }
+
+    #status.loading { color: #888; }
+    #status.error   { color: #E8000C; }
+
+    .spinner {
+      width: 28px; height: 28px;
+      border: 3px solid #333;
+      border-top-color: #E8000C;
+      border-radius: 50%;
+      animation: spin .7s linear infinite;
+      margin: 0 auto 14px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    #offers { display: flex; flex-direction: column; gap: 14px; }
+
+    .offer-card {
+      background: #1e1e1e;
+      border: 1px solid #2a2a2a;
+      border-radius: 16px;
+      overflow: hidden;
+      display: flex;
+      gap: 0;
+      animation: fadeIn .3s ease;
+    }
+    @keyframes fadeIn { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
+
+    .offer-img {
+      width: 100px;
+      min-height: 100px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: #2a2a2a;
+    }
+
+    .offer-body {
+      padding: 14px 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .offer-store {
+      font-size: 11px;
+      font-weight: 600;
+      color: #555;
+      text-transform: uppercase;
+      letter-spacing: .6px;
+    }
+
+    .offer-product {
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+
+    .offer-desc {
+      font-size: 12px;
+      color: #666;
+      line-height: 1.4;
+    }
+
+    .offer-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 8px;
+    }
+
+    .offer-price {
+      font-size: 15px;
+      font-weight: 700;
+      color: #E8000C;
+    }
+
+    .offer-valid {
+      font-size: 11px;
+      color: #444;
+    }
+
+    .empty {
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    .empty-icon { font-size: 48px; margin-bottom: 16px; }
+    .empty-title { font-size: 18px; font-weight: 600; margin-bottom: 8px; }
+    .empty-sub { font-size: 14px; color: #555; line-height: 1.6; }
+
+    .notif-banner {
+      background: #1a2a1a;
+      border: 1px solid #2a3a2a;
+      border-radius: 12px;
+      padding: 14px 16px;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+    .notif-banner p { font-size: 13px; color: #6db36d; line-height: 1.4; }
+    .notif-banner.hidden { display: none; }
+
+    .store-emoji { margin-right: 4px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-top">
+    <h1>🥤 Cola <span>Notiser</span></h1>
+    <button class="btn" id="refresh-btn" onclick="refresh()">Sök nu</button>
+  </div>
+  <div id="last-checked">Laddar...</div>
+</header>
+
+<main>
+  <div class="notif-banner" id="notif-banner">
+    <p>🔔 Aktivera notiser för att få ett ping när nya erbjudanden dyker upp</p>
+    <button class="btn-outline" id="notif-btn" onclick="requestNotifications()">Aktivera</button>
+  </div>
+
+  <div id="status"></div>
+  <div id="offers"></div>
+</main>
+
+<script>
+  const OFFERS_URL = './offers.json';
+  let swReg = null;
+
+  // ── Service Worker ─────────────────────────────────────────────────────────
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('./sw.js').then(r => {
+      swReg = r;
+      // Kör kontroll varje timme om sidan är öppen
+      setInterval(() => swReg?.active?.postMessage('CHECK_NOW'), 60 * 60 * 1000);
+    });
+  }
+
+  // ── Notiser ────────────────────────────────────────────────────────────────
+  function updateNotifBanner() {
+    const banner = document.getElementById('notif-banner');
+    const btn = document.getElementById('notif-btn');
+    if (!('Notification' in window)) { banner.classList.add('hidden'); return; }
+    if (Notification.permission === 'granted') {
+      banner.classList.add('hidden');
+    } else if (Notification.permission === 'denied') {
+      banner.classList.remove('hidden');
+      btn.textContent = 'Blockerad i webbläsaren';
+      btn.disabled = true;
+    }
+  }
+
+  async function requestNotifications() {
+    if (!('Notification' in window)) return;
+    const perm = await Notification.requestPermission();
+    updateNotifBanner();
+    if (perm === 'granted' && swReg) {
+      swReg.active?.postMessage('CHECK_NOW');
+    }
+  }
+
+  // ── Hämta & visa ──────────────────────────────────────────────────────────
+  async function refresh() {
+    const btn = document.getElementById('refresh-btn');
+    const statusEl = document.getElementById('status');
+    const offersEl = document.getElementById('offers');
+
+    btn.disabled = true;
+    offersEl.innerHTML = '';
+    statusEl.className = 'loading';
+    statusEl.innerHTML = '<div class="spinner"></div>Söker efter erbjudanden...';
+
+    try {
+      const r = await fetch(OFFERS_URL + '?t=' + Date.now());
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const data = await r.json();
+      const offers = data.offers || [];
+
+      // Uppdatera "senast kontrollerat"
+      if (data.lastChecked) {
+        const d = new Date(data.lastChecked);
+        document.getElementById('last-checked').textContent =
+          'Senast kontrollerat: ' + d.toLocaleString('sv-SE', { dateStyle: 'short', timeStyle: 'short' });
+      }
+
+      if (offers.length === 0) {
+        statusEl.className = '';
+        statusEl.innerHTML = '';
+        offersEl.innerHTML = `
+          <div class="empty">
+            <div class="empty-icon">🔍</div>
+            <div class="empty-title">Inga erbjudanden just nu</div>
+            <div class="empty-sub">GitHub Actions kontrollerar varje timme automatiskt.<br>Kolla igen senare!</div>
+          </div>`;
+      } else {
+        statusEl.innerHTML = '';
+        offers.forEach(o => offersEl.appendChild(renderOffer(o)));
+        // Trigga SW-kontroll för notiser
+        if (swReg) swReg.active?.postMessage('CHECK_NOW');
+      }
+    } catch (e) {
+      statusEl.className = 'error';
+      statusEl.textContent = 'Kunde inte hämta erbjudanden: ' + e.message;
+    } finally {
+      btn.disabled = false;
+    }
+  }
+
+  function storeEmoji(store) {
+    if (store === 'Lidl')        return '🔵';
+    if (store === 'Supergrossen') return '🟠';
+    if (store === 'Dollar Store') return '🟡';
+    if (store === 'ICA Maxi')     return '🔴';
+    if (store === 'Willys')       return '🟢';
+    return '🛒';
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    try { return new Date(iso).toLocaleDateString('sv-SE', { day: 'numeric', month: 'short' }); }
+    catch { return ''; }
+  }
+
+  function renderOffer(o) {
+    const card = document.createElement('div');
+    card.className = 'offer-card';
+
+    const validFrom = formatDate(o.validFrom);
+    const validTo   = formatDate(o.validTo);
+    const validStr  = validFrom && validTo ? `${validFrom} – ${validTo}` : '';
+
+    card.innerHTML = `
+      ${o.image ? `<img class="offer-img" src="${o.image}" alt="${o.product}" loading="lazy">` : ''}
+      <div class="offer-body">
+        <div class="offer-store"><span class="store-emoji">${storeEmoji(o.store)}</span>${o.store}</div>
+        <div class="offer-product">${o.product}</div>
+        ${o.description ? `<div class="offer-desc">${o.description}</div>` : ''}
+        <div class="offer-footer">
+          <div class="offer-price">${o.price || ''}</div>
+          <div class="offer-valid">${validStr}</div>
+        </div>
+      </div>`;
+    return card;
+  }
+
+  // ── Start ──────────────────────────────────────────────────────────────────
+  updateNotifBanner();
+  refresh();
+</script>
+
+</body>
+</html>

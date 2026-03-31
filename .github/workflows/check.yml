@@ -1,0 +1,81 @@
+name: Hämta erbjudanden
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # Varje hel timme
+  workflow_dispatch:        # Kan köras manuellt
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Hämta från Tjek API
+        run: |
+          python3 - <<'EOF'
+          import requests, json
+          from datetime import datetime
+
+          KEYWORDS = ["coca-cola", "coca cola", "cocacola", "coke", "pepsi max", "pepsimax", "pepsi"]
+          STORES   = {"Lidl": "03a7b3", "Supergrossen": "34b3Rq"}
+
+          def is_cola(text):
+              return any(kw in text.lower() for kw in KEYWORDS)
+
+          def fetch(dealer_id, store, query):
+              url = f"https://squid-api.tjek.com/v2/offers?dealer_id={dealer_id}&query={query}&limit=50"
+              try:
+                  r = requests.get(url, headers={"Accept": "application/json"}, timeout=10)
+                  if not r.ok: return []
+                  offers = []
+                  for item in r.json():
+                      heading = item.get("heading", "")
+                      desc    = item.get("description", "")
+                      if not is_cola(f"{heading} {desc}"): continue
+                      pricing  = item.get("pricing") or {}
+                      price    = pricing.get("price", 0)
+                      currency = pricing.get("currency", "SEK")
+                      images   = item.get("images") or {}
+                      image    = images.get("view") or images.get("thumb") or images.get("zoom")
+                      run_from = item.get("run_from", "")
+                      run_till = item.get("run_till", "")
+                      offers.append({
+                          "store":       store,
+                          "product":     heading,
+                          "description": desc,
+                          "price":       f"{price:.2f} {currency}" if price else None,
+                          "image":       image,
+                          "validFrom":   run_from,
+                          "validTo":     run_till,
+                          "key":         f"{store}:{heading}:{run_from[:10]}"
+                      })
+                  return offers
+              except Exception as e:
+                  print(f"Fel {store}/{query}: {e}")
+                  return []
+
+          all_offers, seen = [], set()
+          for store, dealer_id in STORES.items():
+              for q in ["coca+cola", "pepsi+max"]:
+                  for o in fetch(dealer_id, store, q):
+                      if o["key"] not in seen:
+                          seen.add(o["key"])
+                          all_offers.append(o)
+
+          result = {"lastChecked": datetime.utcnow().isoformat() + "Z", "offers": all_offers}
+          with open("offers.json", "w", encoding="utf-8") as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+          print(f"Hittade {len(all_offers)} erbjudanden")
+          EOF
+
+      - name: Spara offers.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add offers.json
+          git diff --cached --quiet || git commit -m "Uppdatera erbjudanden $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
