@@ -1,4 +1,15 @@
 {
-  "lastChecked": "2026-03-31T10:21:01.547730Z",
-  "offers": []
+  "lastChecked": "2026-03-31T10:25:22.914007Z",
+  "offers": [
+    {
+      "store": "Lidl",
+      "product": "PEPSI Läsk",
+      "description": "",
+      "price": null,
+      "image": null,
+      "validFrom": "2026-03-29T22:00:00+0000",
+      "validTo": "2026-04-05T21:59:59+0000",
+      "key": "Lidl:PEPSI Läsk:2026-03-29"
+    }
+  ]
 }
