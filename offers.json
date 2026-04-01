@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-01T21:53:10.076230Z",
+  "lastChecked": "2026-04-01T22:50:19.912010Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "Obs! Medlemspris – Max 3 st | För dig med WillysPlus. +pant. SPARA 43:90. COCA-COLA • FANTA • SPRITE 1,5l • Olika sorter • Jämförpris 7:33 kr/l +pant • Max 3 köp/hushåll Lägsta 30-dgrspris 19:78 kr.",
       "price": "55.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FHgMjiRlj%2Fp-1.webp&w=600&x1r=0.0016&x2r=0.2735&y1r=0.6692&y2r=0.9569&s=b481eddca207f41d0cabbe9dd289af32",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9f2_sUOD%2Fp-1.webp&w=600&x1r=0.0016&x2r=0.2735&y1r=0.6692&y2r=0.9569&s=aa6edf2a76d127546cf5fed427f875a7",
       "validFrom": "2026-03-29T22:00:00+0000",
       "validTo": "2026-04-05T21:59:59+0000",
       "key": "Willys:LÄSK:2026-03-29"
@@ -24,9 +24,9 @@
     {
       "store": "Willys Hemma",
       "product": "LÄSK",
-      "description": "Obs! Medlemspris – Max 3 st | För dig med WillysPlus. 3 FÖR. +pant. SPARA 27:19. COCA-COLA • FANTA • SPRITE • 1,5l • Olika sorter Jämförpris 7:78 kr/l +pant • Max 3 köp/hushåll Lägsta 30-dgrspris 20:73 kr.",
+      "description": "Obs! Medlemspris – Max 3 st | För dig med WillysPlus. +pant. SPARA 27:19. COCA-COLA • FANTA • SPRITE • 1,5l • Olika sorter Jämförpris 7:78 kr/l +pant • Max 3 köp/hushåll Lägsta 30-dgrspris 20:73 kr.",
       "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FtXZhs3qO%2Fp-1.webp&w=600&x1r=0.6036&x2r=0.9726&y1r=0.3793&y2r=0.677&s=e72e96159a83f40ebe6be7b6d0d960a7",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUwox_v7x%2Fp-1.webp&w=600&x1r=0.6036&x2r=0.9726&y1r=0.3793&y2r=0.677&s=d291143f27614d8f28d70b3f507e7028",
       "validFrom": "2026-03-29T22:00:00+0000",
       "validTo": "2026-04-05T21:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-03-29"
@@ -36,7 +36,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant. +pant.",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiNVG-36a%2Fp-9.webp&w=600&x1r=0.237&x2r=0.5264&y1r=0.5236&y2r=0.7163&s=d6ae700ee3229caf8ab0a52ecaa91fe2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT76NTYEe%2Fp-9.webp&w=600&x1r=0.245&x2r=0.5424&y1r=0.5236&y2r=0.7243&s=e941195a691244f908ec5a0f6e0c738b",
       "validFrom": "2026-03-29T22:00:00+0000",
       "validTo": "2026-04-06T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-03-29"
@@ -56,7 +56,7 @@
       "product": "Läsk 20-pack",
       "description": "/förp. Pepsi Max. 20x33 cl. Jfr-pris 12:76/liter. Pant tillkommer.",
       "price": "84.23 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FklmGKNig%2Fp-9.webp&w=600&x1r=0.3452&x2r=0.6532&y1r=0.6992&y2r=0.9182&s=24aa0a5fbdf737bdc3866721f55195f8",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPWG6M6Bf%2Fp-9.webp&w=600&x1r=0.3452&x2r=0.6532&y1r=0.6992&y2r=0.9182&s=9427b585f97259dd4a9b585cd37c0088",
       "validFrom": "2026-03-29T22:00:00+0000",
       "validTo": "2026-04-06T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-03-29"
@@ -66,7 +66,7 @@
       "product": "Läsk 20-pack",
       "description": "Pepsi Max. 20x33 cl. Jfr-pris 12:05/liter. Pant tillkommer. Tidigare lägsta pris 122:08/st.",
       "price": "79.50 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FC9KbMAFL%2Fp-6.webp&w=600&x1r=0.0118&x2r=0.4945&y1r=0.6211&y2r=0.9286&s=861991b75259a32072bf824d9898197c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOSTO2-FE%2Fp-6.webp&w=600&x1r=0.0118&x2r=0.4945&y1r=0.6211&y2r=0.9286&s=0f0cd00b4959694e777a1e1c58361d34",
       "validFrom": "2026-03-29T22:00:00+0000",
       "validTo": "2026-04-06T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 20-pack:2026-03-29"
