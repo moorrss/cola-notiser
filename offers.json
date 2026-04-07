@@ -1,6 +1,16 @@
 {
-  "lastChecked": "2026-04-07T05:51:27.122184Z",
+  "lastChecked": "2026-04-07T07:45:04.180971Z",
   "offers": [
+    {
+      "store": "ICA Nära",
+      "product": "Läsk",
+      "description": "Obs! Medlemspris – Max 2 st | 6-pack | 6x33 cl | Coca-Cola, Fanta",
+      "price": "37.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fead5d1c57c593a631c900e9d8536829e&w=600&s=a376668c0608703d5054fdd1addd6979",
+      "validFrom": "2026-04-05T22:00:00+0000",
+      "validTo": "2026-04-12T21:59:59+0000",
+      "key": "ICA Nära:Läsk:2026-04-05"
+    },
     {
       "store": "ICA Nära",
       "product": "Max",
@@ -16,7 +26,7 @@
       "product": "Läsk 6-pack",
       "description": "/st. Pepsi/Zingo. Välj mellan Pepsi och Zingo. 6x33 cl. Jfr-pris 16:73/liter. Pant tillkommer.",
       "price": "33.12 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT9rt3kRy%2Fp-2.webp&w=600&x1r=0.0109&x2r=0.5089&y1r=0.4343&y2r=0.8031&s=13189f4e69ed19b80226c9773cb70b41",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_EoeGMDg%2Fp-2.webp&w=600&x1r=0.0109&x2r=0.5089&y1r=0.4343&y2r=0.8031&s=f8275c170fc93ed9f8667d7142cc46aa",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-04-06"
