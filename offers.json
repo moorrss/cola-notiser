@@ -1,16 +1,6 @@
 {
-  "lastChecked": "2026-04-07T15:19:57.207143Z",
+  "lastChecked": "2026-04-07T17:12:00.709128Z",
   "offers": [
-    {
-      "store": "ICA Kvantum",
-      "product": "Läsk",
-      "description": "Coca-cola, Fanta, Sprite. 1,5 l. Jfr pris 10:22/1 exkl pant. +pant.",
-      "price": "46.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqfoDAaZp%2Fp-6.webp&w=600&x1r=0.0327&x2r=0.5209&y1r=0.018&y2r=0.4553&s=f81f0723f21f05de9c106fbeebe23d80",
-      "validFrom": "2026-04-06T22:00:00+0000",
-      "validTo": "2026-04-12T21:59:59+0000",
-      "key": "ICA Kvantum:Läsk:2026-04-06"
-    },
     {
       "store": "ICA Nära",
       "product": "Zero",
@@ -36,7 +26,7 @@
       "product": "Läsk 6-pack",
       "description": "/st. Pepsi/Zingo. Välj mellan Pepsi och Zingo. 6x33 cl. Jfr-pris 16:73/liter. Pant tillkommer.",
       "price": "33.12 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FT9rt3kRy%2Fp-2.webp&w=600&x1r=0.0109&x2r=0.5089&y1r=0.4343&y2r=0.8031&s=13189f4e69ed19b80226c9773cb70b41",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAPKdlaa9%2Fp-2.webp&w=600&x1r=0.0109&x2r=0.5089&y1r=0.4343&y2r=0.8031&s=0e345d05e4871d7f7950d6ab62a61687",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-04-06"
