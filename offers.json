@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-08T03:25:54.002366Z",
+  "lastChecked": "2026-04-08T05:52:13.936884Z",
   "offers": [
     {
       "store": "ICA Nära",
@@ -13,6 +13,16 @@
     },
     {
       "store": "ICA Nära",
+      "product": "Max",
+      "description": "Obs! Medlemspris | 1.5l | Pepsi",
+      "price": "39.95 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F168cf7cc8509c1485c5412457bde8c9c&w=600&s=4d26c947b3b1f6af99b89723b61974d6",
+      "validFrom": "2026-04-05T22:00:00+0000",
+      "validTo": "2026-04-26T21:59:59+0000",
+      "key": "ICA Nära:Max:2026-04-05"
+    },
+    {
+      "store": "ICA Nära",
       "product": "Max B",
       "description": "33cl | Pepsi",
       "price": "99.00 SEK",
@@ -20,16 +30,6 @@
       "validFrom": "2026-04-05T22:00:00+0000",
       "validTo": "2026-05-03T21:59:59+0000",
       "key": "ICA Nära:Max B:2026-04-05"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Pepsi Max 20-pack",
-      "description": "20x33cl | Pepsi",
-      "price": "112.62 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F561a568f68a9f0102e17f8112bc3f4da&w=600&s=3c6243b36ff6c6cf931e15c2da890452",
-      "validFrom": "2026-04-05T22:00:00+0000",
-      "validTo": "2026-04-26T21:59:59+0000",
-      "key": "ICA Nära:Pepsi Max 20-pack:2026-04-05"
     },
     {
       "store": "ICA Nära",
@@ -42,11 +42,21 @@
       "key": "ICA Nära:Läsk:2026-04-05"
     },
     {
+      "store": "ICA Nära",
+      "product": "Pepsi Max 20-pack",
+      "description": "20x33cl | Pepsi",
+      "price": "112.62 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F561a568f68a9f0102e17f8112bc3f4da&w=600&s=3c6243b36ff6c6cf931e15c2da890452",
+      "validFrom": "2026-04-05T22:00:00+0000",
+      "validTo": "2026-04-26T21:59:59+0000",
+      "key": "ICA Nära:Pepsi Max 20-pack:2026-04-05"
+    },
+    {
       "store": "Coop",
       "product": "Läsk 6-pack",
       "description": "/st. Pepsi/Zingo. Välj mellan Pepsi och Zingo. 6x33 cl. Jfr-pris 16:73/liter. Pant tillkommer.",
       "price": "33.12 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZ00X5nom%2Fp-2.webp&w=600&x1r=0.0109&x2r=0.5089&y1r=0.4343&y2r=0.8031&s=5e1a8b71ea86925480d7597b5ccb4f0c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_EoeGMDg%2Fp-2.webp&w=600&x1r=0.0109&x2r=0.5089&y1r=0.4343&y2r=0.8031&s=f8275c170fc93ed9f8667d7142cc46aa",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-04-06"
@@ -56,7 +66,7 @@
       "product": "Läsk 6-pack",
       "description": "Du sparar. 27,36. Pepsi./Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:10/liter. Pant tillkommer. Ord. pris från 41:60/st.",
       "price": "55.84 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQb_As1GS%2Fp-1.webp&w=600&x1r=0.2753&x2r=0.5708&y1r=0.196&y2r=0.4851&s=79619e55d45b374078923dd810d08fa3",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqPXCuZhq%2Fp-1.webp&w=600&x1r=0.2753&x2r=0.5708&y1r=0.196&y2r=0.4851&s=e6dbf2774947ffb4732f6da43197c6f4",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 6-pack:2026-04-06"
