@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-04-10T19:06:42.151216Z",
+  "lastChecked": "2026-04-10T20:50:36.603852Z",
   "offers": [
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Coca-cola, Fanta, Sprite. 1,5 l. Jfr pris 10:22/l exkl pant. +pant.",
+      "description": "Coca-cola, Fanta, Sprite. 1,5 l. Jfr pris 10:22/1 exkl pant. +pant.",
       "price": "46.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0bwNDCAE%2Fp-6.webp&w=600&x1r=0.0327&x2r=0.5209&y1r=0.018&y2r=0.4553&s=72868745fb93166896f9772bcc40558e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIwyujP-6%2Fp-6.webp&w=600&x1r=0.0327&x2r=0.5209&y1r=0.018&y2r=0.4553&s=e9dc60a26bfc4651bddb82ed873d58ff",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-04-06"
@@ -86,7 +86,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fl59me86Q%2Fp-6.webp&w=600&x1r=0.039&x2r=0.6514&y1r=0.0743&y2r=0.4646&s=2e4ff3f97c6eb1002aa97c471f0cbfcf",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7lA3ixRA%2Fp-8.webp&w=600&x1r=0.3281&x2r=0.6616&y1r=0.5109&y2r=0.769&s=1b62447eb66316895fc2707a4dc63423",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
