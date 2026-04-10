@@ -1,25 +1,25 @@
 {
-  "lastChecked": "2026-04-10T16:02:45.716315Z",
+  "lastChecked": "2026-04-10T17:53:38.515424Z",
   "offers": [
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Coca-cola, Fanta, Sprite. 1,5 l. Jfr pris 10:22/1 exkl pant. +pant.",
+      "description": "Coca-cola, Fanta, Sprite. 1,5 l. Jfr pris 10:22/l exkl pant. +pant.",
       "price": "46.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FA0nfcH-I%2Fp-6.webp&w=600&x1r=0.0327&x2r=0.5209&y1r=0.018&y2r=0.4553&s=725169246ac8fc67e1750aebde669d57",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0bwNDCAE%2Fp-6.webp&w=600&x1r=0.0327&x2r=0.5209&y1r=0.018&y2r=0.4553&s=72868745fb93166896f9772bcc40558e",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-04-06"
     },
     {
-      "store": "ICA Nära",
-      "product": "Pepsi Max 20-pack",
-      "description": "20x33cl | Pepsi",
-      "price": "112.62 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F561a568f68a9f0102e17f8112bc3f4da&w=600&s=3c6243b36ff6c6cf931e15c2da890452",
+      "store": "ICA Supermarket",
+      "product": "Coca-cola 10p",
+      "description": "10x33cl | Coca-Cola",
+      "price": "50.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2F43e8673a33ff9725534b3fb63765baca&w=600&s=9ee2bcc81b9b5fa001bd3827597efaa2",
       "validFrom": "2026-04-05T22:00:00+0000",
       "validTo": "2026-04-26T21:59:59+0000",
-      "key": "ICA Nära:Pepsi Max 20-pack:2026-04-05"
+      "key": "ICA Supermarket:Coca-cola 10p:2026-04-05"
     },
     {
       "store": "ICA Nära",
@@ -30,6 +30,16 @@
       "validFrom": "2026-04-05T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "ICA Nära:Läsk:2026-04-05"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "Pepsi Max 20-pack",
+      "description": "20x33cl | Pepsi",
+      "price": "112.62 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F561a568f68a9f0102e17f8112bc3f4da&w=600&s=3c6243b36ff6c6cf931e15c2da890452",
+      "validFrom": "2026-04-05T22:00:00+0000",
+      "validTo": "2026-04-26T21:59:59+0000",
+      "key": "ICA Nära:Pepsi Max 20-pack:2026-04-05"
     },
     {
       "store": "ICA Nära",
@@ -76,7 +86,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJXFR6srK%2Fp-1.webp&w=600&x1r=0.6544&x2r=0.9915&y1r=0.2077&y2r=0.5105&s=a741e82f5462fdc43d73a6ca8c5003d2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F793cmUR5%2Fp-1.webp&w=600&x1r=0.6544&x2r=0.9915&y1r=0.2077&y2r=0.5105&s=ebf00a30a0bac23a4bad69ba737384d1",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
@@ -96,7 +106,7 @@
       "product": "Läsk 6-pack",
       "description": "Du sparar. 27,36. Pepsi./Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:10/liter. Pant tillkommer. Ord. pris från 41:60/st.",
       "price": "55.84 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKVj8fyzx%2Fp-1.webp&w=600&x1r=0.2753&x2r=0.5708&y1r=0.196&y2r=0.4851&s=742f4c3bc8e59171b1f884e59077d066",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1w69_zmn%2Fp-1.webp&w=600&x1r=0.2753&x2r=0.5708&y1r=0.196&y2r=0.4851&s=ac60717363b16be01e89431dc1e92590",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 6-pack:2026-04-06"
