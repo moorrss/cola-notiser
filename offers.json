@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-12T22:45:09.501564Z",
+  "lastChecked": "2026-04-12T23:46:07.550647Z",
   "offers": [
     {
       "store": "Lidl",
@@ -26,7 +26,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F66IobZCM%2Fp-8.webp&w=600&x1r=0&x2r=0.6635&y1r=0.026&y2r=0.5223&s=a1b42684cf9f0fe45c9d90f7599770c1",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FavGmVVGy%2Fp-6.webp&w=600&x1r=0.0101&x2r=0.6642&y1r=0.0995&y2r=0.4697&s=c0ed4538745694cb271e5191489782db",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
@@ -56,7 +56,7 @@
       "product": "Läsk",
       "description": "+ pant. 4-pack! Coca-Cola, Fanta. 4x1,5 lit. Olika sorter. Jfr. pris 8,25/lit +pant.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fl6n1q0nV%2Fp-1.webp&w=600&x1r=0.679&x2r=0.9906&y1r=0.6274&y2r=0.94&s=0f8c13f4e99153464b6c71b5df80278b",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx_wj3lrz%2Fp-1.webp&w=600&x1r=0.679&x2r=0.9906&y1r=0.6274&y2r=0.94&s=d9017eb7d8675ab7c1f49282d9421817",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "City Gross:Läsk:2026-04-12"
