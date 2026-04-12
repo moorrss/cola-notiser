@@ -1,16 +1,6 @@
 {
-  "lastChecked": "2026-04-12T20:47:34.798710Z",
+  "lastChecked": "2026-04-12T21:44:43.546076Z",
   "offers": [
-    {
-      "store": "Lidl",
-      "product": "PEPSI/7UP/ZINGO MOUNTAIN DEW Läsk",
-      "description": "",
-      "price": null,
-      "image": null,
-      "validFrom": "2026-04-12T22:00:00+0000",
-      "validTo": "2026-04-19T21:59:59+0000",
-      "key": "Lidl:PEPSI/7UP/ZINGO MOUNTAIN DEW Läsk:2026-04-12"
-    },
     {
       "store": "Lidl",
       "product": "FANTA/ COCA-COLA Läsk",
@@ -22,11 +12,21 @@
       "key": "Lidl:FANTA/ COCA-COLA Läsk:2026-04-12"
     },
     {
+      "store": "Lidl",
+      "product": "PEPSI/7UP/ZINGO MOUNTAIN DEW Läsk",
+      "description": "",
+      "price": null,
+      "image": null,
+      "validFrom": "2026-04-12T22:00:00+0000",
+      "validTo": "2026-04-19T21:59:59+0000",
+      "key": "Lidl:PEPSI/7UP/ZINGO MOUNTAIN DEW Läsk:2026-04-12"
+    },
+    {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Coca-cola, Fanta, Sprite. 1,5 l. Jfr pris 10:22/l exkl pant. +pant.",
+      "description": "Coca-cola, Fanta, Sprite. 1,5 l. Jfr pris 10:22/1 exkl pant. +pant.",
       "price": "46.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0bwNDCAE%2Fp-6.webp&w=600&x1r=0.0327&x2r=0.5209&y1r=0.018&y2r=0.4553&s=72868745fb93166896f9772bcc40558e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8wcnMkZl%2Fp-6.webp&w=600&x1r=0.0327&x2r=0.5209&y1r=0.018&y2r=0.4553&s=25220d67f42d73fc9070db78bb94212d",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-04-06"
@@ -63,16 +63,6 @@
     },
     {
       "store": "ICA Nära",
-      "product": "Zero",
-      "description": "1.5l | Coca-Cola",
-      "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F73bbb307dad2b60deb9f2b7cd8d1f61c&w=600&s=7ce83eb6b4323624ac92b2b5909f074a",
-      "validFrom": "2026-04-05T22:00:00+0000",
-      "validTo": "2026-04-12T21:59:59+0000",
-      "key": "ICA Nära:Zero:2026-04-05"
-    },
-    {
-      "store": "ICA Nära",
       "product": "Pepsi Max",
       "description": "33cl | Pepsi",
       "price": "99.00 SEK",
@@ -80,6 +70,16 @@
       "validFrom": "2026-04-05T22:00:00+0000",
       "validTo": "2026-04-13T21:59:59+0000",
       "key": "ICA Nära:Pepsi Max:2026-04-05"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "Zero",
+      "description": "1.5l | Coca-Cola",
+      "price": "99.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F73bbb307dad2b60deb9f2b7cd8d1f61c&w=600&s=7ce83eb6b4323624ac92b2b5909f074a",
+      "validFrom": "2026-04-05T22:00:00+0000",
+      "validTo": "2026-04-12T21:59:59+0000",
+      "key": "ICA Nära:Zero:2026-04-05"
     },
     {
       "store": "ICA Nära",
@@ -96,7 +96,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3pyd2W0W%2Fp-8.webp&w=600&x1r=0.3281&x2r=0.6616&y1r=0.5109&y2r=0.769&s=0af8eab6e691a20c8af327ee2bbccd88",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6Pw2aJZE%2Fp-1.webp&w=600&x1r=0.6544&x2r=0.9915&y1r=0.2077&y2r=0.5105&s=17decbe3eeb676084d0462b49ff4b35b",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
@@ -126,7 +126,7 @@
       "product": "Läsk 6-pack",
       "description": "Du sparar. 27,36. Pepsi./Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:10/liter. Pant tillkommer. Ord. pris från 41:60/st.",
       "price": "55.84 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FtFrbBCkh%2Fp-1.webp&w=600&x1r=0.2753&x2r=0.5708&y1r=0.196&y2r=0.4851&s=5a91735a01968285039bb17acde68592",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKVj8fyzx%2Fp-1.webp&w=600&x1r=0.2753&x2r=0.5708&y1r=0.196&y2r=0.4851&s=742f4c3bc8e59171b1f884e59077d066",
       "validFrom": "2026-04-06T22:00:00+0000",
       "validTo": "2026-04-12T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 6-pack:2026-04-06"
