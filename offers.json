@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-13T23:54:05.947939Z",
+  "lastChecked": "2026-04-14T03:33:10.589688Z",
   "offers": [
     {
       "store": "Lidl",
@@ -26,7 +26,7 @@
       "product": "LÄSK 15-PACK",
       "description": "Obs! Medlemspris – Max 3 st | För dig med WillysPlus. +pant. SPARA 37:21. COCA-COLA • COCA-COLA ZERO • 15p/33cl • Olika sorter Jämförpris 13:32 kr/l +pant • Max 3 köp/hushåll Lägsta 30-dgrspris 103:16 kr.",
       "price": "65.95 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUjlT9HAJ%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=9f341afd1eca84d9dde932af1b2f70ad",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwJ-xKgz2%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=372ade0cf46729b685d9e8dcb98fcf43",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Willys:LÄSK 15-PACK:2026-04-12"
@@ -36,7 +36,7 @@
       "product": "LÄSK 6-PACK",
       "description": "Obs! Max 3 st | 28:29 +pant. SPARA 16:09. COCA-COLA • COCA-COLA ZERO • 6p/33cl. Jämförpris 14:29 kr/l +pant. Max 3 köp/hushåll. Lägsta 30-dgrspris 44:38 kr.",
       "price": "28.29 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaZmxqLGv%2Fp-1.webp&w=600&x1r=0.0046&x2r=0.3646&y1r=0.4975&y2r=0.8172&s=c7a0675e8bcf22dae191dac028a19c65",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaX2IHjBZ%2Fp-1.webp&w=600&x1r=0.0046&x2r=0.3646&y1r=0.4975&y2r=0.8172&s=085c5a37172e0a4cfe3188b5699ac5ab",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Willys Hemma:LÄSK 6-PACK:2026-04-12"
@@ -50,16 +50,6 @@
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-04-12"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Coca-cola 10p",
-      "description": "10x33cl | Coca-Cola",
-      "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2F43e8673a33ff9725534b3fb63765baca&w=600&s=9ee2bcc81b9b5fa001bd3827597efaa2",
-      "validFrom": "2026-04-12T22:00:00+0000",
-      "validTo": "2026-04-26T21:59:59+0000",
-      "key": "ICA Supermarket:Coca-cola 10p:2026-04-12"
     },
     {
       "store": "ICA Nära",
@@ -96,7 +86,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDqpGkC26%2Fp-6.webp&w=600&x1r=0.0101&x2r=0.6642&y1r=0.0995&y2r=0.4697&s=8ca8f442cf2cbab8ff60ccebde2896da",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKGOpCToF%2Fp-6.webp&w=600&x1r=0.0101&x2r=0.6642&y1r=0.0995&y2r=0.4697&s=faf90b96564aef659f093993a036e8a5",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
