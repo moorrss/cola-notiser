@@ -1,16 +1,6 @@
 {
-  "lastChecked": "2026-04-15T14:48:40.288418Z",
+  "lastChecked": "2026-04-15T16:11:25.310488Z",
   "offers": [
-    {
-      "store": "Lidl",
-      "product": "FANTA/ COCA-COLA Läsk",
-      "description": "",
-      "price": null,
-      "image": null,
-      "validFrom": "2026-04-12T22:00:00+0000",
-      "validTo": "2026-04-19T21:59:59+0000",
-      "key": "Lidl:FANTA/ COCA-COLA Läsk:2026-04-12"
-    },
     {
       "store": "Lidl",
       "product": "PEPSI/7UP/ZINGO MOUNTAIN DEW Läsk",
@@ -22,11 +12,21 @@
       "key": "Lidl:PEPSI/7UP/ZINGO MOUNTAIN DEW Läsk:2026-04-12"
     },
     {
+      "store": "Lidl",
+      "product": "FANTA/ COCA-COLA Läsk",
+      "description": "",
+      "price": null,
+      "image": null,
+      "validFrom": "2026-04-12T22:00:00+0000",
+      "validTo": "2026-04-19T21:59:59+0000",
+      "key": "Lidl:FANTA/ COCA-COLA Läsk:2026-04-12"
+    },
+    {
       "store": "Willys",
       "product": "LÄSK 15-PACK",
       "description": "Obs! Medlemspris – Max 3 st | För dig med WillysPlus. +pant. SPARA 37:21. COCA-COLA • COCA-COLA ZERO • 15p/33cl • Olika sorter Jämförpris 13:32 kr/l +pant • Max 3 köp/hushåll Lägsta 30-dgrspris 103:16 kr.",
       "price": "65.95 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Frt5Q68qQ%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=bc3a5bcfc00789984fee20ceab2e770e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FceIf-6G2%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=f06426be0e38d66464bbd038def503c1",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Willys:LÄSK 15-PACK:2026-04-12"
@@ -36,7 +36,7 @@
       "product": "LÄSK 6-PACK",
       "description": "Obs! Max 3 st | 28:29 +pant. SPARA 16:09. COCA-COLA • COCA-COLA ZERO • 6p/33cl. Jämförpris 14:29 kr/l +pant. Max 3 köp/hushåll. Lägsta 30-dgrspris 44:38 kr.",
       "price": "28.29 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FV5TzWvwN%2Fp-1.webp&w=600&x1r=0.0046&x2r=0.3646&y1r=0.4975&y2r=0.8172&s=e138a73a250184b11b9ee4fedab27c60",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhWqjNNJr%2Fp-1.webp&w=600&x1r=0.0046&x2r=0.3646&y1r=0.4975&y2r=0.8172&s=e869abd88ad71729e9e1177a79837992",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Willys Hemma:LÄSK 6-PACK:2026-04-12"
@@ -86,7 +86,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F793cmUR5%2Fp-1.webp&w=600&x1r=0.6544&x2r=0.9915&y1r=0.2077&y2r=0.5105&s=ebf00a30a0bac23a4bad69ba737384d1",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJXFR6srK%2Fp-6.webp&w=600&x1r=0.0101&x2r=0.6642&y1r=0.0995&y2r=0.4697&s=99d90a547fc70aa62d3e3b712f00c5ca",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
@@ -116,7 +116,7 @@
       "product": "Läsk",
       "description": "+ pant. 4-pack! Coca-Cola, Fanta. 4x1,5 lit. Olika sorter. Jfr. pris 8,25/lit +pant.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fl6n1q0nV%2Fp-1.webp&w=600&x1r=0.679&x2r=0.9906&y1r=0.6274&y2r=0.94&s=0f8c13f4e99153464b6c71b5df80278b",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx_wj3lrz%2Fp-1.webp&w=600&x1r=0.679&x2r=0.9906&y1r=0.6274&y2r=0.94&s=d9017eb7d8675ab7c1f49282d9421817",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "City Gross:Läsk:2026-04-12"
