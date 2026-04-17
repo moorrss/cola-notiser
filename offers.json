@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-17T08:49:51.764183Z",
+  "lastChecked": "2026-04-17T10:20:09.479427Z",
   "offers": [
     {
       "store": "Lidl",
@@ -26,7 +26,7 @@
       "product": "LÄSK 15-PACK",
       "description": "Obs! Medlemspris – Max 3 st | För dig med WillysPlus. +pant. SPARA 37:21. COCA-COLA • COCA-COLA ZERO • 15p/33cl • Olika sorter Jämförpris 13:32 kr/l +pant • Max 3 köp/hushåll Lägsta 30-dgrspris 103:16 kr.",
       "price": "65.95 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCsxYIGG6%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=253bdb94a64c2369693fbd2d7ad7fdba",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fxu01PU_H%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=b0bcf560395a78824f160c0caf6075cf",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Willys:LÄSK 15-PACK:2026-04-12"
@@ -54,9 +54,9 @@
     {
       "store": "ICA Supermarket",
       "product": "Pepsi Max, 7up, Zingo",
-      "description": "+pant. Carlsberg Sverige AB. Helt flak. 20x33 cl. Jfr pris 12:09/liter +pant.",
-      "price": "399.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FeWjkJR8f%2Fp-1.webp&w=600&x1r=0.4298&x2r=0.9366&y1r=0.7245&y2r=0.9551&s=ea60d22181b18079370c63bcd1a9bd58",
+      "description": "",
+      "price": null,
+      "image": null,
       "validFrom": "2026-04-15T22:00:00+0000",
       "validTo": "2026-04-20T21:59:59+0000",
       "key": "ICA Supermarket:Pepsi Max, 7up, Zingo:2026-04-15"
@@ -96,7 +96,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZK6GjD8p%2Fp-6.webp&w=600&x1r=0.0101&x2r=0.6642&y1r=0.0995&y2r=0.4697&s=ba94fe027ef98f7145982fa640b8250c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDqpGkC26%2Fp-1.webp&w=600&x1r=0.6544&x2r=0.9915&y1r=0.2077&y2r=0.5105&s=2f94e72fa9b0d8ccf8ca0e67f5d994b2",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
