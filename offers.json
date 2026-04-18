@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-18T11:41:41.734222Z",
+  "lastChecked": "2026-04-18T13:20:31.793476Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "LÄSK 15-PACK",
       "description": "Obs! Medlemspris – Max 3 st | För dig med WillysPlus. +pant. SPARA 37:21. COCA-COLA • COCA-COLA ZERO • 15p/33cl • Olika sorter Jämförpris 13:32 kr/l +pant • Max 3 köp/hushåll Lägsta 30-dgrspris 103:16 kr.",
       "price": "65.95 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F20y0AzhJ%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=f5fe42c80b4912e82727827065047235",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FY_W52zzS%2Fp-1.webp&w=600&x1r=0.6049&x2r=0.9815&y1r=0.1534&y2r=0.3423&s=ebc6efb1e77299a46f9c27544b092a17",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Willys:LÄSK 15-PACK:2026-04-12"
@@ -26,7 +26,7 @@
       "product": "LÄSK 6-PACK",
       "description": "Obs! Max 3 st | 28:29 +pant. SPARA 16:09. COCA-COLA • COCA-COLA ZERO • 6p/33cl. Jämförpris 14:29 kr/l +pant. Max 3 köp/hushåll. Lägsta 30-dgrspris 44:38 kr.",
       "price": "28.29 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYNOPnKTp%2Fp-1.webp&w=600&x1r=0.0046&x2r=0.3646&y1r=0.4975&y2r=0.8172&s=a89c22c5fe819eae6fde59bccff1f04f",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FENVk_ocF%2Fp-1.webp&w=600&x1r=0.0046&x2r=0.3646&y1r=0.4975&y2r=0.8172&s=30f6caffe406fcad94f5c3b144f33d83",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Willys Hemma:LÄSK 6-PACK:2026-04-12"
@@ -86,7 +86,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:20-8:79/liter. Pant tillkommer.",
       "price": "36.91 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSGXfXX7R%2Fp-6.webp&w=600&x1r=0.0101&x2r=0.6642&y1r=0.0995&y2r=0.4697&s=21879e4f8d53c8a4af82b49a5e5ec791",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEISxa8w4%2Fp-6.webp&w=600&x1r=0.0101&x2r=0.6642&y1r=0.0995&y2r=0.4697&s=a0015d56e37fed395158ff22d5041ed0",
       "validFrom": "2026-04-12T22:00:00+0000",
       "validTo": "2026-04-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-04-12"
