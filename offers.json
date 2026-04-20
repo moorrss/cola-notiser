@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-20T06:23:47.853153Z",
+  "lastChecked": "2026-04-20T09:13:13.080790Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Obs! Max 1 st | Pepsi. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "description": "Obs! Max 1 st | Pepsi 10 x 33 cl. pris 15:00-150:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fkznbj1by%2Fp-3.webp&w=600&x1r=0.3752&x2r=0.9774&y1r=0.6144&y2r=0.9576&s=c4bb87054e55952e01631346287a9ede",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F62XSdw89%2Fp-6.webp&w=600&x1r=0.0776&x2r=0.9693&y1r=0.6162&y2r=0.9259&s=205b2393e9c006f66abd6bca58970059",
       "validFrom": "2026-04-19T22:00:00+0000",
       "validTo": "2026-04-26T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-04-19"
