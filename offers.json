@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-20T03:44:30.784447Z",
+  "lastChecked": "2026-04-20T06:23:47.853153Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Obs! Max 1 st | Pepsi. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fvn5x16K6%2Fp-3.webp&w=600&x1r=0.3752&x2r=0.9774&y1r=0.6144&y2r=0.9576&s=410c54206be5067768309a55b067db5c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fkznbj1by%2Fp-3.webp&w=600&x1r=0.3752&x2r=0.9774&y1r=0.6144&y2r=0.9576&s=c4bb87054e55952e01631346287a9ede",
       "validFrom": "2026-04-19T22:00:00+0000",
       "validTo": "2026-04-26T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-04-19"
@@ -24,22 +24,32 @@
     {
       "store": "ICA Supermarket",
       "product": "Pepsi Max, 7up, Zingo",
-      "description": "+pant. Carlsberg Sverige AB. Helt flak. 20x33 cl. Jfr pris 12:09/liter +pant.",
-      "price": "399.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FeWjkJR8f%2Fp-1.webp&w=600&x1r=0.4298&x2r=0.9366&y1r=0.7245&y2r=0.9551&s=ea60d22181b18079370c63bcd1a9bd58",
-      "validFrom": "2026-04-15T22:00:00+0000",
-      "validTo": "2026-04-20T21:59:59+0000",
-      "key": "ICA Supermarket:Pepsi Max, 7up, Zingo:2026-04-15"
+      "description": "",
+      "price": null,
+      "image": null,
+      "validFrom": "2026-04-19T22:00:00+0000",
+      "validTo": "2026-05-31T21:59:59+0000",
+      "key": "ICA Supermarket:Pepsi Max, 7up, Zingo:2026-04-19"
     },
     {
-      "store": "ICA Supermarket",
-      "product": "Pepsi max 6p",
-      "description": "6x33cl | Pepsi",
-      "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2Fffe322c5e1df122c60346dd4c8816684&w=600&s=315c2fa6715e5ca2814fa3850d055a19",
+      "store": "ICA Nära",
+      "product": "Läsk",
+      "description": "Obs! Medlemspris – Max 1 st | 20x33 cl | Flak. Regular, Max, Max Lime | Pepsi",
+      "price": "89.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F5d0cad2f132d19be11502e04badb8917&w=600&s=4f3e9025a1dd00c1fbc840716283f571",
       "validFrom": "2026-04-19T22:00:00+0000",
-      "validTo": "2026-05-03T21:59:59+0000",
-      "key": "ICA Supermarket:Pepsi max 6p:2026-04-19"
+      "validTo": "2026-04-24T21:59:59+0000",
+      "key": "ICA Nära:Läsk:2026-04-19"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "Coca-Cola 6-pack",
+      "description": "6x33 cl | Original/Zero | Coca-Cola Company",
+      "price": "75.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fead5d1c57c593a631c900e9d8536829e&w=600&s=a376668c0608703d5054fdd1addd6979",
+      "validFrom": "2026-04-19T22:00:00+0000",
+      "validTo": "2026-04-26T21:59:59+0000",
+      "key": "ICA Nära:Coca-Cola 6-pack:2026-04-19"
     },
     {
       "store": "ICA Nära",
