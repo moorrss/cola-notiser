@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-20T11:25:43.220645Z",
+  "lastChecked": "2026-04-20T14:04:50.956455Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Obs! Max 1 st | Pepsi. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpxLKD9_C%2Fp-3.webp&w=600&x1r=0.3752&x2r=0.9774&y1r=0.6144&y2r=0.9576&s=bc896380f558d4f9f9baf15fe008c881",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjvAu9M5h%2Fp-3.webp&w=600&x1r=0.3752&x2r=0.9774&y1r=0.6144&y2r=0.9576&s=bc0f751999f8983999186fcbca534994",
       "validFrom": "2026-04-19T22:00:00+0000",
       "validTo": "2026-04-26T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-04-19"
@@ -24,9 +24,9 @@
     {
       "store": "ICA Supermarket",
       "product": "Pepsi Max, 7up, Zingo",
-      "description": "",
-      "price": null,
-      "image": null,
+      "description": "+pant. Carlsberg Sverige AB. Helt flak. 20x33 cl. Jfr pris 12:09/liter +pant.",
+      "price": "399.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FqMdVXeYO%2Fp-1.webp&w=600&x1r=0.441&x2r=0.9045&y1r=0.7245&y2r=0.9527&s=1c31b656c10143afa27bad31385785d2",
       "validFrom": "2026-04-19T22:00:00+0000",
       "validTo": "2026-05-31T21:59:59+0000",
       "key": "ICA Supermarket:Pepsi Max, 7up, Zingo:2026-04-19"
