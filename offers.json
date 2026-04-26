@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-04-26T22:51:03.605046Z",
+  "lastChecked": "2026-04-26T23:50:29.575908Z",
   "offers": [
     {
       "store": "Lidl",
@@ -26,20 +26,20 @@
       "product": "Läsk 20-pack",
       "description": "/st. Pepsi Max. 20x33 cl. Jfr-pris 12:76/liter. Pant tillkommer.",
       "price": "84.23 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDVFwrxsk%2Fp-9.webp&w=600&x1r=0.0269&x2r=0.3573&y1r=0.6941&y2r=0.9166&s=21ba81301fe43744af465147da7ad597",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSrWtx_PS%2Fp-9.webp&w=600&x1r=0.007&x2r=0.6585&y1r=0.7066&y2r=0.9459&s=5aa30ee0c3996d71ef1204cb40a871db",
       "validFrom": "2026-04-26T22:00:00+0000",
       "validTo": "2026-05-03T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-04-26"
     },
     {
       "store": "Coop X:-TRA",
-      "product": "Läsk 20-pack",
-      "description": "Veckans bästa! Pepsi Max. 20x33 cl. Jfr-pris 11:33/liter. Pant tillkommer. Tidigare lägsta pris 122:09/st.",
+      "product": "Läsk 20-pack.",
+      "description": "Du sparar. Veckans bästa! 47,32. /st.  Pepsi Max. 20x33 cl. Jfr-pris 11:33/liter. Pant tillkommer. Tidigare lägsta pris 122:09/st.",
       "price": "74.77 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAguhQVuO%2Fp-1.webp&w=600&x1r=0.0082&x2r=0.9792&y1r=0.7178&y2r=0.9574&s=ed82885ead67efeacb22d57918136c31",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNgeFVxWW%2Fp-1.webp&w=600&x1r=0.0082&x2r=0.9792&y1r=0.7178&y2r=0.9574&s=a9bdc8304248a29bc8e2731db775566e",
       "validFrom": "2026-04-26T22:00:00+0000",
       "validTo": "2026-05-03T21:59:59+0000",
-      "key": "Coop X:-TRA:Läsk 20-pack:2026-04-26"
+      "key": "Coop X:-TRA:Läsk 20-pack.:2026-04-26"
     }
   ]
 }
