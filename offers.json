@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-03T22:54:37.895963Z",
+  "lastChecked": "2026-05-03T23:57:06.397453Z",
   "offers": [
     {
       "store": "Lidl",
@@ -10,6 +10,16 @@
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "Lidl:PEPSI Läsk:2026-05-03"
+    },
+    {
+      "store": "ICA Kvantum",
+      "product": "Pepsi",
+      "description": "Obs! Max 3 st | + pant. 1,5 lit. Jfr pris 6,67:-/lit. + pant Max 3st/hushåll.",
+      "price": "10.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFHMc3zFm%2Fp-7.webp&w=600&x1r=0.002&x2r=0.3151&y1r=0.233&y2r=0.5059&s=36d27f256276a69c9a41127944926a90",
+      "validFrom": "2026-05-03T22:00:00+0000",
+      "validTo": "2026-05-10T21:59:59+0000",
+      "key": "ICA Kvantum:Pepsi:2026-05-03"
     },
     {
       "store": "ICA Supermarket",
@@ -26,7 +36,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 2 liter. Jfr-pris 9:75/liter. Ord. pris 26:41/st. Pant tillkommer.",
       "price": "63.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdxtM_frl%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=0a70de13ed33944ee83998b7e00f5335",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEqO95jMR%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=7501e6df263d7489c8f103a03e2371f8",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-03"
