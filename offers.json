@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-04T07:50:56.135319Z",
+  "lastChecked": "2026-05-04T10:21:23.284845Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Obs! Max 1 st | Klipp! Klipp! Klipp! Klipp!. Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "description": "Obs! Max 1 st | Coca-Cola. Zero Sugar. 10 x 33 cl. Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fn5w6yTdD%2Fp-1.webp&w=600&x1r=0.0244&x2r=0.2923&y1r=0.4826&y2r=0.7596&s=8c7fbbdcbb09463ddbdc5a29e00f5d58",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGuWoOG9K%2Fp-10.webp&w=600&x1r=0.0473&x2r=0.5526&y1r=0.0885&y2r=0.3287&s=2cd758f0eebad7fe156a9c6aab7fba3f",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-05-03"
@@ -63,16 +63,6 @@
     },
     {
       "store": "ICA Nära",
-      "product": "Max 20p B",
-      "description": "20x33cl | Pepsi",
-      "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F561a568f68a9f0102e17f8112bc3f4da&w=600&s=3c6243b36ff6c6cf931e15c2da890452",
-      "validFrom": "2026-05-03T22:00:00+0000",
-      "validTo": "2026-05-10T21:59:59+0000",
-      "key": "ICA Nära:Max 20p B:2026-05-03"
-    },
-    {
-      "store": "ICA Nära",
       "product": "Läsk",
       "description": "Obs! Max 1 st | 20x33 cl | Flak. Regular, Max, Max Lime | Pepsi",
       "price": "30.00 SEK",
@@ -83,30 +73,20 @@
     },
     {
       "store": "ICA Nära",
-      "product": "Coca cola 4-pack",
-      "description": "4x1.5l | Coca-Cola",
-      "price": "130.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F2b761c29706a670b1f1d975482ad49d0&w=600&s=a079c37c6e5a20b8e8fb90a657625ee0",
-      "validFrom": "2026-05-03T22:00:00+0000",
-      "validTo": "2026-05-17T21:59:59+0000",
-      "key": "ICA Nära:Coca cola 4-pack:2026-05-03"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Pepsi Max 20-pack",
+      "product": "Max 20p B",
       "description": "20x33cl | Pepsi",
       "price": "99.00 SEK",
       "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F561a568f68a9f0102e17f8112bc3f4da&w=600&s=3c6243b36ff6c6cf931e15c2da890452",
       "validFrom": "2026-05-03T22:00:00+0000",
-      "validTo": "2026-05-22T21:59:59+0000",
-      "key": "ICA Nära:Pepsi Max 20-pack:2026-05-03"
+      "validTo": "2026-05-10T21:59:59+0000",
+      "key": "ICA Nära:Max 20p B:2026-05-03"
     },
     {
       "store": "Coop X:-TRA",
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 2 liter. Jfr-pris 9:75/liter. Ord. pris 26:41/st. Pant tillkommer.",
       "price": "63.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjJ4__IvB%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=36ce4cce35f986ee3460effdca64b4df",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoUv-cwzI%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=d09de65752baddedc7c2ea606dabe2d5",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-03"
