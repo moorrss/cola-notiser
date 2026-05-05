@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-05T20:13:27.272812Z",
+  "lastChecked": "2026-05-05T22:07:40.649714Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Obs! Max 1 st | Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "description": "Obs! Max 1 st | Coca-Cola. Zero Sugar. 10 x 33 cl. Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkzhPZ_op%2Fp-1.webp&w=600&x1r=0.0244&x2r=0.2923&y1r=0.4826&y2r=0.7596&s=f80eb89052948c9a2d75e176e1e09af3",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTA5K2C_j%2Fp-8.webp&w=600&x1r=0.0473&x2r=0.5526&y1r=0.0885&y2r=0.3287&s=bc40a0ae64cb908cacb601a8abfe5982",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-05-03"
@@ -104,11 +104,11 @@
     {
       "store": "ICA Nära",
       "product": "Pepsi",
-      "description": "33cl | Pepsi",
-      "price": "7.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F0408f9ecce42a9124ef47f40e4e2584c&w=600&s=d3e490d0a11b0a26df5e4fcb3c525ce4",
+      "description": "20x33 cl | Flak. Regular, Max, Max Lime | Pepsi",
+      "price": "20.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F6d97fd8c5da542d93856c17ec2d30b49&w=600&s=8e22a30dbad0b17229186fe071a04aa6",
       "validFrom": "2026-05-03T22:00:00+0000",
-      "validTo": "2026-05-24T21:59:59+0000",
+      "validTo": "2026-05-06T21:59:59+0000",
       "key": "ICA Nära:Pepsi:2026-05-03"
     },
     {
@@ -116,7 +116,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 2 liter. Jfr-pris 9:75/liter. Ord. pris 26:41/st. Pant tillkommer.",
       "price": "63.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzUEVYV3_%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=71bed9d464740b8d31a4a109533362f6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYx8qq5AO%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=a5786c07ddf12b528126ad5077c5477e",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-03"
