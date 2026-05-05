@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-05T16:47:56.785719Z",
+  "lastChecked": "2026-05-05T18:17:34.240913Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Obs! Max 1 st | Coca-Cola. Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "description": "Obs! Max 1 st | Klipp! Klipp! Klipp! Klipp!. Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmQYr6ekh%2Fp-1.webp&w=600&x1r=0.0244&x2r=0.2925&y1r=0.4826&y2r=0.7595&s=0bb15a2836a9ffe25bdd75e23c7e0a8c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpLaqCY8l%2Fp-1.webp&w=600&x1r=0.0244&x2r=0.2923&y1r=0.4826&y2r=0.7596&s=230c17e4d410b2b107f391323240d938",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-05-03"
@@ -116,7 +116,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 2 liter. Jfr-pris 9:75/liter. Ord. pris 26:41/st. Pant tillkommer.",
       "price": "63.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7XabTye0%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=6c6e4726b1aaf2317d92e37f58f2a4b2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBpDl6TSM%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=0ef18b001d2bb7b11fe8dcfb098e04ab",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-03"
