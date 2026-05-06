@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-06T14:38:24.872995Z",
+  "lastChecked": "2026-05-06T16:49:46.647182Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Obs! Max 1 st | Coca-Cola. Zero Sugar. 10 x 33 cl. Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "description": "Obs! Max 1 st | Klipp! Klipp! Klipp! Klipp!. Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FU77jR4vU%2Fp-6.webp&w=600&x1r=0.0473&x2r=0.5526&y1r=0.0885&y2r=0.3287&s=d59a6399f77b92f961f17fdaf095d30a",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fep47vChn%2Fp-1.webp&w=600&x1r=0.0244&x2r=0.2923&y1r=0.4826&y2r=0.7596&s=e368ecb674654006649641786a4bbdec",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-05-03"
@@ -106,7 +106,7 @@
       "product": "Läsk",
       "description": "Du sparar. 90,80. Pepsi/7UP/Zingo/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 13:48/liter. Pant tillkommer. Ord. pris 8:99/st.",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ftek0neDs%2Fp-3.webp&w=600&x1r=0.0186&x2r=0.5012&y1r=0.4561&y2r=0.7183&s=31861e84d1917825f0b2603c5cc624f0",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH-9-c6sn%2Fp-3.webp&w=600&x1r=0.0186&x2r=0.5012&y1r=0.4561&y2r=0.7183&s=cf8d5d000656e3a438d645a0c9aef8b5",
       "validFrom": "2026-05-10T22:00:00+0000",
       "validTo": "2026-05-17T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-10"
@@ -116,7 +116,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 2 liter. Jfr-pris 9:75/liter. Ord. pris 26:41/st. Pant tillkommer.",
       "price": "63.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdxtM_frl%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=0a70de13ed33944ee83998b7e00f5335",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkLYBRXB6%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=31a1905b90eb5ee6a9a18f281bb52b2b",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-03"
