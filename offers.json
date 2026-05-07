@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-07T03:57:10.904871Z",
+  "lastChecked": "2026-05-07T06:46:52.399898Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Obs! Max 1 st | Klipp! Klipp! Klipp! Klipp!. Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "description": "Obs! Max 1 st | Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fep47vChn%2Fp-1.webp&w=600&x1r=0.0244&x2r=0.2923&y1r=0.4826&y2r=0.7596&s=e368ecb674654006649641786a4bbdec",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoYCxF3Hb%2Fp-1.webp&w=600&x1r=0.0164&x2r=0.2923&y1r=0.4426&y2r=0.7516&s=1396585d180a61cfde7093a65ce9215c",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-05-03"
@@ -63,16 +63,6 @@
     },
     {
       "store": "ICA Nära",
-      "product": "Läsk",
-      "description": "Obs! Max 1 st | 20x33 cl | Flak. Regular, Max, Max Lime | Pepsi",
-      "price": "30.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F6d97fd8c5da542d93856c17ec2d30b49&w=600&s=8e22a30dbad0b17229186fe071a04aa6",
-      "validFrom": "2026-05-03T22:00:00+0000",
-      "validTo": "2026-05-24T21:59:59+0000",
-      "key": "ICA Nära:Läsk:2026-05-03"
-    },
-    {
-      "store": "ICA Nära",
       "product": "Pepsi Max 20-pack",
       "description": "20x33cl | Pepsi",
       "price": "99.00 SEK",
@@ -80,6 +70,16 @@
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-22T21:59:59+0000",
       "key": "ICA Nära:Pepsi Max 20-pack:2026-05-03"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "Läsk",
+      "description": "Obs! Max 1 st | 20x33 cl | Flak. Regular, Max, Max Lime | Pepsi",
+      "price": "30.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F6d97fd8c5da542d93856c17ec2d30b49&w=600&s=8e22a30dbad0b17229186fe071a04aa6",
+      "validFrom": "2026-05-03T22:00:00+0000",
+      "validTo": "2026-05-24T21:59:59+0000",
+      "key": "ICA Nära:Läsk:2026-05-03"
     },
     {
       "store": "ICA Nära",
@@ -102,11 +102,21 @@
       "key": "ICA Nära:Coca cola 4-pack:2026-05-03"
     },
     {
+      "store": "ICA Nära",
+      "product": "Suitcase Pepsi",
+      "description": "Obs! Medlemspris | 20x33cl | Pepsi",
+      "price": "109.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F49702dc9eda80a4bfdf25b2bf2d0a731&w=600&s=d7530bbbe6997461eb6566dc295ee13c",
+      "validFrom": "2026-05-03T22:00:00+0000",
+      "validTo": "2026-05-21T21:59:59+0000",
+      "key": "ICA Nära:Suitcase Pepsi:2026-05-03"
+    },
+    {
       "store": "Coop X:-TRA",
       "product": "Läsk",
       "description": "Du sparar. 90,80. Pepsi/7UP/Zingo/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 13:48/liter. Pant tillkommer. Ord. pris 8:99/st.",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FF-EML8hq%2Fp-3.webp&w=600&x1r=0.0186&x2r=0.5012&y1r=0.4561&y2r=0.7183&s=5ef0e3a1a867b5169a7cd43cf7027a51",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZe1j-fGh%2Fp-3.webp&w=600&x1r=0.0186&x2r=0.5012&y1r=0.4561&y2r=0.7183&s=a25a5c9afa019c8f825af47c6a68ad05",
       "validFrom": "2026-05-10T22:00:00+0000",
       "validTo": "2026-05-17T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-10"
@@ -116,7 +126,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 2 liter. Jfr-pris 9:75/liter. Ord. pris 26:41/st. Pant tillkommer.",
       "price": "63.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_g2jXblG%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=375d466f83581ab7a3a36dfbede634dc",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUbBjxjy6%2Fp-3.webp&w=600&x1r=0.0383&x2r=0.4008&y1r=0.3314&y2r=0.6224&s=3d9d8d50e8bfe7f0a203197a94b0bd75",
       "validFrom": "2026-05-03T22:00:00+0000",
       "validTo": "2026-05-10T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-05-03"
