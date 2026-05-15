@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-05-15T08:09:45.761880Z",
+  "lastChecked": "2026-05-15T11:26:44.324947Z",
   "offers": [
     {
       "store": "ICA Kvantum",
       "product": "LÄSK REGULAR, ZERO",
       "description": "+pant. Coca-Cola. 6x200 ml. Jfr pris 25:00/liter +pant. På tillfälligt besök!",
       "price": "30.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvLmV9ikv%2Fp-16.webp&w=600&x1r=0.2937&x2r=0.6094&y1r=0.6662&y2r=0.8215&s=2111c3336bcb79901523b92abde4f23e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH4mqMBDr%2Fp-16.webp&w=600&x1r=0.2937&x2r=0.6094&y1r=0.6662&y2r=0.8215&s=334487fd729af06cbe206e9e10d7e1e4",
       "validFrom": "2026-05-10T22:00:00+0000",
       "validTo": "2026-05-17T21:59:59+0000",
       "key": "ICA Kvantum:LÄSK REGULAR, ZERO:2026-05-10"
@@ -76,10 +76,30 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:17-8:75/liter. Pant tillkommer.",
       "price": "49.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJxTdp3fM%2Fp-2.webp&w=600&x1r=0.5296&x2r=0.9274&y1r=0.6151&y2r=0.8493&s=c013291e1b36ab5f74943db201b8deca",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQWZL6ECU%2Fp-2.webp&w=600&x1r=0.5296&x2r=0.9274&y1r=0.6151&y2r=0.8493&s=1c4a4d1f9907cc24e080afd8bdfb0a1e",
       "validFrom": "2026-05-10T22:00:00+0000",
       "validTo": "2026-05-17T21:59:59+0000",
       "key": "Coop:Läsk:2026-05-10"
+    },
+    {
+      "store": "Coop",
+      "product": "Läsk 6-pack",
+      "description": "Obs! Medlemspris | MEDLEMSPRIS. Pepsi/Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 16:41/liter. Pant tillkommer.",
+      "price": "65.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdV2IkWVR%2Fp-2.webp&w=600&x1r=0.0961&x2r=0.4022&y1r=0.6648&y2r=0.8725&s=aaee493ebadea35dbe30f7b53631e505",
+      "validFrom": "2026-05-17T22:00:00+0000",
+      "validTo": "2026-05-24T21:59:59+0000",
+      "key": "Coop:Läsk 6-pack:2026-05-17"
+    },
+    {
+      "store": "Coop",
+      "product": "Läsk 20-pack",
+      "description": "Obs! Medlemspris | Pepsi max. 20x33 cl. Jfr-pris 11:29/liter. Pant tillkommer. MEDLEMSPRIS.",
+      "price": "149.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9Y5R2hv9%2Fp-5.webp&w=600&x1r=0.0641&x2r=0.5401&y1r=0.1059&y2r=0.3335&s=10f58195bf2f86de29b25f61158b131a",
+      "validFrom": "2026-05-20T22:00:00+0000",
+      "validTo": "2026-05-24T21:59:59+0000",
+      "key": "Coop:Läsk 20-pack:2026-05-20"
     },
     {
       "store": "Coop X:-TRA",
@@ -96,10 +116,20 @@
       "product": "Läsk 4-pack",
       "description": "4-PACK. Du sparar 13,94. /förp. Coca-Cola/Fanta. Välj mellan olika sorter. 4x150 cl. Jfr-pris 9:33/liter. Pant tillkommer. Tidigare lägsta pris 69:94/st.",
       "price": "56.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuEep7SaI%2Fp-5.webp&w=600&x1r=0.0109&x2r=0.38&y1r=0.0009&y2r=0.4251&s=b845e3cd8af6df0444ead8eaafcfe61c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJ5uoH3j2%2Fp-5.webp&w=600&x1r=0.0109&x2r=0.38&y1r=0.0009&y2r=0.4251&s=e51be97f71a041ef7a6851c232368352",
       "validFrom": "2026-05-17T22:00:00+0000",
       "validTo": "2026-05-24T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 4-pack:2026-05-17"
+    },
+    {
+      "store": "Hemköp",
+      "product": "Läsk",
+      "description": "Obs! Max 20 st | Coca-Cola, Fanta, Sprite, 33cl, flera sorter, jfr-pris 18,18/l +pant, Max 20 köp",
+      "price": "6.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd9b6XA%2F09f655a786f1878e0c2ce1bc831bb93b&w=600&s=a9ce4bed05fd1d0de04131622aebe242",
+      "validFrom": "2026-05-17T22:00:00+0000",
+      "validTo": "2026-05-24T21:59:59+0000",
+      "key": "Hemköp:Läsk:2026-05-17"
     },
     {
       "store": "City Gross",
