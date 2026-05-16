@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-05-16T08:53:50.128118Z",
+  "lastChecked": "2026-05-16T10:22:54.930466Z",
   "offers": [
     {
       "store": "Lidl",
@@ -66,7 +66,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:17-8:75/liter. Pant tillkommer.",
       "price": "49.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2q5Wl-Ok%2Fp-2.webp&w=600&x1r=0.5296&x2r=0.9274&y1r=0.6151&y2r=0.8493&s=3a99206803015df54f3a530ed72c0941",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJxTdp3fM%2Fp-2.webp&w=600&x1r=0.5296&x2r=0.9274&y1r=0.6151&y2r=0.8493&s=c013291e1b36ab5f74943db201b8deca",
       "validFrom": "2026-05-10T22:00:00+0000",
       "validTo": "2026-05-17T21:59:59+0000",
       "key": "Coop:Läsk:2026-05-10"
@@ -76,7 +76,7 @@
       "product": "Läsk 6-pack",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. Pepsi/Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 16:41/liter. Pant tillkommer.",
       "price": "65.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fq5N3V5GJ%2Fp-2.webp&w=600&x1r=0.0562&x2r=0.3865&y1r=0.6374&y2r=0.8445&s=2ea23105b4e0129ca82c9197cf154fa9",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfdjWRgkp%2Fp-2.webp&w=600&x1r=0.0961&x2r=0.4022&y1r=0.6648&y2r=0.8725&s=777645565cf83f163291f8d8ec30e270",
       "validFrom": "2026-05-17T22:00:00+0000",
       "validTo": "2026-05-24T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-05-17"
@@ -96,7 +96,7 @@
       "product": "Läsk 4-pack",
       "description": "4-PACK. Du sparar 13,94. /förp. Coca-Cola/Fanta. Välj mellan olika sorter. 4x150 cl. Jfr-pris 9:33/liter. Pant tillkommer. Tidigare lägsta pris 69:94/st.",
       "price": "56.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyvlzFOy-%2Fp-5.webp&w=600&x1r=0.0109&x2r=0.38&y1r=0.0009&y2r=0.4251&s=450f490b7ac0ae172ecfce7b99f8eb98",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGpaJOjMu%2Fp-5.webp&w=600&x1r=0.0109&x2r=0.38&y1r=0.0009&y2r=0.4251&s=02e52b9af66587c04b3b924273c38231",
       "validFrom": "2026-05-17T22:00:00+0000",
       "validTo": "2026-05-24T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 4-pack:2026-05-17"
