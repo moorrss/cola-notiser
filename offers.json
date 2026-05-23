@@ -1,15 +1,15 @@
 {
-  "lastChecked": "2026-05-23T04:48:11.249231Z",
+  "lastChecked": "2026-05-23T07:35:08.360227Z",
   "offers": [
     {
       "store": "Lidl",
-      "product": "PEPSI/ ZINGO/7UP/ MOUNTAIN DEW Läsk",
+      "product": "COCA-COLA Läsk",
       "description": "",
       "price": null,
       "image": null,
-      "validFrom": "2026-05-17T22:00:00+0000",
-      "validTo": "2026-05-24T21:59:59+0000",
-      "key": "Lidl:PEPSI/ ZINGO/7UP/ MOUNTAIN DEW Läsk:2026-05-17"
+      "validFrom": "2026-05-24T22:00:00+0000",
+      "validTo": "2026-05-31T21:59:59+0000",
+      "key": "Lidl:COCA-COLA Läsk:2026-05-24"
     },
     {
       "store": "ICA Supermarket",
@@ -86,7 +86,7 @@
       "product": "Läsk",
       "description": "Obs! Medlemspris | 7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 7:78-8:33/liter. Pant tillkommer.",
       "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0Co78lya%2Fp-1.webp&w=600&x1r=0.665&x2r=0.985&y1r=0.49&y2r=0.725&s=262cb5afb9b306bc2b14bb8117af34ff",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKLcSGpuz%2Fp-1.webp&w=600&x1r=0.354&x2r=0.64&y1r=0.704&y2r=0.949&s=a3f2c6897ab9d1cd6a1fa2b7d03092f0",
       "validFrom": "2026-05-24T22:00:00+0000",
       "validTo": "2026-05-31T21:59:59+0000",
       "key": "Coop:Läsk:2026-05-24"
@@ -96,7 +96,7 @@
       "product": "Läsk 20-pack",
       "description": "Obs! Medlemspris | Pepsi max. 20x33 cl. Jfr-pris 11:29/liter. Pant tillkommer. MEDLEMSPRIS.",
       "price": "149.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuZmg6isH%2Fp-5.webp&w=600&x1r=0.0641&x2r=0.5401&y1r=0.1059&y2r=0.3335&s=ef3c810e97abb232fef1a260268eae06",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FG7v0d92R%2Fp-5.webp&w=600&x1r=0.0641&x2r=0.5401&y1r=0.1059&y2r=0.3335&s=268138d2e2011414dcb88ec3da859877",
       "validFrom": "2026-05-20T22:00:00+0000",
       "validTo": "2026-05-24T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-05-20"
@@ -106,7 +106,7 @@
       "product": "Läsk 6-pack",
       "description": "Obs! Medlemspris | MEDLEMSPRIS. Pepsi/Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 16:41/liter. Pant tillkommer.",
       "price": "65.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7XK1BOzm%2Fp-6.webp&w=600&x1r=0.0843&x2r=0.39&y1r=0.6656&y2r=0.8795&s=493dfdd2e5e4d3632deb234b73012551",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxIL4F7dE%2Fp-2.webp&w=600&x1r=0.0562&x2r=0.3865&y1r=0.6374&y2r=0.8445&s=102b5805f5ac606caf53a124fa8c0ddf",
       "validFrom": "2026-05-17T22:00:00+0000",
       "validTo": "2026-05-24T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-05-17"
