@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-06-13T16:22:03.954944Z",
+  "lastChecked": "2026-06-13T18:17:02.810818Z",
   "offers": [
     {
       "store": "Lidl",
       "product": "COCA-COLA/FANTA Läsk",
-      "description": "",
-      "price": null,
-      "image": null,
+      "description": "Välj mellan olika sorter Pant tillkommer Jfr 8,95 kr/l Max 6 förp./hushåll 2 l",
+      "price": "17.90 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FF2BJZT4N%2Fp-11.webp&w=600&x1r=0.03&x2r=0.35&y1r=0.26&y2r=0.72&s=2a7616b7c181d8338646c01af2f6610a",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "Lidl:COCA-COLA/FANTA Läsk:2026-06-14"
@@ -36,7 +36,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 6:67/liter + pant. Max 10 köp/hushåll. Stammis Pris.",
       "price": "10.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ft2PRry46%2Fp-1.webp&w=600&x1r=0.255&x2r=0.503&y1r=0.425&y2r=0.644&s=7f87694b652d1957b02e197121b1d039",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ft2PRry46%2Fp-8.webp&w=600&x1r=0.655&x2r=0.965&y1r=0.073&y2r=0.495&s=28f7d638b5a1dd8392ff599222fe8a16",
       "validFrom": "2026-06-07T22:00:00+0000",
       "validTo": "2026-06-14T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-06-07"
@@ -96,7 +96,7 @@
       "product": "Läsk 20-pack",
       "description": "Pepsi Max. 20x33 cl. Jfr-pris 12:73/liter. Pant tillkommer. 84:- /st",
       "price": "84.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FePL4LWtu%2Fp-10.webp&w=600&x1r=0.655&x2r=0.985&y1r=0.48&y2r=0.72&s=3cfac282d19aa5baf7cd51adfb3668f8",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaED3E8Sd%2Fp-10.webp&w=600&x1r=0.655&x2r=0.985&y1r=0.48&y2r=0.72&s=7255e4698d76b7032998a2a84d289ba0",
       "validFrom": "2026-06-07T22:00:00+0000",
       "validTo": "2026-06-14T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-06-07"
@@ -106,7 +106,7 @@
       "product": "Läsk",
       "description": "7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer.",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fy4dE8Hzj%2Fp-4.webp&w=600&x1r=0.665&x2r=0.967&y1r=0.045&y2r=0.318&s=10f151a0fcf115885d9584804a2905c2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1TUTudJA%2Fp-4.webp&w=600&x1r=0.665&x2r=0.967&y1r=0.045&y2r=0.318&s=c82d00df0e4a446e7d7ddbdc9fca836b",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "Coop:Läsk:2026-06-14"
@@ -116,7 +116,7 @@
       "product": "Läsk 20-pack",
       "description": "Du sparar 48,09. Pepsi Max. 20x33 cl. Jfr-pris 11:21/liter. Pant tillkommer. Tidigare lägsta pris 122:09/st.",
       "price": "74.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOiY4yHsW%2Fp-1.webp&w=600&x1r=0&x2r=0.268&y1r=0.441&y2r=0.728&s=80dcfd375d238e29918436533aea9965",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDCGSvXO4%2Fp-1.webp&w=600&x1r=0&x2r=0.268&y1r=0.441&y2r=0.728&s=61d0dce147834b5f61b2716e61c82ab2",
       "validFrom": "2026-06-07T22:00:00+0000",
       "validTo": "2026-06-14T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 20-pack:2026-06-07"
@@ -126,7 +126,7 @@
       "product": "Läsk",
       "description": "7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 7:56-8:10/liter. Pant tillkommer. Ord. pris 17:88/st.",
       "price": "34.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvPWxle5T%2Fp-6.webp&w=600&x1r=0.311&x2r=0.59&y1r=0.211&y2r=0.468&s=63bad9bc1319196759f29908627d8bf5",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzDpmTSVC%2Fp-6.webp&w=600&x1r=0.311&x2r=0.59&y1r=0.211&y2r=0.468&s=6ccba91f379e3172c24cab391d5d9b2e",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-06-14"
