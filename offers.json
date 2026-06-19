@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-06-19T19:01:42.938574Z",
+  "lastChecked": "2026-06-19T21:15:12.796342Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "COCA-COLA • FANTA • COCA-COLA ZERO SPRITE • 1,5l • Olika sorter • Jämförpris 7:33 kr/l +pant • Max 5 köp/hushåll Lägsta 30-dgrspris 19:40 kr För dig med WillysPlus",
       "price": "55.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmGlJxMpY%2Fp-1.webp&w=600&x1r=0.72&x2r=0.98&y1r=0.58&y2r=0.96&s=c1f8fb1d66f0905b732d447ce62f2091",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmtHn4Juz%2Fp-1.webp&w=600&x1r=0.72&x2r=0.98&y1r=0.58&y2r=0.96&s=ee52952f18e23ac7b219035732c573c5",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "Willys:LÄSK:2026-06-14"
@@ -26,7 +26,7 @@
       "product": "LÄSK",
       "description": "FANTA • COCA-COLA • SPRITE • 1,5l Olika sorter • Jämförpris 7:78 kr/l +pant Max 3 köp/hushåll • Lägsta 30-dgrspris 20:72 kr För dig med WillysPlus SPARA 27:16",
       "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGfz8qXkv%2Fp-1.webp&w=600&x1r=0.67&x2r=0.99&y1r=0.63&y2r=0.96&s=10714061cb2ef7af8cc78b170cab7b7d",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPZQCgiO7%2Fp-1.webp&w=600&x1r=0.67&x2r=0.99&y1r=0.63&y2r=0.96&s=f28501a3fbc0cdd1fb1068c3b5a1ea7c",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-06-14"
@@ -34,9 +34,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant. Klipp! Klipp! Klipp! Klipp!",
+      "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMtF4ZaMo%2Fp-19.webp&w=600&x1r=0.04&x2r=0.51&y1r=0.16&y2r=0.32&s=f1677c8d6a04bf631d59ea97c9137460",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fz1558msz%2Fp-9.webp&w=600&x1r=0.035&x2r=0.58&y1r=0.14&y2r=0.31&s=d3ee3162b48a89c6fd5dd0e9b905d06d",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-06-14"
@@ -94,9 +94,9 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer. MEDLEMSPRIS",
+      "description": "7Up/Zingo/Pepsi/Pommac. Vlj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer.  - MEDLEMSPRIS",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FK9kS4-74%2Fp-12.webp&w=600&x1r=0.66&x2r=0.99&y1r=0.01&y2r=0.53&s=1506739ccd7bfc5e8e2e66cdcdadc984",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F22J-yGNE%2Fp-4.webp&w=600&x1r=0.658&x2r=0.985&y1r=0.046&y2r=0.421&s=57c722b0deb54d9ecb23fdf617f5fc23",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "Coop:Läsk:2026-06-14"
@@ -106,7 +106,7 @@
       "product": "Läsk 6-pack",
       "description": "Pepsi/Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 16:41/liter. Pant tillkommer.",
       "price": "65.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJGWSMY6I%2Fp-6.webp&w=600&x1r=0.007&x2r=0.655&y1r=0.71&y2r=0.965&s=adbb678473ca011ba10fde4ef540f4b0",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Feom1_MDz%2Fp-6.webp&w=600&x1r=0.007&x2r=0.655&y1r=0.71&y2r=0.965&s=c95a4f27600b276307c9441e1498af60",
       "validFrom": "2026-06-21T22:00:00+0000",
       "validTo": "2026-06-28T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-06-21"
@@ -116,7 +116,7 @@
       "product": "Läsk",
       "description": "7Up/Zingo/Pepsi/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 7:56-8:10/liter. Pant tillkommer. Ord. pris 17:88/st.",
       "price": "34.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoA8NSgoh%2Fp-6.webp&w=600&x1r=0.311&x2r=0.59&y1r=0.211&y2r=0.468&s=fbc4b541c27332f272e42db221237524",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FV7hvFijP%2Fp-6.webp&w=600&x1r=0.311&x2r=0.59&y1r=0.211&y2r=0.468&s=9c77dc05fcb420d7ec828739ae315808",
       "validFrom": "2026-06-14T22:00:00+0000",
       "validTo": "2026-06-21T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-06-14"
@@ -126,7 +126,7 @@
       "product": "Läsk 4-pack",
       "description": "Coca-Cola/Fanta. Välj mellan olika sorter. 4x150 cl. Jfr-pris 9:33/liter. Pant tillkommer. Tidigare lägsta pris 69:94/st.",
       "price": "56.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2HDK-Gih%2Fp-3.webp&w=600&x1r=0.27&x2r=0.51&y1r=0.414&y2r=0.73&s=4cdd6a0b17cb6949bcd65583ba51e814",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBzPjex_s%2Fp-3.webp&w=600&x1r=0.27&x2r=0.51&y1r=0.414&y2r=0.73&s=42ae3ca1c4a3f725444e3467cf2000aa",
       "validFrom": "2026-06-21T22:00:00+0000",
       "validTo": "2026-06-28T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 4-pack:2026-06-21"
