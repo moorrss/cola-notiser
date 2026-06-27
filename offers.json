@@ -1,32 +1,12 @@
 {
-  "lastChecked": "2026-06-27T04:59:12.523547Z",
+  "lastChecked": "2026-06-27T08:02:07.039623Z",
   "offers": [
-    {
-      "store": "Lidl",
-      "product": "COCA-COLA Läsk",
-      "description": "",
-      "price": null,
-      "image": null,
-      "validFrom": "2026-06-21T22:00:00+0000",
-      "validTo": "2026-06-28T21:59:59+0000",
-      "key": "Lidl:COCA-COLA Läsk:2026-06-21"
-    },
-    {
-      "store": "Lidl",
-      "product": "PEPSI Läsk",
-      "description": "",
-      "price": null,
-      "image": null,
-      "validFrom": "2026-06-21T22:00:00+0000",
-      "validTo": "2026-06-28T21:59:59+0000",
-      "key": "Lidl:PEPSI Läsk:2026-06-21"
-    },
     {
       "store": "Willys",
       "product": "LÄSK 6-PACK",
       "description": "COCA-COLA • FANTA • SPRITE 6p/33cl • Olika sorter Jämförpris 14:98 kr/l +pant Max 3 köp/hushåll Lägsta 30-dgrspris 40:60 kr",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fhsi70AqW%2Fp-1.webp&w=600&x1r=0.23&x2r=0.46&y1r=0.65&y2r=0.96&s=e5b173e3989210e43d5fc0e0f1678d6b",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FG3vC5Pjv%2Fp-1.webp&w=600&x1r=0.23&x2r=0.46&y1r=0.65&y2r=0.96&s=0240972608b3f2fca5c2f765e339d265",
       "validFrom": "2026-06-21T22:00:00+0000",
       "validTo": "2026-06-28T21:59:59+0000",
       "key": "Willys:LÄSK 6-PACK:2026-06-21"
@@ -44,9 +24,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Pepsi, Zingo, 7-up. 150 cl. Max 1 erbjudande/kund. Jfr pris 11:11/liter + pant. Jfr pris 8:33/liter + pant.",
+      "description": "Pepsi, Zingo, 7-up. 150 cl. Max 1 erbjudande/kund. Jfr pris 8:33/liter + pant. Klipp! Stammis Pris",
       "price": "100.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fp0ot_8Wg%2Fp-1.webp&w=600&x1r=0.495&x2r=0.96&y1r=0.66&y2r=0.95&s=650b3e3db71dda306ff58721ec968132",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fp0ot_8Wg%2Fp-3.webp&w=600&x1r=0.04&x2r=0.48&y1r=0.42&y2r=0.69&s=5a45e0f3e0c6610b1e5ba0d6be9fbb9e",
       "validFrom": "2026-06-21T22:00:00+0000",
       "validTo": "2026-06-28T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-06-21"
@@ -92,21 +72,11 @@
       "key": "ICA Nära:Handla andra varor för 500kr så får du köpa 10pack läsk:2026-06-21"
     },
     {
-      "store": "ICA Nära",
-      "product": "Max",
-      "description": "1.5l | Pepsi",
-      "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F168cf7cc8509c1485c5412457bde8c9c&w=600&s=4d26c947b3b1f6af99b89723b61974d6",
-      "validFrom": "2026-06-21T22:00:00+0000",
-      "validTo": "2026-07-05T21:59:59+0000",
-      "key": "ICA Nära:Max:2026-06-21"
-    },
-    {
       "store": "Coop",
       "product": "Läsk 6-pack",
       "description": "Pepsi/Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 16:41/liter. Pant tillkommer.",
       "price": "65.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FOpzTZ_m3%2Fp-6.webp&w=600&x1r=0&x2r=0.65&y1r=0.7&y2r=0.96&s=adc9b25a7ebef7eff60dfe66407bafea",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYj4rSsbA%2Fp-6.webp&w=600&x1r=0.64&x2r=0.959&y1r=0.465&y2r=0.697&s=777181cfda8ee97130150f7a0ee2a54a",
       "validFrom": "2026-06-21T22:00:00+0000",
       "validTo": "2026-06-28T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-06-21"
@@ -126,7 +96,7 @@
       "product": "Läsk 4-pack",
       "description": "Coca-Cola/Fanta. Välj mellan olika sorter. 4x150 cl. Jfr-pris 9:33/liter. Pant tillkommer. Tidigare lägsta pris 69:94/st.",
       "price": "56.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7i4MKXkK%2Fp-3.webp&w=600&x1r=0.27&x2r=0.51&y1r=0.414&y2r=0.73&s=72ebe98089c96a091337474c1ce50899",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcaLHqGSR%2Fp-3.webp&w=600&x1r=0.27&x2r=0.51&y1r=0.414&y2r=0.73&s=65ab1c6fad00c6a79c9e017b665e4583",
       "validFrom": "2026-06-21T22:00:00+0000",
       "validTo": "2026-06-28T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 4-pack:2026-06-21"
