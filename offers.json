@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-06-29T21:40:26.032162Z",
+  "lastChecked": "2026-06-29T23:06:56.914171Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK",
       "description": "PEPSI • 7UP • ZINGO • 1,5l • Olika sorter • Jämförpris 7:87 kr/l +pant • Lägsta 30-dgrspris 14:10-17:88 kr",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8Euz0o19%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=1781dc51621425dccb91b54a3336ac35",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRvq9lXcu%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=893799db1b0f0c92a95dde7aea4149c7",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Willys:LÄSK:2026-06-28"
@@ -116,7 +116,7 @@
       "product": "Läsk 6-pack",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:90/liter. Pant tillkommer.",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4uIbelnG%2Fp-4.webp&w=600&x1r=0.65&x2r=1&y1r=0.04&y2r=0.54&s=11f222a79efd9043f5746b6b6bcd38e4",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FW5aYp3yB%2Fp-4.webp&w=600&x1r=0.65&x2r=1&y1r=0.04&y2r=0.54&s=d5908e1bb6c41b82e4f7c34342e97008",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-06-28"
@@ -126,7 +126,7 @@
       "product": "Läsk",
       "description": "Pepsi/7UP/Zingo/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 12:88/liter. Pant tillkommer. Ord. pris 8:99/st. VECKANS BÄSTA! Du sparar 94,80",
       "price": "85.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FshZIJ0Zp%2Fp-1.webp&w=600&x1r=0.02&x2r=0.98&y1r=0.73&y2r=0.965&s=0c38d9aa73cebf78ef9329ece893bc1e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FduJQ39Oc%2Fp-1.webp&w=600&x1r=0.02&x2r=0.98&y1r=0.73&y2r=0.965&s=8a7996beb7bd423647c2c42c5fde3b5e",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-06-28"
