@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-06-29T11:20:29.596012Z",
+  "lastChecked": "2026-06-29T16:03:00.949031Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK",
       "description": "PEPSI • 7UP • ZINGO • 1,5l • Olika sorter • Jämförpris 7:87 kr/l +pant • Lägsta 30-dgrspris 14:10-17:88 kr",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9n6k4o8c%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=4e61bd0064654313a0aec7816dd7a7f6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcJ5wEVsk%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=44bf9357b7028d75653486d2638489cf",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Willys:LÄSK:2026-06-28"
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "PEPSI • 7UP • ZINGO • 1,5l • Olika sorter Jämförpris 7:78 kr/l +pant Lägsta 30-dgrspris 15:04-18:83 kr 3 FÖR 35,00 +pant SPARA 10:12-21:49",
       "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGjXSI0cb%2Fp-3.webp&w=600&x1r=0.33&x2r=0.73&y1r=0.2&y2r=0.7&s=71607de67fdfd18ab5e3d1882fd20484",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJdNfPPgj%2Fp-3.webp&w=600&x1r=0.33&x2r=0.73&y1r=0.2&y2r=0.7&s=47ab83de72b1999852a1f8f847ab6d2b",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-06-28"
@@ -42,6 +42,26 @@
       "key": "ICA Supermarket:Läsk:2026-06-28"
     },
     {
+      "store": "ICA Supermarket",
+      "product": "Burkläsk 20p",
+      "description": "20x33cl | Coca-Cola",
+      "price": "100.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2F786019f25492dd9b7c8dfd093ec3e62f&w=600&s=3e86cb18173649479e3b1095a9f6a590",
+      "validFrom": "2026-06-28T22:00:00+0000",
+      "validTo": "2026-07-05T21:59:59+0000",
+      "key": "ICA Supermarket:Burkläsk 20p:2026-06-28"
+    },
+    {
+      "store": "ICA Supermarket",
+      "product": "V26 Coca Cola 4x1,5 l",
+      "description": "4x1.5l | Coca-Cola",
+      "price": "39.90 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2F58fd089c30fa95e5e6e666f3dd0fe212&w=600&s=e4d25a1a43679ceaf9cd53fa9ed6130b",
+      "validFrom": "2026-06-28T22:00:00+0000",
+      "validTo": "2026-06-29T21:59:59+0000",
+      "key": "ICA Supermarket:V26 Coca Cola 4x1,5 l:2026-06-28"
+    },
+    {
       "store": "ICA Nära",
       "product": "Läsk",
       "description": "6-pack | 6x33 cl | Coca-Cola, Fanta, Sprite",
@@ -50,6 +70,16 @@
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "ICA Nära:Läsk:2026-07-05"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "Läsk 20-pack",
+      "description": "20x33cl | Gäller Original, Zero | Coca-Cola",
+      "price": "89.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fa67f8facb2c6e98cee611cb1614ff02f&w=600&s=f4afe6d5664c9aef8bf75c27487d0251",
+      "validFrom": "2026-07-05T22:00:00+0000",
+      "validTo": "2026-07-12T21:59:59+0000",
+      "key": "ICA Nära:Läsk 20-pack:2026-07-05"
     },
     {
       "store": "ICA Nära",
@@ -73,40 +103,20 @@
     },
     {
       "store": "ICA Nära",
-      "product": "Läsk 20-pack",
-      "description": "20x33cl | Gäller Original, Zero | Coca-Cola",
-      "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fa67f8facb2c6e98cee611cb1614ff02f&w=600&s=f4afe6d5664c9aef8bf75c27487d0251",
-      "validFrom": "2026-07-05T22:00:00+0000",
-      "validTo": "2026-07-12T21:59:59+0000",
-      "key": "ICA Nära:Läsk 20-pack:2026-07-05"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Coca cola 20-pack",
-      "description": "33cl | Gäller så långt lagret räcker | Coca-Cola",
-      "price": "89.00 SEK",
+      "product": "Coca cola 20 pack",
+      "description": "33cl | Coca-Cola",
+      "price": "109.00 SEK",
       "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F359f39c37d84b2d39b4f1b1f139ce275&w=600&s=2af4d883296d3900dfa84397ced89e6e",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-19T21:59:59+0000",
-      "key": "ICA Nära:Coca cola 20-pack:2026-07-05"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Max",
-      "description": "1.5l | Pepsi",
-      "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F168cf7cc8509c1485c5412457bde8c9c&w=600&s=4d26c947b3b1f6af99b89723b61974d6",
-      "validFrom": "2026-07-05T22:00:00+0000",
-      "validTo": "2026-07-05T21:59:59+0000",
-      "key": "ICA Nära:Max:2026-07-05"
+      "key": "ICA Nära:Coca cola 20 pack:2026-07-05"
     },
     {
       "store": "Coop",
       "product": "Läsk 6-pack",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:90/liter. Pant tillkommer.",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmX-zu9M4%2Fp-4.webp&w=600&x1r=0.65&x2r=1&y1r=0.04&y2r=0.54&s=dfb8f68901d0d4ea9dcb69f1ba7b3729",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkKReNk6q%2Fp-4.webp&w=600&x1r=0.65&x2r=1&y1r=0.04&y2r=0.54&s=4bc201047d8e0bcd8a49b9e02ccd7271",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-06-28"
