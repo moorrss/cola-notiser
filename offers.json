@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-07-01T10:05:14.918738Z",
+  "lastChecked": "2026-07-01T13:37:55.302762Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK",
       "description": "PEPSI • 7UP • ZINGO • 1,5l • Olika sorter • Jämförpris 7:87 kr/l +pant • Lägsta 30-dgrspris 14:10-17:88 kr",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FmF-R795c%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=8b007914e587f398f5f53120b0c4b6d0",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKlF4o7m3%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=8d2e7851aa6eebc0c8e82a65748db390",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Willys:LÄSK:2026-06-28"
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "PEPSI • 7UP • ZINGO • 1,5l • Olika sorter Jämförpris 7:78 kr/l +pant Lägsta 30-dgrspris 15:04-18:83 kr 3 FÖR 35,00 +pant SPARA 10:12-21:49",
       "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdQRcytKl%2Fp-3.webp&w=600&x1r=0.33&x2r=0.73&y1r=0.2&y2r=0.7&s=5d99d11035e0a1d4cb0d22851d4c526e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWOnPzKNw%2Fp-3.webp&w=600&x1r=0.33&x2r=0.73&y1r=0.2&y2r=0.7&s=79d9c3a378b3d6155146a074cf44e7a1",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-06-28"
@@ -83,26 +83,6 @@
     },
     {
       "store": "ICA Nära",
-      "product": "Coca cola 20 pack",
-      "description": "33cl | Coca-Cola",
-      "price": "109.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F359f39c37d84b2d39b4f1b1f139ce275&w=600&s=2af4d883296d3900dfa84397ced89e6e",
-      "validFrom": "2026-07-05T22:00:00+0000",
-      "validTo": "2026-07-19T21:59:59+0000",
-      "key": "ICA Nära:Coca cola 20 pack:2026-07-05"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "coca-cola",
-      "description": "20x33cl | Coca-Cola",
-      "price": "125.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fa3534b2b0498fdea711c4e6a81dfdc11&w=600&s=439e61314af9196506eea1990ddcd11f",
-      "validFrom": "2026-07-05T22:00:00+0000",
-      "validTo": "2026-07-19T21:59:59+0000",
-      "key": "ICA Nära:coca-cola:2026-07-05"
-    },
-    {
-      "store": "ICA Nära",
       "product": "Max",
       "description": "1.5l | Pepsi",
       "price": "50.00 SEK",
@@ -122,11 +102,31 @@
       "key": "ICA Nära:Läsk 20-pack:2026-07-05"
     },
     {
+      "store": "ICA Nära",
+      "product": "Coca cola 20 pack",
+      "description": "33cl | Coca-Cola",
+      "price": "109.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F359f39c37d84b2d39b4f1b1f139ce275&w=600&s=2af4d883296d3900dfa84397ced89e6e",
+      "validFrom": "2026-07-05T22:00:00+0000",
+      "validTo": "2026-07-19T21:59:59+0000",
+      "key": "ICA Nära:Coca cola 20 pack:2026-07-05"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "coca-cola",
+      "description": "20x33cl | Coca-Cola",
+      "price": "125.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fa3534b2b0498fdea711c4e6a81dfdc11&w=600&s=439e61314af9196506eea1990ddcd11f",
+      "validFrom": "2026-07-05T22:00:00+0000",
+      "validTo": "2026-07-19T21:59:59+0000",
+      "key": "ICA Nära:coca-cola:2026-07-05"
+    },
+    {
       "store": "Coop",
       "product": "Läsk 6-pack",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:90/liter. Pant tillkommer.",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBEgeSY4r%2Fp-4.webp&w=600&x1r=0.65&x2r=1&y1r=0.04&y2r=0.54&s=9bd83a9807ec8e796a9586ff29bbfee6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fq8KCYvrR%2Fp-4.webp&w=600&x1r=0.664&x2r=0.983&y1r=0.048&y2r=0.424&s=358c379133013237ed3e294ea558ec67",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-06-28"
@@ -136,7 +136,7 @@
       "product": "Läsk",
       "description": "Pepsi/7UP/Zingo/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 12:88/liter. Pant tillkommer. Ord. pris 8:99/st. VECKANS BÄSTA! Du sparar 94,80",
       "price": "85.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLt9gsm_4%2Fp-1.webp&w=600&x1r=0.02&x2r=0.98&y1r=0.73&y2r=0.965&s=c4c3f29dcf9834b163aff2812b8528a5",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FduJQ39Oc%2Fp-1.webp&w=600&x1r=0.02&x2r=0.98&y1r=0.73&y2r=0.965&s=8a7996beb7bd423647c2c42c5fde3b5e",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-06-28"
