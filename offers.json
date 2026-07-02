@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-07-02T16:57:18.175934Z",
+  "lastChecked": "2026-07-02T18:41:51.147938Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK",
       "description": "PEPSI • 7UP • ZINGO • 1,5l • Olika sorter • Jämförpris 7:87 kr/l +pant • Lägsta 30-dgrspris 14:10-17:88 kr",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FeZx2mnrS%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=45ca4cf4a2828cfb9b7f7285c830c10c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwazprCzN%2Fp-7.webp&w=600&x1r=0.23&x2r=0.724&y1r=0.37&y2r=0.729&s=02068fe5ae40ee594ba0048f54eb4ee7",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Willys:LÄSK:2026-06-28"
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "PEPSI • 7UP • ZINGO • 1,5l • Olika sorter Jämförpris 7:78 kr/l +pant Lägsta 30-dgrspris 15:04-18:83 kr 3 FÖR 35,00 +pant SPARA 10:12-21:49",
       "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FobuPELV5%2Fp-3.webp&w=600&x1r=0.33&x2r=0.73&y1r=0.2&y2r=0.7&s=3c4d2aad2194af15ad71441355ed91cd",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWOnPzKNw%2Fp-3.webp&w=600&x1r=0.33&x2r=0.73&y1r=0.2&y2r=0.7&s=79d9c3a378b3d6155146a074cf44e7a1",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-06-28"
@@ -134,9 +134,9 @@
     {
       "store": "Coop",
       "product": "Läsk 6-pack",
-      "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:90/liter. Pant tillkommer. 2 FÖR 59:- MEDLEMSPRIS",
+      "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:90/liter. Pant tillkommer. MEDLEMSPRIS",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQZlRYvtZ%2Fp-8.webp&w=600&x1r=0.65&x2r=0.99&y1r=0.04&y2r=0.53&s=30a5dbb5d7d1b1249e16b151b0d9d1f0",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYQglXT5f%2Fp-6.webp&w=600&x1r=0.01&x2r=0.645&y1r=0.125&y2r=0.475&s=3e6810af407623ac590c2c4602ac0a5a",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-06-28"
@@ -146,7 +146,7 @@
       "product": "Läsk 4-pack",
       "description": "Coca-Cola/Fanta. Välj mellan olika sorter. 4x150 cl. Jfr-pris 9:33/liter. Pant tillkommer.",
       "price": "56.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2O82bew6%2Fp-10.webp&w=600&x1r=0.052&x2r=0.337&y1r=0.47&y2r=0.688&s=5cd8cf3cea18fcad7556879ba9a40a35",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcZnlIrKy%2Fp-10.webp&w=600&x1r=0.052&x2r=0.337&y1r=0.47&y2r=0.688&s=be3042175ce1633557e5358444932b60",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Coop:Läsk 4-pack:2026-07-05"
@@ -156,7 +156,7 @@
       "product": "Läsk",
       "description": "Pepsi/7UP/Zingo/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 12:88/liter. Pant tillkommer. Ord. pris 8:99/st. VECKANS BÄSTA! Du sparar 94,80",
       "price": "85.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRM5oBA7Y%2Fp-1.webp&w=600&x1r=0.02&x2r=0.98&y1r=0.73&y2r=0.965&s=3654440c1dd0239ee978dc714885b2fd",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUb7s3Niw%2Fp-1.webp&w=600&x1r=0.02&x2r=0.98&y1r=0.73&y2r=0.965&s=c7f562355aaf24d5b1aac6f4715c1a32",
       "validFrom": "2026-06-28T22:00:00+0000",
       "validTo": "2026-07-05T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-06-28"
