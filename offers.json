@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-07-07T12:03:43.104506Z",
+  "lastChecked": "2026-07-07T15:46:58.523400Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK 15-PACK",
       "description": "För dig med WillysPlus 59,90 +pant SPARA 40:00 COCA-COLA • COCA-COLA ZERO 15p/33cl • Jämförpris 12:10 kr/l +pant Max 5 köp/hushåll • Lägsta 30-dgrspris 99:90 kr",
       "price": "59.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F11Jr5sgC%2Fp-1.webp&w=600&x1r=0.04&x2r=0.52&y1r=0.32&y2r=0.65&s=6b0d4fb1e55fe2951c34a7971823ed24",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2zEOUS1q%2Fp-1.webp&w=600&x1r=0.04&x2r=0.52&y1r=0.32&y2r=0.65&s=333a7f1a5fdde5b999c4b5a03162cafb",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Willys:LÄSK 15-PACK:2026-07-05"
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZ_6FhBoh%2Fp-1.webp&w=600&x1r=0.041&x2r=0.515&y1r=0.496&y2r=0.74&s=57cf576ea7b0046fb621547e351be5c7",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F69J2N4UR%2Fp-1.webp&w=600&x1r=0.04&x2r=0.51&y1r=0.49&y2r=0.74&s=f01f2f23e7a5bf11e529ab5b1756bc6c",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-07-05"
@@ -63,6 +63,16 @@
     },
     {
       "store": "ICA Nära",
+      "product": "Läsk 20-pack",
+      "description": "20x33cl | Gäller Original, Zero | Coca-Cola",
+      "price": "89.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fa67f8facb2c6e98cee611cb1614ff02f&w=600&s=f4afe6d5664c9aef8bf75c27487d0251",
+      "validFrom": "2026-07-05T22:00:00+0000",
+      "validTo": "2026-07-12T21:59:59+0000",
+      "key": "ICA Nära:Läsk 20-pack:2026-07-05"
+    },
+    {
+      "store": "ICA Nära",
       "product": "Max 6p B",
       "description": "6x33cl | Pepsi",
       "price": "39.00 SEK",
@@ -82,21 +92,11 @@
       "key": "ICA Nära:Max:2026-07-05"
     },
     {
-      "store": "ICA Nära",
-      "product": "Läsk 20-pack",
-      "description": "20x33cl | Gäller Original, Zero | Coca-Cola",
-      "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fa67f8facb2c6e98cee611cb1614ff02f&w=600&s=f4afe6d5664c9aef8bf75c27487d0251",
-      "validFrom": "2026-07-05T22:00:00+0000",
-      "validTo": "2026-07-12T21:59:59+0000",
-      "key": "ICA Nära:Läsk 20-pack:2026-07-05"
-    },
-    {
       "store": "Coop",
       "product": "Läsk 20-pack",
-      "description": "Pepsi Max. 20x33 cl. Jfr-pris 15:61/liter. Pant tillkommer. 103:- /st",
+      "description": "Pepsi Max. 20x33 cl. Jfr-pris 15:61/liter. Pant tillkommer.",
       "price": "103.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUEyw1Qz8%2Fp-10.webp&w=600&x1r=0&x2r=0.35&y1r=0.475&y2r=0.71&s=54240ecb08ad45266e83695d418ccbf4",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGk9hA73w%2Fp-10.webp&w=600&x1r=0.652&x2r=0.947&y1r=0.47&y2r=0.688&s=5fa5507dba7a0ecb5381bede8804679e",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-07-05"
@@ -106,7 +106,7 @@
       "product": "Läsk 4-pack",
       "description": "Coca-Cola/Fanta. Välj mellan olika sorter. 4x150 cl. Jfr-pris 9:33/liter. Pant tillkommer.",
       "price": "56.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbQ3lhk4i%2Fp-10.webp&w=600&x1r=0.052&x2r=0.337&y1r=0.47&y2r=0.688&s=4871f93949ac5f548aa5fe5beeabad25",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFgalcCeJ%2Fp-10.webp&w=600&x1r=0.052&x2r=0.337&y1r=0.47&y2r=0.688&s=da09c43d33c5a8400b70d988a0a9ca9b",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Coop:Läsk 4-pack:2026-07-05"
