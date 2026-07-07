@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-07-07T04:09:59.776572Z",
+  "lastChecked": "2026-07-07T08:30:21.990950Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK 15-PACK",
       "description": "För dig med WillysPlus 59,90 +pant SPARA 40:00 COCA-COLA • COCA-COLA ZERO 15p/33cl • Jämförpris 12:10 kr/l +pant Max 5 köp/hushåll • Lägsta 30-dgrspris 99:90 kr",
       "price": "59.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSxbQrhDK%2Fp-1.webp&w=600&x1r=0.04&x2r=0.52&y1r=0.32&y2r=0.65&s=88ef4bc220c83a4dbb1a34fef132ebd8",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fry8g7679%2Fp-1.webp&w=600&x1r=0.04&x2r=0.52&y1r=0.32&y2r=0.65&s=fb3de8bff6f9646e238f5d556f0578b8",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Willys:LÄSK 15-PACK:2026-07-05"
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCpSkKdP5%2Fp-5.webp&w=600&x1r=0.038&x2r=0.276&y1r=0.057&y2r=0.404&s=9863cb32e1b0463a2081052300746d4d",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzRvY6IV-%2Fp-1.webp&w=600&x1r=0.036&x2r=0.521&y1r=0.501&y2r=0.741&s=ee337b6aa1ed06237975767235e8637b",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-07-05"
@@ -94,9 +94,9 @@
     {
       "store": "Coop",
       "product": "Läsk 20-pack",
-      "description": "Pepsi Max. 20x33 cl. Jfr-pris 15:61/liter. Pant tillkommer.",
+      "description": "Pepsi Max. 20x33 cl. Jfr-pris 15:61/liter. Pant tillkommer. 103:- /st",
       "price": "103.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyL032ayy%2Fp-10.webp&w=600&x1r=0.01&x2r=0.35&y1r=0.48&y2r=0.71&s=94f7e91eb3e884c86267a5f293a24eb2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcN6L_88Y%2Fp-10.webp&w=600&x1r=0&x2r=0.35&y1r=0.475&y2r=0.71&s=5aad2d27a530d395dbc6c605c9e146c2",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-07-05"
