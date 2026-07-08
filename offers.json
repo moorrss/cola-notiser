@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-07-08T10:27:54.540332Z",
+  "lastChecked": "2026-07-08T12:46:54.554748Z",
   "offers": [
     {
       "store": "Willys",
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjF9XQbme%2Fp-1.webp&w=600&x1r=0.043&x2r=0.505&y1r=0.501&y2r=0.73&s=8e7763d31b50676a4f3e83b6a2844b2e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fdb4ceVJx%2Fp-1.webp&w=600&x1r=0.038&x2r=0.511&y1r=0.499&y2r=0.738&s=c9023482c5d3f7a5585e54b471e278d5",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-07-05"
@@ -80,16 +80,6 @@
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "ICA Nära:Läsk 20-pack:2026-07-05"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Max 6p B",
-      "description": "6x33cl | Pepsi",
-      "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fffe322c5e1df122c60346dd4c8816684&w=600&s=3b903c9afb7c1b418fcb526f5f29ff2c",
-      "validFrom": "2026-07-05T22:00:00+0000",
-      "validTo": "2026-07-24T21:59:59+0000",
-      "key": "ICA Nära:Max 6p B:2026-07-05"
     },
     {
       "store": "Coop",
