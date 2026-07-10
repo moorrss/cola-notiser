@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-07-10T08:33:03.266346Z",
+  "lastChecked": "2026-07-10T12:05:54.154091Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK 15-PACK",
       "description": "För dig med WillysPlus 59,90 +pant SPARA 40:00 COCA-COLA • COCA-COLA ZERO 15p/33cl • Jämförpris 12:10 kr/l +pant Max 5 köp/hushåll • Lägsta 30-dgrspris 99:90 kr",
       "price": "59.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvtpxSbjl%2Fp-1.webp&w=600&x1r=0.04&x2r=0.52&y1r=0.32&y2r=0.65&s=62dbd4102fb5039d657f32f9ad7064a6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FXbaxID1g%2Fp-1.webp&w=600&x1r=0.04&x2r=0.52&y1r=0.32&y2r=0.65&s=cbbc40211cb40a321d573cc8c514edf0",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Willys:LÄSK 15-PACK:2026-07-05"
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7XJVrBsk%2Fp-5.webp&w=600&x1r=0.038&x2r=0.276&y1r=0.057&y2r=0.404&s=0d9d84cb745e8166f9a94a172eb63164",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fw--QwAkR%2Fp-1.webp&w=600&x1r=0.041&x2r=0.515&y1r=0.496&y2r=0.74&s=26fa68ecd2bef32baa431cddd2a46426",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-07-05"
@@ -74,9 +74,9 @@
     {
       "store": "Coop",
       "product": "Läsk 20-pack",
-      "description": "Pepsi Max. 20x33 cl. Jfr-pris 15:61/liter. Pant tillkommer.",
+      "description": "Pepsi Max. 20x33 cl. Jfr-pris 15:61/liter. Pant tillkommer. 103:- /st",
       "price": "103.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfX52E88h%2Fp-10.webp&w=600&x1r=0.652&x2r=0.947&y1r=0.47&y2r=0.688&s=e6da5c9e3fc3bc4b51d99bebb7ab7c4d",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZ9GYfAyO%2Fp-10.webp&w=600&x1r=0&x2r=0.35&y1r=0.475&y2r=0.71&s=126fa8fce451bc8715afcdf9d5684bab",
       "validFrom": "2026-07-05T22:00:00+0000",
       "validTo": "2026-07-12T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-07-05"
@@ -96,7 +96,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 10:89/liter. Pant tillkommer. 3 FÖR 49:- MEDLEMSPRIS",
       "price": "49.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7OyjjxBy%2Fp-1.webp&w=600&x1r=0.015&x2r=0.33&y1r=0.699&y2r=0.95&s=14e70a17c720c32a6c4aa81a80bdfdba",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fso73Bczq%2Fp-1.webp&w=600&x1r=0.005&x2r=0.335&y1r=0.693&y2r=0.923&s=ea15d9cf74dee449036f464b96889651",
       "validFrom": "2026-07-12T22:00:00+0000",
       "validTo": "2026-07-19T21:59:59+0000",
       "key": "Coop:Läsk:2026-07-12"
@@ -106,20 +106,10 @@
       "product": "Läsk 20-pack",
       "description": "Pepsi Max. 20x33 cl. Jfr-pris 15:-/liter. Pant tillkommer. Tidigare lägsta pris 122:09/st.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-ff61EFg%2Fp-3.webp&w=600&x1r=0.35&x2r=0.7&y1r=0.01&y2r=0.25&s=088ca512fe6eaf7fcb49c9e5a73b8a8e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fmuk9fd2T%2Fp-3.webp&w=600&x1r=0.35&x2r=0.7&y1r=0.01&y2r=0.25&s=59a87b6d890c80d3d7da5b1917061674",
       "validFrom": "2026-07-12T22:00:00+0000",
       "validTo": "2026-07-19T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 20-pack:2026-07-12"
-    },
-    {
-      "store": "Hemköp",
-      "product": "Pepsi",
-      "description": "Pepsi Max 4-pack, 4x1,5l, jfr-pris 7,50/l +pant",
-      "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd9b6XA%2F87bb22cd5236a593fde759df3d6ecd86&w=600&s=ba0a5187267c461b304addeff6425c95",
-      "validFrom": "2026-07-05T22:00:00+0000",
-      "validTo": "2026-07-12T21:59:59+0000",
-      "key": "Hemköp:Pepsi:2026-07-05"
     },
     {
       "store": "City Gross",
