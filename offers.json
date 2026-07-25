@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-07-25T04:16:58.908136Z",
+  "lastChecked": "2026-07-25T07:23:15.143918Z",
   "offers": [
     {
       "store": "Lidl",
@@ -12,11 +12,21 @@
       "key": "Lidl:COCA-COLA Läsk original/zero:2026-07-19"
     },
     {
+      "store": "Lidl",
+      "product": "SPRITE/COCA-COLA/FANTA Läsk",
+      "description": "",
+      "price": null,
+      "image": null,
+      "validFrom": "2026-07-26T22:00:00+0000",
+      "validTo": "2026-08-02T21:59:59+0000",
+      "key": "Lidl:SPRITE/COCA-COLA/FANTA Läsk:2026-07-26"
+    },
+    {
       "store": "Willys",
       "product": "LÄSK 20-PACK",
       "description": "För dig med WillysPlus 20 FÖR 99:00 +pant SPARA 88:20 COCA-COLA • FANTA • SPRITE • 33cl Olika sorter • Jämförpris 15:00 kr/l +pant Max 3 köp/hushåll • Lägsta 30-dgrspris 8:99-9:36 kr",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9phNhRa8%2Fp-2.webp&w=600&x1r=0&x2r=0.34&y1r=0.38&y2r=0.73&s=051f79faf68dfb3ac6bad356cb8a543e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fg9hyKq2P%2Fp-2.webp&w=600&x1r=0&x2r=0.34&y1r=0.38&y2r=0.73&s=bae6c90b7d3043c874aa095e7189f9a0",
       "validFrom": "2026-07-19T22:00:00+0000",
       "validTo": "2026-07-26T21:59:59+0000",
       "key": "Willys:LÄSK 20-PACK:2026-07-19"
@@ -26,7 +36,7 @@
       "product": "LÄSK",
       "description": "COCA-COLA ZERO • COCA-COLA • FANTA • SPRITE ZERO • 33cl • Olika sorter Jämförpris 15:15 kr/l +pant Lägsta 30-dgrspris 11:26 kr 5 FÖR 25,00 +pant SPARA 31:30",
       "price": "25.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWFWf_UaU%2Fp-3.webp&w=600&x1r=0.573&x2r=0.985&y1r=0.432&y2r=0.945&s=a32169eb6a0564293024899d06024e37",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEpy0vpIN%2Fp-3.webp&w=600&x1r=0.573&x2r=0.985&y1r=0.432&y2r=0.945&s=afa7cafb806a728b40f4593bedd919b9",
       "validFrom": "2026-07-19T22:00:00+0000",
       "validTo": "2026-07-26T21:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-07-19"
@@ -96,7 +106,7 @@
       "product": "Läsk Pick & Mix",
       "description": "Pepsi/Zingo/7Up/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 15:-/liter. Pant tillkommer.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiEptyF8t%2Fp-6.webp&w=600&x1r=0.35&x2r=0.95&y1r=0.7&y2r=0.92&s=5f4b077bf3acd6f6b869dda3dfea4fad",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhSO_C3ds%2Fp-6.webp&w=600&x1r=0.334&x2r=0.648&y1r=0.458&y2r=0.716&s=1ac8cb1b0232e2b4c5f37170fb07a6b5",
       "validFrom": "2026-07-19T22:00:00+0000",
       "validTo": "2026-07-26T21:59:59+0000",
       "key": "Coop:Läsk Pick & Mix:2026-07-19"
@@ -106,7 +116,7 @@
       "product": "Läsk",
       "description": "Pepsi/Zingo/7Up/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 10-10:71/liter. Pant tillkommer.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiEptyF8t%2Fp-6.webp&w=600&x1r=0.35&x2r=0.64&y1r=0.442&y2r=0.69&s=d3321074d294c6669d12ddd5ddb2a031",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEbf7xUiM%2Fp-6.webp&w=600&x1r=0.648&x2r=1&y1r=0.474&y2r=0.951&s=660ee369eeb271605260614d0e301d2a",
       "validFrom": "2026-07-19T22:00:00+0000",
       "validTo": "2026-07-26T21:59:59+0000",
       "key": "Coop:Läsk:2026-07-19"
@@ -116,7 +126,7 @@
       "product": "Läsk 20-pack",
       "description": "Coca-Cola. Välj mellan original och zero. 20x330 ml. Jfr-pris 13:48/liter. Pant tillkommer. Tidigare lägsta pris 137:23/st. Max 2 st/hushåll. Du sparar 48:23",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrFpXZk9l%2Fp-1.webp&w=600&x1r=0.02&x2r=0.36&y1r=0.474&y2r=0.73&s=1ac71b9427361d4b7499ed590df93d26",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZrdMgHbj%2Fp-1.webp&w=600&x1r=0.02&x2r=0.36&y1r=0.474&y2r=0.73&s=095feeab90487ce4c9947a3e6e32a447",
       "validFrom": "2026-07-19T22:00:00+0000",
       "validTo": "2026-07-26T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 20-pack:2026-07-19"
