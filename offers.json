@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-07-27T07:41:08.372335Z",
+  "lastChecked": "2026-07-27T11:33:48.888548Z",
   "offers": [
     {
       "store": "Lidl",
       "product": "SPRITE/COCA-COLA/FANTA Läsk",
       "description": "2 l Superpris Pant tillkommer Välj mellan olika sorter Jfr 9,95 kr/l Max 6 förp./hushåll",
       "price": "19.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0YZ9swmw%2Fp-7.webp&w=600&x1r=0.334&x2r=0.978&y1r=0.045&y2r=0.716&s=e5b9e073c53f7f713b72764b040387b9",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7grzEhPn%2Fp-7.webp&w=600&x1r=0.334&x2r=0.978&y1r=0.045&y2r=0.716&s=a52825103dc38e455d106a9dc59e2491",
       "validFrom": "2026-07-26T22:00:00+0000",
       "validTo": "2026-08-02T21:59:59+0000",
       "key": "Lidl:SPRITE/COCA-COLA/FANTA Läsk:2026-07-26"
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Pepsi. 10 x 33 cl. Jfr pris 16:67-166:67/liter + pant. 2 för Stammis Pris",
       "price": "110.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FcAtzveWF%2Fp-3.webp&w=600&x1r=0.555&x2r=0.985&y1r=0.045&y2r=0.435&s=68b849564d8076645723c17d15b82ee6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FsXvHiD1-%2Fp-3.webp&w=600&x1r=0.555&x2r=0.985&y1r=0.045&y2r=0.435&s=dbb1d3c41c1f970cc385021d6d249c47",
       "validFrom": "2026-07-26T22:00:00+0000",
       "validTo": "2026-08-02T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-07-26"
@@ -50,16 +50,6 @@
       "validFrom": "2026-08-02T22:00:00+0000",
       "validTo": "2026-08-09T21:59:59+0000",
       "key": "ICA Nära:Coca cola 20-pack:2026-08-02"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Pepsi Max",
-      "description": "33cl | Pepsi",
-      "price": "5.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2Fc7a95f825080a9b25edb57c10bd53fb5&w=600&s=60c51021c005ffd91db9663127a12343",
-      "validFrom": "2026-08-02T22:00:00+0000",
-      "validTo": "2026-08-16T21:59:59+0000",
-      "key": "ICA Nära:Pepsi Max:2026-08-02"
     }
   ]
 }
