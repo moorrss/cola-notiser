@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-07-27T19:46:16.254592Z",
+  "lastChecked": "2026-07-27T21:18:46.214459Z",
   "offers": [
     {
       "store": "Lidl",
       "product": "SPRITE/COCA-COLA/FANTA Läsk",
       "description": "2 l Superpris Pant tillkommer Välj mellan olika sorter Jfr 9,95 kr/l Max 6 förp./hushåll",
       "price": "19.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0YZ9swmw%2Fp-7.webp&w=600&x1r=0.334&x2r=0.978&y1r=0.045&y2r=0.716&s=e5b9e073c53f7f713b72764b040387b9",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7grzEhPn%2Fp-7.webp&w=600&x1r=0.334&x2r=0.978&y1r=0.045&y2r=0.716&s=a52825103dc38e455d106a9dc59e2491",
       "validFrom": "2026-07-26T22:00:00+0000",
       "validTo": "2026-08-02T21:59:59+0000",
       "key": "Lidl:SPRITE/COCA-COLA/FANTA Läsk:2026-07-26"
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Pepsi. 10 x 33 cl. Jfr pris 16:67-166:67/liter + pant. 2 för Stammis Pris",
       "price": "110.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfRdOsg9M%2Fp-3.webp&w=600&x1r=0.555&x2r=0.985&y1r=0.045&y2r=0.435&s=075f7c501189a385a5e0591e6728baa6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFzIgdcmF%2Fp-3.webp&w=600&x1r=0.555&x2r=0.985&y1r=0.045&y2r=0.435&s=d5c5a7cad23055f5dcc696f5f8a4ffc6",
       "validFrom": "2026-07-26T22:00:00+0000",
       "validTo": "2026-08-02T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-07-26"
