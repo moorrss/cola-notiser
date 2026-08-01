@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-01T14:38:27.774061Z",
+  "lastChecked": "2026-08-01T16:06:59.346754Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Pepsi. 10 x 33 cl. Jfr pris 16:67-166:67/liter + pant. + pant",
+      "description": "Pepsi. 10 x 33 cl. Jfr pris 16:67-166:67/liter + pant.",
       "price": "110.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5DPpYWg4%2Fp-3.webp&w=600&x1r=0.547&x2r=0.978&y1r=0.043&y2r=0.448&s=020031630008411f53ed206cf2e6255d",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0e0oBhcX%2Fp-3.webp&w=600&x1r=0.569&x2r=1&y1r=0.017&y2r=0.44&s=c34979dea8f30abdda3061b3ebb3f60b",
       "validFrom": "2026-07-26T22:00:00+0000",
       "validTo": "2026-08-02T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-07-26"
@@ -66,7 +66,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 10:67/liter. Pant tillkommer.",
       "price": "32.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhTLMkcoH%2Fp-11.webp&w=600&x1r=0.012&x2r=0.334&y1r=0.005&y2r=0.479&s=3652cd8a26d07b684d91dfba14496313",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fe0KB0wVv%2Fp-11.webp&w=600&x1r=0.012&x2r=0.334&y1r=0.005&y2r=0.479&s=45a2c238b038872a5875b2f8f3463a25",
       "validFrom": "2026-08-02T22:00:00+0000",
       "validTo": "2026-08-09T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-02"
@@ -86,7 +86,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 9:67/liter. Pant tillkommer. Ord. pris från 18:83/st.",
       "price": "29.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgLDnumkl%2Fp-7.webp&w=600&x1r=0.02&x2r=0.38&y1r=0.015&y2r=0.485&s=28e1ddecdc7fab10ae279b30328ef05f",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FsxRW4dMo%2Fp-7.webp&w=600&x1r=0.02&x2r=0.38&y1r=0.015&y2r=0.485&s=0eb436efa9ba7c7905f164ef64a0b1e7",
       "validFrom": "2026-08-02T22:00:00+0000",
       "validTo": "2026-08-09T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-08-02"
