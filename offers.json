@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-10T10:24:38.003635Z",
+  "lastChecked": "2026-08-10T11:53:59.472861Z",
   "offers": [
     {
       "store": "Lidl",
@@ -26,7 +26,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant. Klipp! Klipp! Klipp! Klipp!",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSkLGy-rM%2Fp-9.webp&w=600&x1r=0.01&x2r=0.26&y1r=0.14&y2r=0.48&s=39c14c86a2666b79c4ffa8f62ad545e8",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCFXGiwYC%2Fp-9.webp&w=600&x1r=0.01&x2r=0.26&y1r=0.14&y2r=0.48&s=f9d452da9c8542493816272484255d8f",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-08-09"
@@ -65,28 +65,18 @@
       "store": "ICA Nära",
       "product": "Max 20p B",
       "description": "20x33cl | Pepsi",
-      "price": "98.00 SEK",
+      "price": "119.00 SEK",
       "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F561a568f68a9f0102e17f8112bc3f4da&w=600&s=3c6243b36ff6c6cf931e15c2da890452",
       "validFrom": "2026-08-09T22:00:00+0000",
-      "validTo": "2026-08-10T21:59:59+0000",
+      "validTo": "2026-08-30T21:59:59+0000",
       "key": "ICA Nära:Max 20p B:2026-08-09"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Pepsi Max",
-      "description": "33cl | Pepsi",
-      "price": "5.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F20d4lA%2F2972d82dd15e87541e7c8d7f6331c724&w=600&s=46ad1dd83e3a2427e6f5701aa781cd57",
-      "validFrom": "2026-08-09T22:00:00+0000",
-      "validTo": "2026-08-16T21:59:59+0000",
-      "key": "ICA Nära:Pepsi Max:2026-08-09"
     },
     {
       "store": "Coop",
       "product": "Läsk",
       "description": "Pepsi/Zingo/7Up/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer.",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FXcKKqnlh%2Fp-1.webp&w=600&x1r=0.335&x2r=0.655&y1r=0.715&y2r=0.935&s=c72545731e95d34ccc4841f236aeb62a",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1KDmwAr6%2Fp-1.webp&w=600&x1r=0.335&x2r=0.655&y1r=0.715&y2r=0.935&s=ee82b7ac6f54a9132191f418ba0278ed",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-09"
