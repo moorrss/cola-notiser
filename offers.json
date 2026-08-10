@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-10T08:45:18.525350Z",
+  "lastChecked": "2026-08-10T10:24:38.003635Z",
   "offers": [
     {
       "store": "Lidl",
@@ -26,7 +26,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant. Klipp! Klipp! Klipp! Klipp!",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FefaXcMi-%2Fp-9.webp&w=600&x1r=0.01&x2r=0.26&y1r=0.14&y2r=0.48&s=1e9d51cbe72bd43cf1abe76307252e2b",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSkLGy-rM%2Fp-9.webp&w=600&x1r=0.01&x2r=0.26&y1r=0.14&y2r=0.48&s=39c14c86a2666b79c4ffa8f62ad545e8",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-08-09"
@@ -43,23 +43,13 @@
     },
     {
       "store": "ICA Supermarket",
-      "product": "Max B",
-      "description": "33cl | Pepsi",
-      "price": "150.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2Feb2ff2b0e040ac81ccf760814773aa2e&w=600&s=c60fc4929d71e76c21e5ad294fbd8821",
+      "product": "Original Taste",
+      "description": "50CL | Coca-Cola",
+      "price": "28.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2Fd08003aca4c2264c5f6da5d6d5eec2d3&w=600&s=86eb4bec9e7d33419c837c7896e8f786",
       "validFrom": "2026-08-09T22:00:00+0000",
-      "validTo": "2026-08-23T21:59:59+0000",
-      "key": "ICA Supermarket:Max B:2026-08-09"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Pepsi Max 10p",
-      "description": "10x33cl | Pepsi",
-      "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2F7759ece64cb296dec383292b179e5ff0&w=600&s=798cf873975b6b46d13590b6f8c0fc60",
-      "validFrom": "2026-08-09T22:00:00+0000",
-      "validTo": "2026-08-23T21:59:59+0000",
-      "key": "ICA Supermarket:Pepsi Max 10p:2026-08-09"
+      "validTo": "2026-08-30T21:59:59+0000",
+      "key": "ICA Supermarket:Original Taste:2026-08-09"
     },
     {
       "store": "ICA Nära",
@@ -94,9 +84,9 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Pepsi/Zingo/7Up/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer. 3 FÖR 39:- MEDLEMSPRIS",
+      "description": "Pepsi/Zingo/7Up/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer.",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FsQPwx0XE%2Fp-1.webp&w=600&x1r=0.354&x2r=0.643&y1r=0.74&y2r=0.93&s=9e8dd9abd28145cdd4ed216c159016b1",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FXcKKqnlh%2Fp-1.webp&w=600&x1r=0.335&x2r=0.655&y1r=0.715&y2r=0.935&s=c72545731e95d34ccc4841f236aeb62a",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-09"
