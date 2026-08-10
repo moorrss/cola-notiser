@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-10T11:53:59.472861Z",
+  "lastChecked": "2026-08-10T13:25:58.752214Z",
   "offers": [
     {
       "store": "Lidl",
@@ -26,7 +26,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant. Klipp! Klipp! Klipp! Klipp!",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCFXGiwYC%2Fp-9.webp&w=600&x1r=0.01&x2r=0.26&y1r=0.14&y2r=0.48&s=f9d452da9c8542493816272484255d8f",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7epiQcNY%2Fp-9.webp&w=600&x1r=0.01&x2r=0.26&y1r=0.14&y2r=0.48&s=7665459ffb9379701e76b6147395b5d9",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-08-09"
@@ -40,16 +40,6 @@
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-08-09"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Original Taste",
-      "description": "50CL | Coca-Cola",
-      "price": "28.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2Fd08003aca4c2264c5f6da5d6d5eec2d3&w=600&s=86eb4bec9e7d33419c837c7896e8f786",
-      "validFrom": "2026-08-09T22:00:00+0000",
-      "validTo": "2026-08-30T21:59:59+0000",
-      "key": "ICA Supermarket:Original Taste:2026-08-09"
     },
     {
       "store": "ICA Nära",
@@ -76,7 +66,7 @@
       "product": "Läsk",
       "description": "Pepsi/Zingo/7Up/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer.",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1KDmwAr6%2Fp-1.webp&w=600&x1r=0.335&x2r=0.655&y1r=0.715&y2r=0.935&s=ee82b7ac6f54a9132191f418ba0278ed",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fy7FNV3cE%2Fp-1.webp&w=600&x1r=0.335&x2r=0.655&y1r=0.715&y2r=0.935&s=ef32f23367705a90164bbf3ffc033288",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-09"
