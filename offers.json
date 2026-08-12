@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-12T10:14:31.900282Z",
+  "lastChecked": "2026-08-12T11:53:25.440099Z",
   "offers": [
     {
       "store": "Lidl",
@@ -24,9 +24,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant. Klipp! Klipp! Klipp! Klipp!",
+      "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 13:48/liter + pant.",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fn5bbVQt6%2Fp-11.webp&w=600&x1r=0.01&x2r=0.26&y1r=0.14&y2r=0.48&s=52962bf8e2b46498ff5aad9a229029ea",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fgkj6AocB%2Fp-9.webp&w=600&x1r=0.012&x2r=0.264&y1r=0.143&y2r=0.463&s=479f646bf1f4ffe0dbe85e2ab469566c",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-08-09"
@@ -40,16 +40,6 @@
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-08-09"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Original Taste",
-      "description": "50CL | Coca-Cola",
-      "price": "28.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2F1d1dvA%2Fd08003aca4c2264c5f6da5d6d5eec2d3&w=600&s=86eb4bec9e7d33419c837c7896e8f786",
-      "validFrom": "2026-08-09T22:00:00+0000",
-      "validTo": "2026-08-30T21:59:59+0000",
-      "key": "ICA Supermarket:Original Taste:2026-08-09"
     },
     {
       "store": "ICA Nära",
@@ -74,9 +64,9 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Pepsi/Zingo/7Up/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer. 3 FÖR 39:- MEDLEMSPRIS",
+      "description": "Pepsi/Zingo/7Up/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:67-9:29/liter. Pant tillkommer.",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPtsA0VZL%2Fp-1.webp&w=600&x1r=0.012&x2r=0.335&y1r=0.74&y2r=0.96&s=9a9b67d24b621acd7c1b760a6edb27b3",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FhYmdydAz%2Fp-1.webp&w=600&x1r=0.335&x2r=0.655&y1r=0.715&y2r=0.935&s=b34eac42541593deb33f32ad90c158ae",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-09"
@@ -86,7 +76,7 @@
       "product": "Läsk",
       "description": "Pepsi/Zingo/7Up/Pommac/Mountain Dew. 330 ml. Jfr-pris 11:82/liter. Pant tillkommer. Ord. pris 8:99/st. 10 för 39:- Du sparar 50,90",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FE4FzOGgc%2Fp-1.webp&w=600&x1r=0.02&x2r=0.35&y1r=0.46&y2r=0.73&s=55c4da495d7526e5f19bf578b8c1ea26",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8aRoinSz%2Fp-1.webp&w=600&x1r=0.02&x2r=0.35&y1r=0.46&y2r=0.73&s=3cd1fcd52044b0a878424ade1f35f78f",
       "validFrom": "2026-08-16T22:00:00+0000",
       "validTo": "2026-08-23T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-08-16"
@@ -96,7 +86,7 @@
       "product": "Läsk 20-pack",
       "description": "Coca-Cola, Coca-Cola Zero. 20x33 cl. Burkläsk hel låda. Jfr. pris 13,63/lit +pant. Lägsta 30-dgrspris 99,95/förp. Ord. pris 127:-/förp. Max 2 förp/hushåll.",
       "price": "89.95 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvVo7W0wd%2Fp-1.webp&w=600&x1r=0.694&x2r=0.99&y1r=0.5&y2r=0.74&s=e315cc6d798593f7d9c2d181fbb164c4",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJDrJeoNJ%2Fp-1.webp&w=600&x1r=0.694&x2r=0.99&y1r=0.5&y2r=0.74&s=fc3931fcc0926f0f4134b2c460c4c6bf",
       "validFrom": "2026-08-09T22:00:00+0000",
       "validTo": "2026-08-16T21:59:59+0000",
       "key": "City Gross:Läsk 20-pack:2026-08-09"
