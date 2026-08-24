@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-23T23:28:12.702834Z",
+  "lastChecked": "2026-08-24T01:49:35.865038Z",
   "offers": [
     {
       "store": "Lidl",
@@ -23,6 +23,16 @@
     },
     {
       "store": "ICA Supermarket",
+      "product": "Läsk",
+      "description": "Pepsi, Zingo, 7-up. 150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
+      "price": "45.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F91QN4M_c%2Fp-11.webp&w=600&x1r=0.612&x2r=0.925&y1r=0.515&y2r=0.965&s=96c2197e694d18600d7f01d30f7eeac4",
+      "validFrom": "2026-08-23T22:00:00+0000",
+      "validTo": "2026-08-30T21:59:59+0000",
+      "key": "ICA Supermarket:Läsk:2026-08-23"
+    },
+    {
+      "store": "ICA Supermarket",
       "product": "Coca cola. Helt flak",
       "description": "SUPERKLIPP. +pant. 50 cl. 24 st. Jfr pris 14:92/liter +pant. 30-dagarspris 18:93/st +pant.",
       "price": "179.00 SEK",
@@ -32,21 +42,11 @@
       "key": "ICA Supermarket:Coca cola. Helt flak:2026-05-12"
     },
     {
-      "store": "ICA Supermarket",
-      "product": "Läsk",
-      "description": "Coca-Cola Sverige. 33 cl. Coca-Cola, Fanta, Sprite. Jfr pris 15:15/liter + pant.",
-      "price": "25.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH9h6ujd6%2Fp-14.webp&w=600&x1r=0.3&x2r=0.53&y1r=0.67&y2r=0.94&s=3449ee59f1a0ff23d772c4fc9ec53bef",
-      "validFrom": "2026-08-23T22:00:00+0000",
-      "validTo": "2026-08-30T21:59:59+0000",
-      "key": "ICA Supermarket:Läsk:2026-08-23"
-    },
-    {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Pepsi/Zingo/7Up/Pommac/Mountain Dew. 33 cl. Jfr-pris 14:39/liter. Pant tillkommer.",
+      "description": "Pepsi/Zingo/7Up/Pommac/Mountain Dew. 33 cl. Jfr-pris 14:39/liter. Pant tillkommer. 20 FÖR 95:-",
       "price": "95.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FtufuMs3t%2Fp-11.webp&w=600&x1r=0.34&x2r=0.99&y1r=0.715&y2r=0.965&s=fa973fc6300bff65b8f6c92300886e5d",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ft4PEaFml%2Fp-2.webp&w=600&x1r=0.658&x2r=0.99&y1r=0.005&y2r=0.25&s=1bb2c69e8f4bdb2011038d65dd701e87",
       "validFrom": "2026-08-23T22:00:00+0000",
       "validTo": "2026-08-30T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-23"
