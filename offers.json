@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-26T05:40:45.302174Z",
+  "lastChecked": "2026-08-26T07:00:33.802045Z",
   "offers": [
     {
       "store": "Lidl",
@@ -24,9 +24,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "8 för 100:- +pant Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 8:33/liter + pant. Max 1 köp/hushåll. Klipp! Stammis Pris",
+      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 8:33/liter + pant. Max 1 köp/hushåll.",
       "price": "100.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuX5fSiqd%2Fp-9.webp&w=600&x1r=0.031&x2r=0.456&y1r=0.204&y2r=0.601&s=bac341a5fa656a674420074cfcdcb149",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWNYrydxk%2Fp-13.webp&w=600&x1r=0.03&x2r=0.46&y1r=0.136&y2r=0.606&s=3c12650f033b7df35d3ab4161dd0ce76",
       "validFrom": "2026-08-23T22:00:00+0000",
       "validTo": "2026-08-30T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-08-23"
@@ -36,7 +36,7 @@
       "product": "Läsk",
       "description": "Pepsi, Zingo, 7-up. 150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkwEh1YGW%2Fp-11.webp&w=600&x1r=0.612&x2r=0.925&y1r=0.515&y2r=0.965&s=0ecccd3a549b87502ea099cf72c9b856",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ff6aFoVEi%2Fp-11.webp&w=600&x1r=0.612&x2r=0.925&y1r=0.515&y2r=0.965&s=cb7729adfa62805ca8fed276c4ff737c",
       "validFrom": "2026-08-23T22:00:00+0000",
       "validTo": "2026-08-30T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-08-23"
@@ -46,7 +46,7 @@
       "product": "Läsk",
       "description": "Pepsi, Zingo, 7-up. 1,5 liter. Flera olika sorter. Jfr pris 10:89/liter + pant.",
       "price": "49.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBfijs_Mw%2Fp-7.webp&w=600&x1r=0.043&x2r=0.342&y1r=0.472&y2r=0.941&s=7feaf961a9578ac6dce9b3dcba2ed2ea",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjaSR-kHH%2Fp-7.webp&w=600&x1r=0.043&x2r=0.342&y1r=0.472&y2r=0.941&s=f6ec9ceb535e3dba2ee7def8a2363e07",
       "validFrom": "2026-08-23T22:00:00+0000",
       "validTo": "2026-08-30T21:59:59+0000",
       "key": "ICA Nära:Läsk:2026-08-23"
@@ -64,9 +64,9 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Pepsi/Zingo/7Up/Pommac/Mountain Dew. 33 cl. Jfr-pris 14:39/liter. Pant tillkommer.",
+      "description": "Pepsi/Zingo/7Up/Pommac/Mountain Dew. 33 cl. Jfr-pris 14:39/liter. Pant tillkommer. 20 FÖR 95:-",
       "price": "95.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FSs1g2ljs%2Fp-10.webp&w=600&x1r=0.35&x2r=0.96&y1r=0.7&y2r=0.93&s=253fc696f63770ee2f196938139fccdb",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FQVg6mEJn%2Fp-2.webp&w=600&x1r=0.658&x2r=0.99&y1r=0.005&y2r=0.25&s=1fc99a5ac51dc909e146cd16a9363ce4",
       "validFrom": "2026-08-23T22:00:00+0000",
       "validTo": "2026-08-30T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-23"
@@ -76,7 +76,7 @@
       "product": "Läsk 20-pack",
       "description": "Pepsi Max. 20x33 cl. Jfr-pris 11:97/liter. Pant tillkommer. Tidigare lägsta pris 122:09/st. 20-pack",
       "price": "79.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRzO3GiH0%2Fp-8.webp&w=600&x1r=0.35&x2r=0.99&y1r=0.12&y2r=0.57&s=9fed14e54d5828625448c9dbfe2a3ae9",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FovyykjZa%2Fp-8.webp&w=600&x1r=0.35&x2r=0.99&y1r=0.12&y2r=0.57&s=975e968e88f34f5850fa215ac9a1d082",
       "validFrom": "2026-08-26T22:00:00+0000",
       "validTo": "2026-08-30T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk 20-pack:2026-08-26"
