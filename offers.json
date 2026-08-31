@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-08-30T23:23:02.948054Z",
+  "lastChecked": "2026-08-31T05:17:57.276628Z",
   "offers": [
     {
       "store": "ICA Supermarket",
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 9:67/liter. Pant tillkommer. 2 för 29:- Medlemspris",
       "price": "29.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyNFRbmm9%2Fp-1.webp&w=600&x1r=0.62&x2r=0.98&y1r=0.475&y2r=0.684&s=9caeab03b25cb0c6d15768822980cd32",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F41H6PRuK%2Fp-1.webp&w=600&x1r=0.62&x2r=0.98&y1r=0.475&y2r=0.684&s=bb2dea2f84463a137875ceaf8edab042",
       "validFrom": "2026-08-30T22:00:00+0000",
       "validTo": "2026-09-06T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-30"
@@ -24,9 +24,9 @@
     {
       "store": "City Gross",
       "product": "Läsk",
-      "description": "Pepsi, Zingo, 7up, Pommac, Grappo. 1,4-1,5 lit. Olika sorter. Jfr. pris 7,52-8,06/lit +pant. Ord. pris 17,90-20,75/st. Max 2 köp/hushåll. Begränsat parti! Klipp! + pant",
+      "description": "Pepsi, Zingo, 7up, Pommac, Grappo. 1,4-1,5 lit. Olika sorter. Jfr. pris 7,52-8,06/lit +pant. Ord. pris 17,90-20,75/st. Max 2 köp/hushåll. Begränsat parti!",
       "price": "79.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRR_gb-B2%2Fp-1.webp&w=600&x1r=0.307&x2r=0.634&y1r=0.678&y2r=0.916&s=1d3dd3cae492baf4332f708195715275",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FL8ksOXG5%2Fp-11.webp&w=600&x1r=0.364&x2r=0.67&y1r=0.55&y2r=0.81&s=a1b17e890dd7521a54e93a6b876c2bb8",
       "validFrom": "2026-08-30T22:00:00+0000",
       "validTo": "2026-09-06T21:59:59+0000",
       "key": "City Gross:Läsk:2026-08-30"
