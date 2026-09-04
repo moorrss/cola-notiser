@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-09-04T11:05:37.521632Z",
+  "lastChecked": "2026-09-04T16:13:55.487563Z",
   "offers": [
     {
       "store": "ICA Supermarket",
       "product": "Läsk",
       "description": "Coca-Cola. 6 x 33 cl. Jfr pris 19:70/lit exkl pant.*",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEZKyaICz%2Fp-10.webp&w=600&x1r=0.49&x2r=0.94&y1r=0.41&y2r=0.91&s=4f76c9bed92350020103b3fed4ada35a",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2IrwNmEw%2Fp-10.webp&w=600&x1r=0.49&x2r=0.94&y1r=0.41&y2r=0.91&s=fb8bcf2ab92331d622eeae7bdb57ee30",
       "validFrom": "2026-08-30T22:00:00+0000",
       "validTo": "2026-09-06T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-08-30"
@@ -24,12 +24,22 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 9:67/liter. Pant tillkommer.",
+      "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 9:67/liter. Pant tillkommer. 2 för 29:- Medlemspris",
       "price": "29.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fjat3whML%2Fp-1.webp&w=600&x1r=0.67&x2r=0.98&y1r=0.13&y2r=0.6&s=087887c7923f72b6da5fc8d1b55f0134",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjUoZ64iR%2Fp-1.webp&w=600&x1r=0.62&x2r=0.98&y1r=0.475&y2r=0.684&s=8b5118c1412803319a703dc8cbb06fa6",
       "validFrom": "2026-08-30T22:00:00+0000",
       "validTo": "2026-09-06T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-30"
+    },
+    {
+      "store": "Hemköp",
+      "product": "Läsk 4-pack",
+      "description": "Coca-Cola, Fanta, 4x1,5l, flera sorter, jmf-pris 8,33/l +pant",
+      "price": "49.95 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd9b6XA%2F967cd3c1b6e1f0903cbdf71db6fbea8d&w=600&s=505352d336f6c61d14bb823a6f4742aa",
+      "validFrom": "2026-09-06T22:00:00+0000",
+      "validTo": "2026-09-13T21:59:59+0000",
+      "key": "Hemköp:Läsk 4-pack:2026-09-06"
     },
     {
       "store": "City Gross",
