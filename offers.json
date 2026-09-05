@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-05T13:48:57.005929Z",
+  "lastChecked": "2026-09-05T16:43:17.090914Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Coca-Cola. 6 x 33 cl. Jfr pris 19:70/lit exkl pant.*",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F5Qtr1v2s%2Fp-10.webp&w=600&x1r=0.48&x2r=0.96&y1r=0.4&y2r=0.92&s=8854ab0148dfa9aa6082d45a52bbd2b2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwsIRS1YH%2Fp-10.webp&w=600&x1r=0.48&x2r=0.96&y1r=0.4&y2r=0.92&s=b1a7400ed33d8c196625dcadf2424eef",
       "validFrom": "2026-08-30T22:00:00+0000",
       "validTo": "2026-09-06T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-08-30"
@@ -36,7 +36,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 9:67/liter. Pant tillkommer. 2 för 29:- Medlemspris",
       "price": "29.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZUE-kBHP%2Fp-1.webp&w=600&x1r=0.052&x2r=0.347&y1r=0.731&y2r=0.973&s=c5c9a81ff680f91c62c01a9592632a57",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F7qoM4fjm%2Fp-1.webp&w=600&x1r=0.62&x2r=0.98&y1r=0.475&y2r=0.684&s=ab6eaefd1c4e2e7a2d27837c656dd037",
       "validFrom": "2026-08-30T22:00:00+0000",
       "validTo": "2026-09-06T21:59:59+0000",
       "key": "Coop:Läsk:2026-08-30"
@@ -54,9 +54,9 @@
     {
       "store": "City Gross",
       "product": "Läsk",
-      "description": "Pepsi, Zingo, 7up, Pommac, Grappo. 1,4-1,5 lit. Olika sorter. Jfr. pris 7,52-8,06/lit +pant. Ord. pris 17,90-20,75/st. Max 2 köp/hushåll. Begränsat parti! Klipp! + pant",
+      "description": "Pepsi, Zingo, 7up, Pommac, Grappo. 1,4-1,5 lit. Olika sorter. Jfr. pris 7,52-8,06/lit +pant. Ord. pris 17,90-20,75/st. Max 2 köp/hushåll. Begränsat parti!",
       "price": "79.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNpLVcNFo%2Fp-1.webp&w=600&x1r=0.315&x2r=0.642&y1r=0.694&y2r=0.932&s=f498c7c8970d2ff27cb5f212bf451291",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJAL9pH3u%2Fp-11.webp&w=600&x1r=0.364&x2r=0.67&y1r=0.55&y2r=0.81&s=74c71ac14000ef639d38e506221829be",
       "validFrom": "2026-08-30T22:00:00+0000",
       "validTo": "2026-09-06T21:59:59+0000",
       "key": "City Gross:Läsk:2026-08-30"
