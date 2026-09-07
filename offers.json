@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-07T00:50:19.174119Z",
+  "lastChecked": "2026-09-07T05:55:52.048700Z",
   "offers": [
     {
       "store": "Lidl",
@@ -10,6 +10,26 @@
       "validFrom": "2026-09-06T22:00:00+0000",
       "validTo": "2026-09-13T21:59:59+0000",
       "key": "Lidl:COCA-COLA/ FANTA/SPRITE Läsk:2026-09-06"
+    },
+    {
+      "store": "Willys",
+      "product": "LÄSK",
+      "description": "PEPSI • 7UP • ZINGO • 1,5l\nOlika sorter • Jämförpris 7:33 kr/l\nMax 3 köp/hushåll • Lägsta 30-dgrspris 14:10-17:88 kr\nFör dig med WillysPlus\nSPARA 15:50-34:40\n+pant",
+      "price": "55.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbl15NtWJ%2Fp-1.webp&w=600&x1r=0.003&x2r=0.323&y1r=0.586&y2r=0.949&s=6657e4a1799c2716a26c6dc463aec535",
+      "validFrom": "2026-09-06T22:00:00+0000",
+      "validTo": "2026-09-13T21:59:59+0000",
+      "key": "Willys:LÄSK:2026-09-06"
+    },
+    {
+      "store": "Willys Hemma",
+      "product": "LÄSK",
+      "description": "7UP • ZINGO • PEPSI • 1,5l • Olika sorter\nJämförpris 7:78 kr/l • Max 3 köp/hushåll\nLägsta 30-dgrspris 15:04-18:83 kr\nFör dig med WillysPlus\n3 FÖR 35,00 +pant\nSPARA 10:12-21:49",
+      "price": "35.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FWsNZcwL2%2Fp-1.webp&w=600&x1r=0.03&x2r=0.31&y1r=0.61&y2r=0.95&s=abdb19c3259d636ebad2230b80dc5523",
+      "validFrom": "2026-09-06T22:00:00+0000",
+      "validTo": "2026-09-13T21:59:59+0000",
+      "key": "Willys Hemma:LÄSK:2026-09-06"
     },
     {
       "store": "ICA Supermarket",
@@ -24,9 +44,9 @@
     {
       "store": "ICA Nära",
       "product": "Läsk",
-      "description": "Coca-Cola. 1,5 liter. Jfr pris 10:00/liter exkl pant. +pant.",
+      "description": "Coca-Cola. 1,5 liter. Jfr pris 10:00/liter exkl pant. +pant",
       "price": "30.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F145vWhN_%2Fp-1.webp&w=600&x1r=0.718&x2r=0.954&y1r=0.694&y2r=0.844&s=6cd6a1d5f396eb130fa797e4b4638d83",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FwXW0VT0U%2Fp-1.webp&w=600&x1r=0.7&x2r=0.96&y1r=0.66&y2r=0.85&s=599949666d14270885ae2f5a67be6476",
       "validFrom": "2026-09-06T22:00:00+0000",
       "validTo": "2026-09-13T21:59:59+0000",
       "key": "ICA Nära:Läsk:2026-09-06"
