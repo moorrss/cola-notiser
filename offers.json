@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-13T22:19:18.171569Z",
+  "lastChecked": "2026-09-14T00:54:52.761351Z",
   "offers": [
     {
       "store": "Lidl",
@@ -22,11 +22,21 @@
       "key": "ICA Supermarket:Coca cola. Helt flak:2026-05-12"
     },
     {
+      "store": "ICA Nära",
+      "product": "Läsk",
+      "description": "Pepsi. 6-pack. Gäller flera olika sorter. Jfr pris 17:68/liter + pant.",
+      "price": "70.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDInWVfJ0%2Fp-7.webp&w=600&x1r=0.031&x2r=0.65&y1r=0.723&y2r=0.952&s=5f681de1da1e3038c28f0e94317e34e7",
+      "validFrom": "2026-09-13T22:00:00+0000",
+      "validTo": "2026-09-20T21:59:59+0000",
+      "key": "ICA Nära:Läsk:2026-09-13"
+    },
+    {
       "store": "Coop",
       "product": "Läsk 20-pack",
       "description": "Pepsi Max. 20x33 cl. Jfr-pris 12:05/liter. Pant tillkommer.",
       "price": "159.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbRdloWQc%2Fp-5.webp&w=600&x1r=0.024&x2r=0.54&y1r=0.015&y2r=0.285&s=851293e8a90b44ef68afdd3e1282c3f7",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fei7uOc2l%2Fp-5.webp&w=600&x1r=0.36&x2r=0.92&y1r=0.33&y2r=0.5&s=084efad304de21b8f54808afa7821a49",
       "validFrom": "2026-09-13T22:00:00+0000",
       "validTo": "2026-09-20T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-09-13"
