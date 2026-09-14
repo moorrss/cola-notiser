@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-14T00:54:52.761351Z",
+  "lastChecked": "2026-09-14T06:02:18.390260Z",
   "offers": [
     {
       "store": "Lidl",
@@ -10,6 +10,26 @@
       "validFrom": "2026-09-13T22:00:00+0000",
       "validTo": "2026-09-20T21:59:59+0000",
       "key": "Lidl:PEPSI MAX Läsk:2026-09-13"
+    },
+    {
+      "store": "Willys",
+      "product": "LÄSK",
+      "description": "För dig med WillysPlus +pant SPARA 23:20 COCA-COLA • FANTA • SPRITE 1,5l • Olika sorter • Jämförpris 7:78 kr/l +pant • Max 5 köp/hushåll Lägsta 30-dgrspris 19:40 kr",
+      "price": "35.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fj1CYv51H%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.61&y2r=0.95&s=9018ef27a26ecacc1ad33494ca9965b9",
+      "validFrom": "2026-09-13T22:00:00+0000",
+      "validTo": "2026-09-20T21:59:59+0000",
+      "key": "Willys:LÄSK:2026-09-13"
+    },
+    {
+      "store": "Willys Hemma",
+      "product": "LÄSK",
+      "description": "COCA-COLA • FANTA • SPRITE • 1,5l Olika sorter • Jämförpris 8:67 kr/l +pant Max 3 köp/hushåll Lägsta 30-dgrspris 20:72 kr",
+      "price": "26.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F9Eecvdsm%2Fp-1.webp&w=600&x1r=0.03&x2r=0.31&y1r=0.61&y2r=0.94&s=168cdc4bffc94ec956acbd1bc0dc68b1",
+      "validFrom": "2026-09-13T22:00:00+0000",
+      "validTo": "2026-09-20T21:59:59+0000",
+      "key": "Willys Hemma:LÄSK:2026-09-13"
     },
     {
       "store": "ICA Supermarket",
@@ -36,7 +56,7 @@
       "product": "Läsk 20-pack",
       "description": "Pepsi Max. 20x33 cl. Jfr-pris 12:05/liter. Pant tillkommer.",
       "price": "159.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fei7uOc2l%2Fp-5.webp&w=600&x1r=0.36&x2r=0.92&y1r=0.33&y2r=0.5&s=084efad304de21b8f54808afa7821a49",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPxv_8NSM%2Fp-2.webp&w=600&x1r=0.01&x2r=0.69&y1r=0.01&y2r=0.29&s=2098eb45aa6b90dc003b7b13f8c46159",
       "validFrom": "2026-09-13T22:00:00+0000",
       "validTo": "2026-09-20T21:59:59+0000",
       "key": "Coop:Läsk 20-pack:2026-09-13"
