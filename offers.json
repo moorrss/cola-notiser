@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-21T13:53:55.702605Z",
+  "lastChecked": "2026-09-21T19:15:43.798124Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter.\nMax 1 erbjudande/hushåll.",
+      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Max 1 erbjudande/hushåll.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-N2fMtzm%2Fp-1.webp&w=600&x1r=0.2915&x2r=0.6124&y1r=0.5922&y2r=0.8021&s=7c1400e3527a6852a980d7098fda9a9c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8uaSJuoV%2Fp-1.webp&w=600&x1r=0.58&x2r=0.98&y1r=0.7&y2r=0.94&s=ba5d57a1f38fd4dcf7eaa027fdaccffd",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-09-20"
@@ -24,29 +24,19 @@
     {
       "store": "ICA Supermarket",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant. Max 1 köp/hushåll.",
+      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 8:33/liter + pant. Max 1 köp/hushåll. Jfr pris 11:11/liter + pant.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fnstq18cS%2Fp-1.webp&w=600&x1r=0.038&x2r=0.435&y1r=0.393&y2r=0.635&s=9a3506dbfd61c991bfdf40ec0f397120",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-Fn2SbVY%2Fp-1.webp&w=600&x1r=0.07&x2r=0.44&y1r=0.38&y2r=0.62&s=64ea05bd50155a715c80bead01036701",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-09-20"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Coca cola. Helt flak",
-      "description": "SUPERKLIPP. +pant. 50 cl. 24 st. Jfr pris 14:92/liter +pant. 30-dagarspris 18:93/st +pant.",
-      "price": "179.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuRGQ9wIl%2Fp-1.webp&w=600&x1r=0.4646&x2r=0.9338&y1r=0.7246&y2r=0.9578&s=004bee09f529eea6cd6e7e0b03099f0a",
-      "validFrom": "2026-05-12T22:00:00+0000",
-      "validTo": "2026-10-31T22:59:59+0000",
-      "key": "ICA Supermarket:Coca cola. Helt flak:2026-05-12"
     },
     {
       "store": "ICA Nära",
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 8:33/liter + pant. Max 1 köp/hushåll.",
       "price": "100.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaR4jQuTO%2Fp-7.webp&w=600&x1r=0.032&x2r=0.95&y1r=0.478&y2r=0.94&s=f7ad79b2d41cc07cf179a13c71a0ddeb",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fv587hNXQ%2Fp-7.webp&w=600&x1r=0.032&x2r=0.95&y1r=0.478&y2r=0.94&s=accf61eceb1039dbf52337f9beaf5727",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Nära:Läsk:2026-09-20"
@@ -54,9 +44,9 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Pommac/Pepsi/7UP/Zingo. Välj mellan olika sorter. 140-150 cl. Jfr-pris 7:33-7:86/liter. Pant tillkommer.",
+      "description": "Pommac/Pepsi/7UP/Zingo. Välj mellan olika sorter. 140-150 cl. Jfr-pris 7:33-7:86/liter.Pant tillkommer.",
       "price": "44.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fj0N8GRk8%2Fp-1.webp&w=600&x1r=0.35&x2r=0.64&y1r=0.73&y2r=0.96&s=4e0fbd049bcc4679ff3c0bc07cfa83ce",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgEnnvyaC%2Fp-3.webp&w=600&x1r=0.015&x2r=0.335&y1r=0.725&y2r=0.965&s=a84a0cc5e318edd016d3faca4f071b7c",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "Coop:Läsk:2026-09-20"
