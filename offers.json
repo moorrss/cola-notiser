@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-23T05:48:03.387547Z",
+  "lastChecked": "2026-09-23T11:21:56.058209Z",
   "offers": [
     {
       "store": "Lidl",
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Max 1 erbjudande/hushåll. Klipp!",
+      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Max 1 erbjudande/hushåll.\n+pant\nJfr pris 11:11/liter + pant.\nJfr pris 8:33/liter + pant.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZk43WMFh%2Fp-1.webp&w=600&x1r=0.58&x2r=0.92&y1r=0.7&y2r=0.93&s=4746042eb4f31b991864b88ed7cf4522",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fm0btSHTk%2Fp-1.webp&w=600&x1r=0.58&x2r=0.908&y1r=0.702&y2r=0.921&s=f1c271e436b1d4965de481c5489b6fa0",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-09-20"
@@ -24,9 +24,9 @@
     {
       "store": "ICA Supermarket",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta, Sprite.\n150 cl. Flera olika sorter. Jfr pris 8:33/liter + pant.\nMax 1 köp/hushåll.",
+      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant. Max 1 köp/hushåll.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEm_ORQng%2Fp-1.webp&w=600&x1r=0.035&x2r=0.445&y1r=0.385&y2r=0.635&s=db1dc18eacfbfa1b0785ce45810a4985",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FH3kZFWQ6%2Fp-1.webp&w=600&x1r=0.035&x2r=0.435&y1r=0.385&y2r=0.635&s=909b6470c06ae405c7a4428319d190a6",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-09-20"
@@ -34,9 +34,9 @@
     {
       "store": "ICA Nära",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter.\nJfr pris 8:33/liter + pant. Max 1 köp/hushåll.",
+      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 8:33/liter + pant. Max 1 köp/hushåll.",
       "price": "100.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKKa5yQo6%2Fp-7.webp&w=600&x1r=0.038&x2r=0.95&y1r=0.488&y2r=0.942&s=d0a7a2859c3ebc6d1c0647dfa626c1c1",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FU6i_NMCu%2Fp-7.webp&w=600&x1r=0.032&x2r=0.95&y1r=0.478&y2r=0.94&s=e3a812375697f09efc880f90b5798d3a",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Nära:Läsk:2026-09-20"
@@ -44,9 +44,9 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Pommac/Pepsi/7UP/Zingo. Välj mellan olika sorter. 140-150 cl. Jfr-pris 7:33-7:86/liter.Pant tillkommer.",
+      "description": "Pommac/Pepsi/7UP/Zingo. Välj mellan olika sorter.\n140-150 cl. Jfr-pris 7:33-7:86/liter. Pant tillkommer.",
       "price": "44.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FXEjJO7g1%2Fp-1.webp&w=600&x1r=0.01&x2r=0.34&y1r=0.72&y2r=0.98&s=c2873191eb7aea3dea53308b9f43e251",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZAVgTLNZ%2Fp-1.webp&w=600&x1r=0.35&x2r=0.645&y1r=0.73&y2r=0.955&s=b037ec42926e39de460f952adb0a244a",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "Coop:Läsk:2026-09-20"
