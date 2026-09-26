@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-09-26T17:04:32.774046Z",
+  "lastChecked": "2026-09-26T20:59:36.198868Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Max 1 erbjudande/hushåll.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrU5I2fZX%2Fp-1.webp&w=600&x1r=0.58&x2r=0.94&y1r=0.7&y2r=0.92&s=0d2f0ae29e0fbc95244ead23486f20f2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fr8DYSqEr%2Fp-4.webp&w=600&x1r=0.0201&x2r=0.4888&y1r=0.6258&y2r=0.9393&s=f36ca4c0a1bf5b97f375ed9003482b92",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-09-20"
@@ -24,9 +24,9 @@
     {
       "store": "ICA Supermarket",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant. Max 1 köp/hushåll. Stammis Pris",
+      "description": "Coca-Cola, Fanta, Sprite. 150 cl. Flera olika sorter. Jfr pris 11:11/liter + pant. Max 1 köp/hushåll.",
       "price": "50.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FtMKpmbN5%2Fp-1.webp&w=600&x1r=0.038&x2r=0.435&y1r=0.39&y2r=0.635&s=7d52960110b922fefe06b392a1f06f01",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxhPUM7ke%2Fp-1.webp&w=600&x1r=0.03&x2r=0.44&y1r=0.39&y2r=0.635&s=d5130b93e2e364c3b0ed30395a0a6c4f",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-09-20"
@@ -44,9 +44,9 @@
     {
       "store": "Coop",
       "product": "Läsk",
-      "description": "Pommac/Pepsi/7UP/Zingo. Välj mellan olika sorter. 140-150 cl. Jfr-pris 7:33-7:86/liter.Pant tillkommer.",
+      "description": "Pommac/Pepsi/7UP/Zingo. Välj mellan olika sorter.\n140-150 cl. Jfr-pris 7:33-7:86/liter. Pant tillkommer.",
       "price": "44.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fv9R4nEoF%2Fp-1.webp&w=600&x1r=0.01&x2r=0.34&y1r=0.72&y2r=0.98&s=3a25f53854df88f14c24841bbfe60d2d",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVSpCr8mH%2Fp-1.webp&w=600&x1r=0.35&x2r=0.645&y1r=0.73&y2r=0.955&s=4a1bc83dea8f626439d32f34a19bf378",
       "validFrom": "2026-09-20T22:00:00+0000",
       "validTo": "2026-09-27T21:59:59+0000",
       "key": "Coop:Läsk:2026-09-20"
@@ -56,7 +56,7 @@
       "product": "Läsk",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 33 cl. Jfr-pris 18:18/liter. Pant tillkommer.",
       "price": "30.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnKuYUdx0%2Fp-2.webp&w=600&x1r=0.65&x2r=0.99&y1r=0.16&y2r=0.49&s=09068008bfe1b80fd6f5b5818938ce42",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZAaqFxVV%2Fp-1.webp&w=600&x1r=0.66&x2r=0.99&y1r=0.17&y2r=0.49&s=30b523bbf5498d5409b77ab57fcf95df",
       "validFrom": "2026-09-27T22:00:00+0000",
       "validTo": "2026-10-04T21:59:59+0000",
       "key": "Coop:Läsk:2026-09-27"
@@ -66,7 +66,7 @@
       "product": "Läsk",
       "description": "Pepsi/7Up/Zingo/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 9:17-9:82/liter. Pant tillkommer. Ord. pris 17:88/st.",
       "price": "55.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyEsyXJAr%2Fp-1.webp&w=600&x1r=0.34&x2r=0.69&y1r=0.42&y2r=0.73&s=6f7e6ef1c0c75686e1ad81d807e57a23",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FvFfdiY0M%2Fp-1.webp&w=600&x1r=0.34&x2r=0.69&y1r=0.42&y2r=0.73&s=f8b975fcdfeea1981368c5466e1e083b",
       "validFrom": "2026-09-27T22:00:00+0000",
       "validTo": "2026-10-04T21:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-09-27"
