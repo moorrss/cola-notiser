@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-11T18:47:06.338664Z",
+  "lastChecked": "2026-10-11T22:46:41.334326Z",
   "offers": [
     {
       "store": "Lidl",
@@ -12,114 +12,24 @@
       "key": "Lidl:COCA-COLA/FANTA Läsk:2026-10-11"
     },
     {
-      "store": "Willys",
-      "product": "COCA COLA 15-PACK",
-      "description": "COCA-COLA ZERO • COCA-COLA • 15p/33cl Olika sorter • Jämförpris 12:10 kr/l +pant Max 3 köp/hushåll • Lägsta 30-dgrspris 99:90 kr",
-      "price": "59.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fp9RTRBxT%2Fp-5.webp&w=600&x1r=0.01&x2r=0.51&y1r=0.73&y2r=0.93&s=5fee362b0f3607083bc5e5b4cb8d8638",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "Willys:COCA COLA 15-PACK:2026-10-04"
-    },
-    {
-      "store": "Willys Hemma",
-      "product": "LÄSK 6-PACK",
-      "description": "SPRITE ZERO • COCA-COLA ZERO • FANTA\nCOCA-COLA • 6p/33cl • Olika sorter\nJämförpris 15:10 kr/l +pant • Max 3 köp/hushåll\nLägsta 30-dgrspris 44:90 kr\n+pant\nSPARA 15:00",
-      "price": "29.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-z-YR_QN%2Fp-1.webp&w=600&x1r=0&x2r=0.35&y1r=0.62&y2r=0.93&s=2dcfd4d5cae3339ee8b2e5d057ea2074",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "Willys Hemma:LÄSK 6-PACK:2026-10-04"
-    },
-    {
-      "store": "ICA Kvantum",
-      "product": "Läsk",
-      "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
-      "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgPxeh_qA%2Fp-8.webp&w=600&x1r=0.057&x2r=0.305&y1r=0.125&y2r=0.364&s=67e14a40a41b529024a3afde94286998",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "ICA Kvantum:Läsk:2026-10-04"
-    },
-    {
-      "store": "ICA Kvantum",
-      "product": "Pepsi",
-      "description": "Pepsi. 1,5 liter. Gäller original, Max & Max tropical. Jfr pris 9:67/lit exkl pant.",
-      "price": "29.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkrNwgYWV%2Fp-1.webp&w=600&x1r=0.34&x2r=0.63&y1r=0.53&y2r=0.93&s=e5a329d7b10cc68d65d8e413e5aaec6b",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "ICA Kvantum:Pepsi:2026-10-04"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Pepsi max",
-      "description": "Pepsi. 1,5 liter. Jfr pris 6:67/liter +pant. Ord pris 20:95/st+pant. 30dgr.pris 20:30/st+ pant Max 3 köp/hushåll.",
-      "price": "10.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fn3ny-_XO%2Fp-1.webp&w=600&x1r=0.33&x2r=0.63&y1r=0.63&y2r=0.96&s=9a8a4136a68bfe5a2c87a6a45eefb88a",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "ICA Supermarket:Pepsi max:2026-10-04"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Läsk",
-      "description": "Fanta, Sprite, Coca-Cola. 33 cl. Jfr pris 18:18/liter +pant.",
-      "price": "60.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaYGLqhsi%2Fp-11.webp&w=600&x1r=0.41&x2r=0.91&y1r=0.33&y2r=0.64&s=79aafac3e031e244b1fadcc7177fd148",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "ICA Supermarket:Läsk:2026-10-04"
-    },
-    {
       "store": "ICA Supermarket",
       "product": "Pepsi Max",
-      "description": "",
-      "price": null,
-      "image": null,
+      "description": "8x1,5 liter. Jfr pris 7:18/liter exkl pant. Max 2 köp/hushåll.",
+      "price": "86.14 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FFtoG8gQg%2Fp-1.webp&w=600&x1r=0.646&x2r=0.934&y1r=0.199&y2r=0.49&s=e5227bb30f98e410b1e342c1f4c62a17",
       "validFrom": "2026-10-04T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "ICA Supermarket:Pepsi Max:2026-10-04"
-    },
-    {
-      "store": "ICA Nära",
-      "product": "Coca-Cola",
-      "description": "Coca-Cola Company. 6 x 33 cl. Original/Zero. Jfr pris 19:95/lit exkl pant.",
-      "price": "79.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPvV7ZCLl%2Fp-1.webp&w=600&x1r=0.71&x2r=0.948&y1r=0.502&y2r=0.738&s=3c7f9805a263abb405b15d7f1967eaf5",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "ICA Nära:Coca-Cola:2026-10-04"
-    },
-    {
-      "store": "Coop",
-      "product": "Läsk 6-pack",
-      "description": "Pepsi/Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:90/liter. Pant tillkommer.",
-      "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbrC3w-Pr%2Fp-7.webp&w=600&x1r=0.33&x2r=0.668&y1r=0.46&y2r=0.728&s=82f9bd064d4480e755813190f64d7b2f",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "Coop:Läsk 6-pack:2026-10-04"
     },
     {
       "store": "Coop",
       "product": "Läsk 6-pack",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 17:42/liter. Pant tillkommer.",
       "price": "69.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FueH-r2Mh%2Fp-8.webp&w=600&x1r=0.35&x2r=0.95&y1r=0.7&y2r=0.94&s=80277249ac583dab748472aa6ac9faff",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiZxOwjyF%2Fp-6.webp&w=600&x1r=0.35&x2r=0.95&y1r=0.7&y2r=0.94&s=36549aa8f4c2c96214385e9f6e5880c0",
       "validFrom": "2026-10-11T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-10-11"
-    },
-    {
-      "store": "Coop X:-TRA",
-      "product": "Läsk",
-      "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 150 cl. Jfr-pris 9:67/liter. Pant tillkommer. Ord. pris från 18:83/st.",
-      "price": "29.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6hBXApz6%2Fp-4.webp&w=600&x1r=0.67&x2r=0.98&y1r=0.51&y2r=0.73&s=cd8934906f0a21fc11c98840a3b81d08",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "Coop X:-TRA:Läsk:2026-10-04"
     },
     {
       "store": "Hemköp",
@@ -132,16 +42,6 @@
       "key": "Hemköp:Läsk:2026-10-11"
     },
     {
-      "store": "Hemköp",
-      "product": "Läsk 6-pack",
-      "description": "Coca-Cola, Fanta, Sprite, 6x33cl, flera sorter, jmf-pris 15,15/l +pant",
-      "price": "30.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fbusiness_images%2Fd9b6XA%2F182a1ba84ee37beab675c5d4c7dbbf64&w=600&s=dcd3685b261334ec9cff4ba2d9b843f4",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "Hemköp:Läsk 6-pack:2026-10-04"
-    },
-    {
       "store": "City Gross",
       "product": "Läsk 20-pack",
       "description": "Coca-Cola, Coca-Cola Zero. 20x33 cl. Jfr. pris 13,63/lit +pant. Lägsta 30-dgrspris 129:-/förp. Ord. pris 129:-/förp. Max 3 förp/hushåll. Priset gäller våra PRIO-medlemmar.",
@@ -150,16 +50,6 @@
       "validFrom": "2026-10-11T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "City Gross:Läsk 20-pack:2026-10-11"
-    },
-    {
-      "store": "City Gross",
-      "product": "Pepsi Max",
-      "description": "Pepsi Max. 1,5 lit. Gäller ej Koffeinfri, Lemon. Jfr. pris 9,09/lit +pant. Ord. pris 17,90/st. Max 2 köp/hushåll.",
-      "price": "109.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6FzLLr_b%2Fp-6.webp&w=600&x1r=0&x2r=0.43&y1r=0.57&y2r=0.93&s=0fdca255a3cdafeb5ec98402350484d9",
-      "validFrom": "2026-10-04T22:00:00+0000",
-      "validTo": "2026-10-11T21:59:59+0000",
-      "key": "City Gross:Pepsi Max:2026-10-04"
     }
   ]
 }
