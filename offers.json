@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-10-11T13:57:29.363420Z",
+  "lastChecked": "2026-10-11T18:47:06.338664Z",
   "offers": [
     {
       "store": "Lidl",
       "product": "COCA-COLA/FANTA Läsk",
-      "description": "",
-      "price": null,
-      "image": null,
+      "description": "4-pack\nLägsta 30-dgrs pris: 66.15\nVälj mellan olika sorter\nPant tillkommer\n4×1,5 l\nJfr 8,32 kr/l\nMax 3 förp./hushåll\n-24%",
+      "price": "49.90 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6fnNMVnZ%2Fp-replacement-l5KcXtOx-8.webp&w=600&x1r=0.02&x2r=0.64&y1r=0.07&y2r=0.49&s=b979e80c7432d0873597290fcee4ac71",
       "validFrom": "2026-10-11T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "Lidl:COCA-COLA/FANTA Läsk:2026-10-11"
@@ -14,9 +14,9 @@
     {
       "store": "Willys",
       "product": "COCA COLA 15-PACK",
-      "description": "COCA-COLA ZERO • COCA-COLA • 15p/33cl\nOlika sorter • Jämförpris 12:10 kr/l +pant\nMax 3 köp/hushåll • Lägsta 30-dgrspris 99:90 kr\nFör dig med WillysPlus\n+pant\nSPARA 40:00",
+      "description": "COCA-COLA ZERO • COCA-COLA • 15p/33cl Olika sorter • Jämförpris 12:10 kr/l +pant Max 3 köp/hushåll • Lägsta 30-dgrspris 99:90 kr",
       "price": "59.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8c5hJQdA%2Fp-1.webp&w=600&x1r=0.35&x2r=0.68&y1r=0.72&y2r=0.94&s=6f317b0314c5bbca6f6de9717d5bb91e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fp9RTRBxT%2Fp-5.webp&w=600&x1r=0.01&x2r=0.51&y1r=0.73&y2r=0.93&s=5fee362b0f3607083bc5e5b4cb8d8638",
       "validFrom": "2026-10-04T22:00:00+0000",
       "validTo": "2026-10-11T21:59:59+0000",
       "key": "Willys:COCA COLA 15-PACK:2026-10-04"
@@ -26,7 +26,7 @@
       "product": "LÄSK 6-PACK",
       "description": "SPRITE ZERO • COCA-COLA ZERO • FANTA\nCOCA-COLA • 6p/33cl • Olika sorter\nJämförpris 15:10 kr/l +pant • Max 3 köp/hushåll\nLägsta 30-dgrspris 44:90 kr\n+pant\nSPARA 15:00",
       "price": "29.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FtAqk8sMZ%2Fp-1.webp&w=600&x1r=0&x2r=0.35&y1r=0.62&y2r=0.93&s=433e5ef1000a2ffba06df758595f2232",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F-z-YR_QN%2Fp-1.webp&w=600&x1r=0&x2r=0.35&y1r=0.62&y2r=0.93&s=2dcfd4d5cae3339ee8b2e5d057ea2074",
       "validFrom": "2026-10-04T22:00:00+0000",
       "validTo": "2026-10-11T21:59:59+0000",
       "key": "Willys Hemma:LÄSK 6-PACK:2026-10-04"
@@ -36,7 +36,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta. 10 x 33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FGJfGlWwg%2Fp-6.webp&w=600&x1r=0.057&x2r=0.305&y1r=0.125&y2r=0.364&s=0e0089311f3e8b3405d743edd51a7139",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgPxeh_qA%2Fp-8.webp&w=600&x1r=0.057&x2r=0.305&y1r=0.125&y2r=0.364&s=67e14a40a41b529024a3afde94286998",
       "validFrom": "2026-10-04T22:00:00+0000",
       "validTo": "2026-10-11T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-10-04"
@@ -66,7 +66,7 @@
       "product": "Läsk",
       "description": "Fanta, Sprite, Coca-Cola. 33 cl. Jfr pris 18:18/liter +pant.",
       "price": "60.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMPZUof0f%2Fp-11.webp&w=600&x1r=0.41&x2r=0.91&y1r=0.33&y2r=0.64&s=81a6d8a4c817cd79a49a45c712c70cab",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FaYGLqhsi%2Fp-11.webp&w=600&x1r=0.41&x2r=0.91&y1r=0.33&y2r=0.64&s=79aafac3e031e244b1fadcc7177fd148",
       "validFrom": "2026-10-04T22:00:00+0000",
       "validTo": "2026-10-11T21:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-10-04"
@@ -86,7 +86,7 @@
       "product": "Coca-Cola",
       "description": "Coca-Cola Company. 6 x 33 cl. Original/Zero. Jfr pris 19:95/lit exkl pant.",
       "price": "79.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVKvfqtZm%2Fp-1.webp&w=600&x1r=0.71&x2r=0.948&y1r=0.502&y2r=0.738&s=6ddc701d1d04191bff46cb9dd5028d1f",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPvV7ZCLl%2Fp-1.webp&w=600&x1r=0.71&x2r=0.948&y1r=0.502&y2r=0.738&s=3c7f9805a263abb405b15d7f1967eaf5",
       "validFrom": "2026-10-04T22:00:00+0000",
       "validTo": "2026-10-11T21:59:59+0000",
       "key": "ICA Nära:Coca-Cola:2026-10-04"
@@ -96,7 +96,7 @@
       "product": "Läsk 6-pack",
       "description": "Pepsi/Zingo. Välj mellan olika sorter. 6x33 cl. Jfr-pris 14:90/liter. Pant tillkommer.",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F1CZ-j4fb%2Fp-12.webp&w=600&x1r=0.658&x2r=0.985&y1r=0.243&y2r=0.484&s=e7797bee7746a84e9c653b8bb662a2f2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbrC3w-Pr%2Fp-7.webp&w=600&x1r=0.33&x2r=0.668&y1r=0.46&y2r=0.728&s=82f9bd064d4480e755813190f64d7b2f",
       "validFrom": "2026-10-04T22:00:00+0000",
       "validTo": "2026-10-11T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-10-04"
@@ -106,7 +106,7 @@
       "product": "Läsk 6-pack",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 17:42/liter. Pant tillkommer.",
       "price": "69.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FnDSWHcjS%2Fp-6.webp&w=600&x1r=0.01&x2r=0.34&y1r=0.5&y2r=0.96&s=44e5bed214de7cb210a557d56d73e571",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FueH-r2Mh%2Fp-8.webp&w=600&x1r=0.35&x2r=0.95&y1r=0.7&y2r=0.94&s=80277249ac583dab748472aa6ac9faff",
       "validFrom": "2026-10-11T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-10-11"
