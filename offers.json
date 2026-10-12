@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-10-12T02:14:31.088193Z",
+  "lastChecked": "2026-10-12T10:36:27.464070Z",
   "offers": [
     {
       "store": "Lidl",
       "product": "COCA-COLA/FANTA Läsk",
       "description": "4-pack\nLägsta 30-dgrs pris: 66.15\nVälj mellan olika sorter\nPant tillkommer\n4×1,5 l\nJfr 8,32 kr/l\nMax 3 förp./hushåll\n-24%",
       "price": "49.90 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F6fnNMVnZ%2Fp-replacement-l5KcXtOx-8.webp&w=600&x1r=0.02&x2r=0.64&y1r=0.07&y2r=0.49&s=b979e80c7432d0873597290fcee4ac71",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUdJYprht%2Fp-replacement-iWhAg2I1-8.webp&w=600&x1r=0.02&x2r=0.64&y1r=0.07&y2r=0.49&s=0eb5092ba7607b9c5be3471358f08db4",
       "validFrom": "2026-10-11T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "Lidl:COCA-COLA/FANTA Läsk:2026-10-11"
@@ -14,9 +14,9 @@
     {
       "store": "ICA Kvantum",
       "product": "Läsk",
-      "description": "Pepsi. 10 x 33 cl.\nJfr pris 16:67/liter + pant.",
+      "description": "Pepsi. 10 x 33 cl. Jfr pris 16:67/liter +pant.",
       "price": "110.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLbUgvpJ6%2Fp-7.webp&w=600&x1r=0.035&x2r=0.28&y1r=0.282&y2r=0.505&s=a5d4e6266dcbfa0780e33b9d5ece2afa",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FyH4EgsaY%2Fp-7.webp&w=600&x1r=0.04&x2r=0.29&y1r=0.28&y2r=0.51&s=964051f9ce8c6cec7a62dd04c251ee29",
       "validFrom": "2026-10-11T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "ICA Kvantum:Läsk:2026-10-11"
@@ -36,7 +36,7 @@
       "product": "Läsk 6-pack",
       "description": "Coca-Cola/Fanta/Sprite. Välj mellan olika sorter. 6x33 cl. Jfr-pris 17:42/liter. Pant tillkommer.",
       "price": "69.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FueH-r2Mh%2Fp-8.webp&w=600&x1r=0.35&x2r=0.95&y1r=0.7&y2r=0.94&s=80277249ac583dab748472aa6ac9faff",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FDox1I4hY%2Fp-6.webp&w=600&x1r=0.01&x2r=0.35&y1r=0.48&y2r=0.97&s=051f3fb084aad25c2e2988466ee764fa",
       "validFrom": "2026-10-11T22:00:00+0000",
       "validTo": "2026-10-18T21:59:59+0000",
       "key": "Coop:Läsk 6-pack:2026-10-11"
