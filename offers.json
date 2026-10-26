@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-26T12:47:18.551550Z",
+  "lastChecked": "2026-10-26T19:08:34.504705Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "COCA-COLA • FANTA • SPRITE • 1,5l\nOlika sorter • Jämförpris 7:33 kr/l\n+pant • Max 5 köp/hushåll\nLägsta 30-dgrspris 19:40 kr",
       "price": "55.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoT2f246d%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=744c20800816becfc0ea5f144e8fa9bd",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrqRCimxV%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=b66a53aba5850b4106bd0c6d4ac86000",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "Willys:LÄSK:2026-10-25"
@@ -46,27 +46,27 @@
       "product": "Läsk",
       "description": "Pepsi, Zingo, 7-up. 150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpTrWwoxY%2Fp-1.webp&w=600&x1r=0.038&x2r=0.415&y1r=0.384&y2r=0.596&s=3ac93e7f1167de1c85f3978ad61d0d3e",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F23EFgGNB%2Fp-1.webp&w=600&x1r=0.038&x2r=0.413&y1r=0.384&y2r=0.605&s=5bcd117b1623987afccc9c4f05b6ff3d",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-10-25"
     },
     {
       "store": "ICA Supermarket",
-      "product": "Pepsi, Zingo, 7up Flak",
-      "description": "Pepsi.",
-      "price": "399.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FW_ZmCi-J%2Fp-1.webp&w=600&x1r=0.457&x2r=0.916&y1r=0.718&y2r=0.945&s=3e4869e5c56046c68453fc822e61825f",
-      "validFrom": "2026-10-12T22:00:00+0000",
-      "validTo": "2026-12-20T22:59:59+0000",
-      "key": "ICA Supermarket:Pepsi, Zingo, 7up Flak:2026-10-12"
+      "product": "Läsk Pepsi, Zingo, 7-up",
+      "description": "150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
+      "price": "45.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FzU7w4B1z%2Fp-1.webp&w=600&x1r=0.035&x2r=0.415&y1r=0.383&y2r=0.596&s=f5620f28f27ec1845d12a9c22ee37119",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "ICA Supermarket:Läsk Pepsi, Zingo, 7-up:2026-10-25"
     },
     {
       "store": "ICA Nära",
       "product": "Läsk",
-      "description": "Coca-Cola, Fanta, Sprite. 1,5 liter. Gäller flera smaker. Jfr pris 10:00/liter + pant.",
+      "description": "Coca-Cola, Fanta, Sprite. 1,5 liter.\nGäller flera smaker. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJx2U967F%2Fp-1.webp&w=600&x1r=0.301&x2r=0.912&y1r=0.229&y2r=0.505&s=b845dc433ff5b49a41cfad8fa63332d6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FK-eSez4w%2Fp-1.webp&w=600&x1r=0.3&x2r=0.91&y1r=0.23&y2r=0.51&s=80bd3b0e4c242f6d264ae4d5a5fbe65e",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Nära:Läsk:2026-10-25"
@@ -74,9 +74,9 @@
     {
       "store": "ICA Nära",
       "product": "Pepsi",
-      "description": "Carlsberg. 6 x 33 cl. Original/Max. Jfr pris 19:70/lit exkl pant.",
+      "description": "Carlsberg, 6 x 33 cl. Original/Max. Jfr pris 19:70/lit exkl pant.",
       "price": "39.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fqx8MvRbq%2Fp-12.webp&w=600&x1r=0.72&x2r=0.96&y1r=0.52&y2r=0.73&s=f9741a8ab7cff332f96431661e0ba24c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfAZHZfMe%2Fp-12.webp&w=600&x1r=0.72&x2r=0.966&y1r=0.52&y2r=0.73&s=1d0f18442662f0e0655cd102cb2ae36f",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Nära:Pepsi:2026-10-25"
