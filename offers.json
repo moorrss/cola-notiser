@@ -1,12 +1,22 @@
 {
-  "lastChecked": "2026-10-26T05:57:28.761728Z",
+  "lastChecked": "2026-10-26T12:47:18.551550Z",
   "offers": [
+    {
+      "store": "Lidl",
+      "product": "COCA-COLA/ SPRITE/FANTA Läsk",
+      "description": "2 liter\nVälj mellan olika sorter\nPant tillkommer\nJfr 8,95 kr/l\nSuperpris",
+      "price": "17.90 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FkaK74RC3%2Fp-replacement-Ba3XKla9-7.webp&w=600&x1r=0.35&x2r=0.98&y1r=0.49&y2r=0.95&s=c7ad04c1d658befc79a8db2f2e996e9c",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "Lidl:COCA-COLA/ SPRITE/FANTA Läsk:2026-10-25"
+    },
     {
       "store": "Willys",
       "product": "LÄSK",
       "description": "COCA-COLA • FANTA • SPRITE • 1,5l\nOlika sorter • Jämförpris 7:33 kr/l\n+pant • Max 5 köp/hushåll\nLägsta 30-dgrspris 19:40 kr",
       "price": "55.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4hBd4yvH%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=00db04ade8cbeb1d80af371b4f18b4bc",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FoT2f246d%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=744c20800816becfc0ea5f144e8fa9bd",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "Willys:LÄSK:2026-10-25"
@@ -16,7 +26,7 @@
       "product": "LÄSK",
       "description": "COCA-COLA • FANTA SPRITE • 1,5l • Olika sorter Jämförpris 8:67 kr/l +pant Max 3 köp/hushåll Lägsta 30-dgrspris 20:72 kr",
       "price": "26.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FViTPFQkG%2Fp-1.webp&w=600&x1r=0.74&x2r=0.99&y1r=0.17&y2r=0.5&s=c0f61bccf652fc82a91de4418dc7dda2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FPCCmcZqQ%2Fp-1.webp&w=600&x1r=0.74&x2r=0.99&y1r=0.17&y2r=0.5&s=4351779141ca02514cf8602120336494",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-10-25"
@@ -36,7 +46,7 @@
       "product": "Läsk",
       "description": "Pepsi, Zingo, 7-up. 150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Feejm0eUO%2Fp-1.webp&w=600&x1r=0.035&x2r=0.415&y1r=0.38&y2r=0.605&s=17885fdf642c9160f2a0ab2075fde471",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FpTrWwoxY%2Fp-1.webp&w=600&x1r=0.038&x2r=0.415&y1r=0.384&y2r=0.596&s=3ac93e7f1167de1c85f3978ad61d0d3e",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-10-25"
@@ -50,6 +60,26 @@
       "validFrom": "2026-10-12T22:00:00+0000",
       "validTo": "2026-12-20T22:59:59+0000",
       "key": "ICA Supermarket:Pepsi, Zingo, 7up Flak:2026-10-12"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "Läsk",
+      "description": "Coca-Cola, Fanta, Sprite. 1,5 liter. Gäller flera smaker. Jfr pris 10:00/liter + pant.",
+      "price": "45.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJx2U967F%2Fp-1.webp&w=600&x1r=0.301&x2r=0.912&y1r=0.229&y2r=0.505&s=b845dc433ff5b49a41cfad8fa63332d6",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "ICA Nära:Läsk:2026-10-25"
+    },
+    {
+      "store": "ICA Nära",
+      "product": "Pepsi",
+      "description": "Carlsberg. 6 x 33 cl. Original/Max. Jfr pris 19:70/lit exkl pant.",
+      "price": "39.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fqx8MvRbq%2Fp-12.webp&w=600&x1r=0.72&x2r=0.96&y1r=0.52&y2r=0.73&s=f9741a8ab7cff332f96431661e0ba24c",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "ICA Nära:Pepsi:2026-10-25"
     },
     {
       "store": "Hemköp",
