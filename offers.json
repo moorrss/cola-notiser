@@ -1,6 +1,46 @@
 {
-  "lastChecked": "2026-10-26T00:03:56.185762Z",
+  "lastChecked": "2026-10-26T05:57:28.761728Z",
   "offers": [
+    {
+      "store": "Willys",
+      "product": "LÄSK",
+      "description": "COCA-COLA • FANTA • SPRITE • 1,5l\nOlika sorter • Jämförpris 7:33 kr/l\n+pant • Max 5 köp/hushåll\nLägsta 30-dgrspris 19:40 kr",
+      "price": "55.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4hBd4yvH%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=00db04ade8cbeb1d80af371b4f18b4bc",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "Willys:LÄSK:2026-10-25"
+    },
+    {
+      "store": "Willys Hemma",
+      "product": "LÄSK",
+      "description": "COCA-COLA • FANTA SPRITE • 1,5l • Olika sorter Jämförpris 8:67 kr/l +pant Max 3 köp/hushåll Lägsta 30-dgrspris 20:72 kr",
+      "price": "26.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FViTPFQkG%2Fp-1.webp&w=600&x1r=0.74&x2r=0.99&y1r=0.17&y2r=0.5&s=c0f61bccf652fc82a91de4418dc7dda2",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "Willys Hemma:LÄSK:2026-10-25"
+    },
+    {
+      "store": "ICA Kvantum",
+      "product": "Läsk 20-pack",
+      "description": "Coca-Cola. 20x33 cl. Coca cola Original, Coca cola Zero. Jfr pris 15:00/lit exkl pant. 30 dgr pris 133:67 - 136:87+pant.",
+      "price": "99.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FuRytzJyY%2Fp-10.webp&w=600&x1r=0.51&x2r=0.946&y1r=0.045&y2r=0.245&s=fff4032b3b5674a18e5ec2c9811a3249",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "ICA Kvantum:Läsk 20-pack:2026-10-25"
+    },
+    {
+      "store": "ICA Supermarket",
+      "product": "Läsk",
+      "description": "Pepsi, Zingo, 7-up. 150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
+      "price": "45.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Feejm0eUO%2Fp-1.webp&w=600&x1r=0.035&x2r=0.415&y1r=0.38&y2r=0.605&s=17885fdf642c9160f2a0ab2075fde471",
+      "validFrom": "2026-10-25T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "ICA Supermarket:Läsk:2026-10-25"
+    },
     {
       "store": "ICA Supermarket",
       "product": "Pepsi, Zingo, 7up Flak",
