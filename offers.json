@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-28T01:07:45.672533Z",
+  "lastChecked": "2026-10-28T08:15:51.079631Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "COCA-COLA • FANTA • SPRITE • 1,5l\nOlika sorter • Jämförpris 7:33 kr/l\n+pant • Max 5 köp/hushåll\nLägsta 30-dgrspris 19:40 kr",
       "price": "55.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTQt_467K%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=cd33b8bdcc37db153299f2c6680784ed",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbvXlMbiQ%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=39f969ae4f235a1e5803ba3f13a9cec6",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "Willys:LÄSK:2026-10-25"
@@ -26,7 +26,7 @@
       "product": "LÄSK",
       "description": "COCA-COLA • FANTA SPRITE • 1,5l • Olika sorter Jämförpris 8:67 kr/l +pant Max 3 köp/hushåll Lägsta 30-dgrspris 20:72 kr",
       "price": "26.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FA0ACurkV%2Fp-1.webp&w=600&x1r=0.74&x2r=0.99&y1r=0.17&y2r=0.5&s=4de377c6eb4199ad3fccee552e8ec2a2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgJV1Fg4n%2Fp-1.webp&w=600&x1r=0.74&x2r=0.99&y1r=0.17&y2r=0.5&s=cafb7e98cc807b77772e0ead489ab6cd",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "Willys Hemma:LÄSK:2026-10-25"
@@ -46,7 +46,7 @@
       "product": "Läsk",
       "description": "Pepsi, Zingo, 7-up. 150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrSOq1aB-%2Fp-1.webp&w=600&x1r=0.038&x2r=0.416&y1r=0.383&y2r=0.589&s=af1492374923e09f28e4f45f5ec4e928",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FK-YQ8RPG%2Fp-1.webp&w=600&x1r=0.035&x2r=0.418&y1r=0.38&y2r=0.598&s=bf7d75951b7504b070744611798bd809",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-10-25"
@@ -56,20 +56,10 @@
       "product": "Läsk Pepsi, Zingo, 7-up",
       "description": "150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Faa1hnCM5%2Fp-1.webp&w=600&x1r=0.03&x2r=0.43&y1r=0.38&y2r=0.6&s=4ebc98b223bd8d725d2c7e3586380d77",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fg8T1z28J%2Fp-1.webp&w=600&x1r=0.15&x2r=0.265&y1r=0.775&y2r=0.96&s=a6d204eb32829bc5487df3df99b953f6",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Supermarket:Läsk Pepsi, Zingo, 7-up:2026-10-25"
-    },
-    {
-      "store": "ICA Supermarket",
-      "product": "Coca-cola",
-      "description": "",
-      "price": null,
-      "image": null,
-      "validFrom": "2026-10-26T23:00:00+0000",
-      "validTo": "2026-11-01T22:59:59+0000",
-      "key": "ICA Supermarket:Coca-cola:2026-10-26"
     },
     {
       "store": "ICA Supermarket",
@@ -82,11 +72,21 @@
       "key": "ICA Supermarket:Pepsi Max:2026-10-26"
     },
     {
+      "store": "ICA Supermarket",
+      "product": "Coca-cola",
+      "description": "",
+      "price": null,
+      "image": null,
+      "validFrom": "2026-10-26T23:00:00+0000",
+      "validTo": "2026-11-01T22:59:59+0000",
+      "key": "ICA Supermarket:Coca-cola:2026-10-26"
+    },
+    {
       "store": "ICA Nära",
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 1,5 liter. Gäller flera smaker. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FNvddNQR8%2Fp-1.webp&w=600&x1r=0.29&x2r=0.91&y1r=0.23&y2r=0.518&s=1497ecec4537aba90984365442d3d380",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FJYbZaNSG%2Fp-1.webp&w=600&x1r=0.29&x2r=0.92&y1r=0.22&y2r=0.51&s=4af0151ed02036d7cc396b3e468fe16d",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Nära:Läsk:2026-10-25"
