@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-10-29T14:05:50.147295Z",
+  "lastChecked": "2026-10-29T20:10:29.589127Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "LÄSK",
       "description": "COCA-COLA • FANTA • SPRITE • 1,5l\nOlika sorter • Jämförpris 7:33 kr/l\n+pant • Max 5 köp/hushåll\nLägsta 30-dgrspris 19:40 kr",
       "price": "55.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiXl0vWwt%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=d9d3578d1426e0e458d5d968c5d66788",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F8o2x3PUd%2Fp-1.webp&w=600&x1r=0.01&x2r=0.25&y1r=0.17&y2r=0.46&s=9c382f183ac1014488488fcd85384f3e",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "Willys:LÄSK:2026-10-25"
@@ -44,9 +44,9 @@
     {
       "store": "ICA Supermarket",
       "product": "Läsk",
-      "description": "Pepsi, Zingo, 7-up. 150 cl.\nFlera olika sorter. Jfr pris 10:00/liter + pant.",
+      "description": "Pepsi, Zingo, 7-up. 150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVsR_P0zS%2Fp-1.webp&w=600&x1r=0.03&x2r=0.43&y1r=0.38&y2r=0.775&s=1e8a7d0b9054405d9c629865173b0ef8",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FrSOq1aB-%2Fp-1.webp&w=600&x1r=0.038&x2r=0.416&y1r=0.383&y2r=0.589&s=af1492374923e09f28e4f45f5ec4e928",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-10-25"
@@ -56,7 +56,7 @@
       "product": "Läsk Pepsi, Zingo, 7-up",
       "description": "150 cl. Flera olika sorter. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx12x1O0e%2Fp-1.webp&w=600&x1r=0.03&x2r=0.42&y1r=0.38&y2r=0.59&s=4b94f6eb0e3810de087d73ed7e5d86f3",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fo1iV48Cr%2Fp-1.webp&w=600&x1r=0.03&x2r=0.42&y1r=0.38&y2r=0.6&s=15cb0523725c8e7b750a3c4d4582c630",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Supermarket:Läsk Pepsi, Zingo, 7-up:2026-10-25"
@@ -86,7 +86,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 1,5 liter. Gäller flera smaker. Jfr pris 10:00/liter + pant.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FVgdKVRLw%2Fp-1.webp&w=600&x1r=0.29&x2r=0.91&y1r=0.22&y2r=0.52&s=2c792e6564b34a13a2cff95a73aff7be",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fi7jysJ6n%2Fp-1.webp&w=600&x1r=0.29&x2r=0.91&y1r=0.22&y2r=0.51&s=dff17250eeacc7985ce55bf49073ac10",
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Nära:Läsk:2026-10-25"
@@ -100,6 +100,26 @@
       "validFrom": "2026-10-25T23:00:00+0000",
       "validTo": "2026-11-01T22:59:59+0000",
       "key": "ICA Nära:Pepsi:2026-10-25"
+    },
+    {
+      "store": "Coop",
+      "product": "Läsk",
+      "description": "Pepsi/Zingo/7UP/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 14:39/liter. Pant tillkommer.",
+      "price": "95.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAXmcZ7RU%2Fp-7.webp&w=600&x1r=0.054&x2r=0.645&y1r=0.038&y2r=0.472&s=5ddeab7be5f04306ca77338c1f4a5979",
+      "validFrom": "2026-11-01T23:00:00+0000",
+      "validTo": "2026-11-08T22:59:59+0000",
+      "key": "Coop:Läsk:2026-11-01"
+    },
+    {
+      "store": "Coop",
+      "product": "Monster",
+      "description": "GÄLLER ENERGIDRYCKER\nCoca-Cola. 500 ml.Jfr-pris 20:-/liter. Välj mellan olika sorter. Pant tillkommer.",
+      "price": "20.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fw0MlF8gn%2Fp-3.webp&w=600&x1r=0.66&x2r=0.95&y1r=0.46&y2r=0.72&s=bbb965ac0e009acaf29e790168c256cc",
+      "validFrom": "2026-11-04T23:00:00+0000",
+      "validTo": "2026-11-08T22:59:59+0000",
+      "key": "Coop:Monster:2026-11-04"
     },
     {
       "store": "Hemköp",
