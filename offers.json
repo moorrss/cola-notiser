@@ -1,12 +1,12 @@
 {
-  "lastChecked": "2026-11-07T09:53:17.837083Z",
+  "lastChecked": "2026-11-07T16:16:32.692224Z",
   "offers": [
     {
       "store": "Willys",
       "product": "LÄSK",
       "description": "FANTA • COCA-COLA • FANTA ZERO COCA-COLA ZERO • SPRITE • 50cl Olika sorter • Jämförpris 26:00 kr/l +pant Lägsta 30-dgrspris 14:90 kr",
       "price": "26.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZQnXlk6c%2Fp-14.webp&w=600&x1r=0.03&x2r=0.3&y1r=0.71&y2r=0.97&s=d7c305bf4596bfb59e771e5aec372c4b",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_42qCl9j%2Fp-10.webp&w=600&x1r=0.035&x2r=0.3&y1r=0.71&y2r=0.965&s=8c943ad0892501877eaffb7f577608b7",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "Willys:LÄSK:2026-11-01"
@@ -26,7 +26,7 @@
       "product": "Läsk",
       "description": "Coca-Cola, Fanta, Sprite. 1,5 liter. Flera olika sorter. Jfr pris 11:67/liter + pant.",
       "price": "35.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F3Dca_G8O%2Fp-8.webp&w=600&x1r=0.07&x2r=0.373&y1r=0.505&y2r=0.957&s=7d0b09f88684663cc7d63050dc4462f3",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZV6d7Zfo%2Fp-8.webp&w=600&x1r=0.07&x2r=0.38&y1r=0.51&y2r=0.96&s=cc4113b11f1e785276911c043a407559",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-08T22:59:59+0000",
       "key": "ICA Supermarket:Läsk:2026-11-01"
@@ -34,9 +34,9 @@
     {
       "store": "ICA Supermarket",
       "product": "Coca-cola",
-      "description": "4x1,5 liter. Jfr pris 7:18/liter exkl pant.",
-      "price": "86.14 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F06EaazRJ%2Fp-1.webp&w=600&x1r=0.08&x2r=0.38&y1r=0.23&y2r=0.53&s=ccddbdf3033d9b3cc5987c566c89021a",
+      "description": "",
+      "price": null,
+      "image": null,
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-15T22:59:59+0000",
       "key": "ICA Supermarket:Coca-cola:2026-11-01"
@@ -46,7 +46,7 @@
       "product": "Läsk",
       "description": "Pepsi. 6-pack. Gäller flera olika sorter. Jfr pris 17:42/liter + pant.",
       "price": "69.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FRjKeeu_r%2Fp-6.webp&w=600&x1r=0.589&x2r=0.963&y1r=0.389&y2r=0.94&s=0cf122bbf3c6cefed52cccca67d17518",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FY745dGts%2Fp-6.webp&w=600&x1r=0.589&x2r=0.963&y1r=0.389&y2r=0.94&s=784669fbd6cc3a694d2b6d4a0a033c39",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-08T22:59:59+0000",
       "key": "ICA Nära:Läsk:2026-11-01"
@@ -66,7 +66,7 @@
       "product": "Coca-Cola 4-pack",
       "description": "Coca-Cola. 4 x 1,5 liter. Original, Zero. Jfr pris 9:83/lit exkl pant.",
       "price": "59.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZzxb1u7p%2Fp-1.webp&w=600&x1r=0.36&x2r=0.94&y1r=0.23&y2r=0.495&s=fc9ad4c430b5b219b61325c92dd3dea6",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fcea-d8NW%2Fp-1.webp&w=600&x1r=0.36&x2r=0.94&y1r=0.23&y2r=0.495&s=8a45df41dbaaffada1dbde8ae82f9fbe",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-08T22:59:59+0000",
       "key": "ICA Nära:Coca-Cola 4-pack:2026-11-01"
@@ -76,7 +76,7 @@
       "product": "Läsk",
       "description": "Pepsi/Zingo/7UP/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 14:39/liter. Pant tillkommer.",
       "price": "95.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FgN7ZvErZ%2Fp-7.webp&w=600&x1r=0.054&x2r=0.645&y1r=0.038&y2r=0.472&s=d2cbf5296d48b93eda530770c5bddd02",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAXmcZ7RU%2Fp-7.webp&w=600&x1r=0.054&x2r=0.645&y1r=0.038&y2r=0.472&s=5ddeab7be5f04306ca77338c1f4a5979",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-08T22:59:59+0000",
       "key": "Coop:Läsk:2026-11-01"
