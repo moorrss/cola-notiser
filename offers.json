@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-08T23:36:26.667623Z",
+  "lastChecked": "2026-11-09T05:57:41.760407Z",
   "offers": [
     {
       "store": "Supergrossen",
@@ -10,6 +10,46 @@
       "validFrom": "2026-11-08T23:00:00+0000",
       "validTo": "2026-11-15T22:59:59+0000",
       "key": "Supergrossen:Coca-Cola Zero Lemon:2026-11-08"
+    },
+    {
+      "store": "Willys",
+      "product": "PEPSI MAX, JULMUST 20-PACK",
+      "description": "PEPSI • APOTEKARNES • 20p/33cl • Olika sorter • Jämförpris 15:00 kr/l +pant Lägsta 30-dgrspris 112:00-129:00 kr",
+      "price": "99.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4TdI6UPb%2Fp-11.webp&w=600&x1r=0.26&x2r=0.73&y1r=0.62&y2r=0.95&s=4e6f0c433680dcf3db523d3828d011e6",
+      "validFrom": "2026-11-01T23:00:00+0000",
+      "validTo": "2026-11-29T22:59:59+0000",
+      "key": "Willys:PEPSI MAX, JULMUST 20-PACK:2026-11-01"
+    },
+    {
+      "store": "Willys",
+      "product": "LÄSK",
+      "description": "FANTA • COCA-COLA • FANTA ZERO COCA-COLA ZERO • SPRITE • 50cl Olika sorter • Jämförpris 26:00 kr/l +pant Lägsta 30-dgrspris 14:90 kr\n+pant",
+      "price": "26.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FdMDYoYYt%2Fp-13.webp&w=600&x1r=0.025&x2r=0.315&y1r=0.712&y2r=0.972&s=b814e2ea4655104b576c75507301ffcc",
+      "validFrom": "2026-11-01T23:00:00+0000",
+      "validTo": "2026-11-29T22:59:59+0000",
+      "key": "Willys:LÄSK:2026-11-01"
+    },
+    {
+      "store": "Willys",
+      "product": "PEPSI MAX, JULMUST 20-PACK",
+      "description": "",
+      "price": null,
+      "image": null,
+      "validFrom": "2026-11-08T23:00:00+0000",
+      "validTo": "2026-11-15T22:59:59+0000",
+      "key": "Willys:PEPSI MAX, JULMUST 20-PACK:2026-11-08"
+    },
+    {
+      "store": "ICA Kvantum",
+      "product": "Pepsi Max",
+      "description": "Pepsi. 1.5 l. Jfr pris 7:33/lit exkl pant. Max 3 köp/hushåll.",
+      "price": "99.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FfxtAEZHK%2Fp-5.webp&w=600&x1r=0.6&x2r=0.93&y1r=0.64&y2r=0.88&s=f0864b30fb949d237b3bc47c34d12eba",
+      "validFrom": "2026-11-11T23:00:00+0000",
+      "validTo": "2026-11-12T22:59:59+0000",
+      "key": "ICA Kvantum:Pepsi Max:2026-11-11"
     },
     {
       "store": "ICA Supermarket",
