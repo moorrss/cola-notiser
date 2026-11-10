@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-10T00:11:13.602731Z",
+  "lastChecked": "2026-11-10T08:14:29.548075Z",
   "offers": [
     {
       "store": "Supergrossen",
@@ -16,7 +16,7 @@
       "product": "PEPSI MAX, JULMUST 20-PACK",
       "description": "PEPSI • APOTEKARNES • 20p/33cl • Olika sorter • Jämförpris 15:00 kr/l +pant Lägsta 30-dgrspris 112:00-129:00 kr",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLI-67TRU%2Fp-15.webp&w=600&x1r=0.26&x2r=0.73&y1r=0.62&y2r=0.95&s=166eda10a4fb1549fe5293bf880ee176",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FMUOpUcvr%2Fp-11.webp&w=600&x1r=0.26&x2r=0.73&y1r=0.62&y2r=0.95&s=63b9682e0336ded7395743a268623c7f",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "Willys:PEPSI MAX, JULMUST 20-PACK:2026-11-01"
@@ -26,7 +26,7 @@
       "product": "LÄSK",
       "description": "PEPSI • 50cl • Jämförpris 19:08 kr/l +pant • Lägsta 30-dgrspris 12:50 kr",
       "price": "229.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLI-67TRU%2Fp-15.webp&w=600&x1r=0.04&x2r=0.33&y1r=0.61&y2r=0.95&s=7c76be2c6406771f1284325822454077",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0IKVSawr%2Fp-11.webp&w=600&x1r=0.04&x2r=0.33&y1r=0.61&y2r=0.95&s=bd3cd0021c41d981c5ac19a7f9a3ee87",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "Willys:LÄSK:2026-11-01"
@@ -54,9 +54,9 @@
     {
       "store": "ICA Supermarket",
       "product": "Coca-cola",
-      "description": "",
-      "price": null,
-      "image": null,
+      "description": "4x1,5 liter. Jfr pris 7:18/liter exkl pant.",
+      "price": "86.14 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F06EaazRJ%2Fp-1.webp&w=600&x1r=0.08&x2r=0.38&y1r=0.23&y2r=0.53&s=ccddbdf3033d9b3cc5987c566c89021a",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-15T22:59:59+0000",
       "key": "ICA Supermarket:Coca-cola:2026-11-01"
@@ -66,7 +66,7 @@
       "product": "Läsk 20-pack",
       "description": "Coca-Cola. Välj mellan original och zero. 20x33 cl. Jfr-pris 13:48/liter. Pant tillkommer. Tidigare lägsta pris 137:23/st.",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2vDHsvep%2Fp-1.webp&w=600&x1r=0.015&x2r=0.946&y1r=0.731&y2r=0.956&s=024d889b75f1ea63d7b9646a3525b187",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FKoBfO2ET%2Fp-1.webp&w=600&x1r=0.015&x2r=0.946&y1r=0.731&y2r=0.956&s=1a575b38f7289ec3df1ca7449d6816f0",
       "validFrom": "2026-11-08T23:00:00+0000",
       "validTo": "2026-11-15T22:59:59+0000",
       "key": "Coop X:-TRA:Läsk 20-pack:2026-11-08"
