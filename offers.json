@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-11T18:33:48.729350Z",
+  "lastChecked": "2026-11-12T01:27:01.438496Z",
   "offers": [
     {
       "store": "Supergrossen",
@@ -16,7 +16,7 @@
       "product": "PEPSI MAX, JULMUST 20-PACK",
       "description": "PEPSI • APOTEKARNES • 20p/33cl • Olika sorter • Jämförpris 15:00 kr/l +pant Lägsta 30-dgrspris 112:00-129:00 kr",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fx6wxEOpz%2Fp-11.webp&w=600&x1r=0.26&x2r=0.73&y1r=0.62&y2r=0.95&s=efec08b0cefba82b693ae58706bab00f",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FEn2VQ5ph%2Fp-11.webp&w=600&x1r=0.26&x2r=0.73&y1r=0.62&y2r=0.95&s=63d21310dd531f5a0df645588a8fd4dc",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "Willys:PEPSI MAX, JULMUST 20-PACK:2026-11-01"
@@ -24,9 +24,9 @@
     {
       "store": "Willys",
       "product": "LÄSK",
-      "description": "PEPSI • 50cl • Jämförpris 19:08 kr/l +pant • Lägsta 30-dgrspris 12:50 kr",
-      "price": "229.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0tExSpGW%2Fp-11.webp&w=600&x1r=0.04&x2r=0.33&y1r=0.61&y2r=0.95&s=af9ec34a6fd96316a62873603d34844b",
+      "description": "FANTA • COCA-COLA • FANTA ZERO COCA-COLA ZERO • SPRITE • 50cl Olika sorter • Jämförpris 26:00 kr/l +pant Lägsta 30-dgrspris 14:90 kr\n+pant",
+      "price": "26.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FXUZYIY2v%2Fp-13.webp&w=600&x1r=0.025&x2r=0.315&y1r=0.712&y2r=0.972&s=5670a19378f1c96831c32719e12be080",
       "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "Willys:LÄSK:2026-11-01"
@@ -76,7 +76,7 @@
       "product": "Läsk 20-pack",
       "description": "Coca-Cola. Välj mellan original och zero. 20x33 cl. Jfr-pris 13:48/liter. Pant tillkommer. Tidigare lägsta pris 137:23/st.",
       "price": "89.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FBrG2oFtE%2Fp-1.webp&w=600&x1r=0.015&x2r=0.946&y1r=0.731&y2r=0.956&s=5bec360dd971f639f25de43e0b9f94d8",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjiSaTcEb%2Fp-1.webp&w=600&x1r=0.015&x2r=0.946&y1r=0.731&y2r=0.956&s=d9372eb765b852c66257493e5b152f95",
       "validFrom": "2026-11-08T23:00:00+0000",
       "validTo": "2026-11-15T22:59:59+0000",
       "key": "Coop X:-TRA:Läsk 20-pack:2026-11-08"
@@ -86,7 +86,7 @@
       "product": "Läsk Pick & Mix",
       "description": "Pepsi/Zingo/7Up/Pommac/Mountain Dew. Välj mellan olika sorter. 33 cl. Jfr-pris 14:39/liter. Pant tillkommer. Ord. pris 8:99/st. Du sparar 84:80",
       "price": "95.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FZ9asTsdk%2Fp-6.webp&w=600&x1r=0.022&x2r=0.66&y1r=0.66&y2r=0.96&s=752f7162d597419299ce9b4a9f5c655c",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FUJhixKUX%2Fp-6.webp&w=600&x1r=0.022&x2r=0.66&y1r=0.66&y2r=0.96&s=c4cc3081ad935f003afa661baeaf503f",
       "validFrom": "2026-11-15T23:00:00+0000",
       "validTo": "2026-11-22T22:59:59+0000",
       "key": "Coop X:-TRA:Läsk Pick & Mix:2026-11-15"
@@ -96,7 +96,7 @@
       "product": "Läsk 4-pack",
       "description": "4-PACK Coca-Cola/Fanta. Välj mellan olika sorter. 4x150 cl. Jfr-pris 9:33/liter. Pant tillkommer. Tidigare lägsta pris 69:51/st. Du sparar 13:51",
       "price": "56.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0SBEJ27Q%2Fp-6.webp&w=600&x1r=0.352&x2r=0.698&y1r=0.342&y2r=0.66&s=2d6549e89019703acbeaaa131c1ea1a2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FjORx-iim%2Fp-6.webp&w=600&x1r=0.352&x2r=0.698&y1r=0.342&y2r=0.66&s=76e7a6fe8f8f4f79d57b999bdc6774cf",
       "validFrom": "2026-11-15T23:00:00+0000",
       "validTo": "2026-11-22T22:59:59+0000",
       "key": "Coop X:-TRA:Läsk 4-pack:2026-11-15"
