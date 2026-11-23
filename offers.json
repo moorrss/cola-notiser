@@ -1,5 +1,5 @@
 {
-  "lastChecked": "2026-11-23T02:27:20.828233Z",
+  "lastChecked": "2026-11-23T12:10:09.257999Z",
   "offers": [
     {
       "store": "Lidl",
@@ -16,7 +16,7 @@
       "product": "PEPSI MAX, JULMUST",
       "description": "PEPSI • APOTEKARNES • 20p/33cl Olika sorter Jämförpris 15:00 kr/l +pant Lägsta 30-dgrspris 112:00-129:00 kr",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIx8CJX1J%2Fp-14.webp&w=600&x1r=0.26&x2r=0.735&y1r=0.615&y2r=0.942&s=09c630a7937e036f0347db1ea3c7ee68",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FbHGGyfrj%2Fp-14.webp&w=600&x1r=0.26&x2r=0.735&y1r=0.615&y2r=0.942&s=8766e7dbaf733ccffcdd986015dd628c",
       "validFrom": "2026-11-08T23:00:00+0000",
       "validTo": "2026-12-25T22:59:59+0000",
       "key": "Willys:PEPSI MAX, JULMUST:2026-11-08"
@@ -26,20 +26,10 @@
       "product": "LÄSK",
       "description": "FANTA • COCA-COLA • FANTA ZERO COCA-COLA ZERO • SPRITE • 50cl Olika sorter • Jämförpris 26:00 kr/l +pant Lägsta 30-dgrspris 14:90 kr",
       "price": "26.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FTU7Sawq6%2Fp-16.webp&w=600&x1r=0.03&x2r=0.31&y1r=0.71&y2r=0.97&s=0223305e64a035897f225e0dfc5e0af2",
-      "validFrom": "2026-11-22T23:00:00+0000",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FYL2x29S8%2Fp-16.webp&w=600&x1r=0.027&x2r=0.305&y1r=0.71&y2r=0.965&s=316da68c39415242da8f0736244eb038",
+      "validFrom": "2026-11-01T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
-      "key": "Willys:LÄSK:2026-11-22"
-    },
-    {
-      "store": "Willys",
-      "product": "LÄSK",
-      "description": "PEPSI • 50cl • Jämförpris 19:08 kr/l +pant • Lägsta 30-dgrspris 12:50 kr",
-      "price": "229.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FAtM6gwyT%2Fp-14.webp&w=600&x1r=0.045&x2r=0.305&y1r=0.615&y2r=0.935&s=9f50905dca692a6e69073fbe763910c4",
-      "validFrom": "2026-11-08T23:00:00+0000",
-      "validTo": "2026-12-25T22:59:59+0000",
-      "key": "Willys:LÄSK:2026-11-08"
+      "key": "Willys:LÄSK:2026-11-01"
     },
     {
       "store": "Willys",
@@ -53,6 +43,16 @@
     },
     {
       "store": "ICA Supermarket",
+      "product": "Läsk",
+      "description": "Coca-Cola, Fanta. 10x33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "price": "99.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F_Y3xOpgr%2Fp-1.webp&w=600&x1r=0.04&x2r=0.43&y1r=0.38&y2r=0.805&s=34933044728c4fc7651c3a2fd216500b",
+      "validFrom": "2026-11-22T23:00:00+0000",
+      "validTo": "2026-11-29T22:59:59+0000",
+      "key": "ICA Supermarket:Läsk:2026-11-22"
+    },
+    {
+      "store": "ICA Supermarket",
       "product": "Pepsi Max",
       "description": "4x1,5 liter. Jfr pris 6:67/liter exkl pant.",
       "price": "80.00 SEK",
@@ -63,20 +63,20 @@
     },
     {
       "store": "ICA Supermarket",
-      "product": "Pepsi, Zingo, 7up Flak",
-      "description": "Pepsi.",
-      "price": "399.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FW_ZmCi-J%2Fp-1.webp&w=600&x1r=0.457&x2r=0.916&y1r=0.718&y2r=0.945&s=3e4869e5c56046c68453fc822e61825f",
-      "validFrom": "2026-10-12T22:00:00+0000",
-      "validTo": "2026-12-20T22:59:59+0000",
-      "key": "ICA Supermarket:Pepsi, Zingo, 7up Flak:2026-10-12"
+      "product": "Läsk Coca-Cola, Fanta",
+      "description": "10x33 cl. Jfr pris 15:00/liter + pant. Max 1 köp/hushåll.",
+      "price": "99.00 SEK",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FCC7AuM0A%2Fp-1.webp&w=600&x1r=0.03&x2r=0.44&y1r=0.38&y2r=0.93&s=f21287cd80a3bbea41fe70c827594dfa",
+      "validFrom": "2026-11-22T23:00:00+0000",
+      "validTo": "2026-11-29T22:59:59+0000",
+      "key": "ICA Supermarket:Läsk Coca-Cola, Fanta:2026-11-22"
     },
     {
       "store": "Coop",
       "product": "Läsk",
       "description": "Pepsi/Zingo/7UP/Pommac. Välj mellan olika sorter. 1,4-1,5 liter. Jfr-pris 10-10:71/liter. Pant tillkommer.",
       "price": "45.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fe3DxgpWm%2Fp-10.webp&w=600&x1r=0.652&x2r=0.948&y1r=0.26&y2r=0.705&s=23ffec3a867d0d809a3380d927a676e2",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FiQCjMpde%2Fp-11.webp&w=600&x1r=0.05&x2r=0.63&y1r=0.04&y2r=0.48&s=018968b4ff5a20f381ea50f6e81b57c2",
       "validFrom": "2026-11-22T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "Coop:Läsk:2026-11-22"
@@ -86,7 +86,7 @@
       "product": "Läsk",
       "description": "Pepsi/7UP/Zingo/Pommac. Välj mellan olika sorter. 140-150 cl. Jfr-pris 8:33-8:93/liter. Pant tillkommer. Ord. pris från 17:88/st.",
       "price": "25.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FxhHc_AAD%2Fp-8.webp&w=600&x1r=0.36&x2r=0.65&y1r=0.53&y2r=0.85&s=82254b52ed6d2e89115a8a02fffa6a22",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Fl7Q7zL2z%2Fp-8.webp&w=600&x1r=0.36&x2r=0.65&y1r=0.53&y2r=0.85&s=22623321d1e70cb325fe73480e48d886",
       "validFrom": "2026-11-25T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "Coop X:-TRA:Läsk:2026-11-25"
@@ -104,9 +104,9 @@
     {
       "store": "City Gross",
       "product": "Läsk, Julmust",
-      "description": "9 för 99:- + pant\nPepsi, 7up, Zingo, Apotekarnes, Grappo. 1,4-1,5 lit. Olika sorter. Jfr. pris 7,33-7,86/lit +pant. Ord. pris 15,95-20,75/st. Max 2 köp/hushåll.",
+      "description": "Pepsi, 7up, Zingo, Apotekarnes, Grappo. 1,4-1,5 lit. Olika sorter. Jfr. pris 7,33-7,86/lit +pant. Ord. pris 15,95-20,75/st. Max 2 köp/hushåll.",
       "price": "99.00 SEK",
-      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2Ffg_o8xkz%2Fp-replacement-ZHkKmWJV-1.webp&w=600&x1r=0.045&x2r=0.375&y1r=0.645&y2r=0.925&s=119c85168c9e3aa1de628f12a8e977f7",
+      "image": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FN36OXg6L%2Fp-replacement-xqOTQoX2-1.webp&w=600&x1r=0.047&x2r=0.368&y1r=0.643&y2r=0.925&s=76b29ca035a0dba8dd1ee20853180253",
       "validFrom": "2026-11-22T23:00:00+0000",
       "validTo": "2026-11-29T22:59:59+0000",
       "key": "City Gross:Läsk, Julmust:2026-11-22"
